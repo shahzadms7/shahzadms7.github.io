@@ -1,0 +1,66 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>SOL-04 · Enterprise Agentic AI Suite (vendor-agnostic Claude)</title>
+<link rel="stylesheet" href="../assets/css/style.css">
+<script src="../assets/js/mermaid.min.js"></script>
+</head><body>
+<nav class="top"><div class="in">
+<a class="logo" href="../index.html"><span>S</span><span>M</span><span>·</span><span>▪</span> Shahzad MS</a>
+<div class="links"><a href="../index.html">Home</a><a href="../solutions/index.html" style="color:#1a56c4">Solutions</a><a href="../resume.html">Résumé</a><a href="mailto:shahzad.ms@yahoo.com">Contact</a></div>
+</div></nav><div class="wrap doc"><section>
+  <div class="num" style="color:#5f6368;font-weight:800;letter-spacing:1.5px">SOL-04</div>
+  <h1><img class="ico" src="../assets/icons/anthropic.svg" alt=""> Enterprise Agentic AI Suite (vendor-agnostic Claude) <span class="badge b2">Anthropic</span></h1>
+  <div class="sub">🟨 Cross-cloud agentic operations delivered for enterprise workloads.</div>
+
+  <div class="docsec"><h3>🎯 Business Problem</h3><p>Safe, portable agent operations that run identically across every cloud.</p></div>
+
+  <div class="docsec"><h3>🏗️ End-to-End Architecture</h3>
+   <div class="diagram"><pre class="mermaid">flowchart LR
+  USERS["Employees · customers · developers"] --> ORCH["Orchestration<br/>LangGraph · CrewAI"]
+  ORCH --> GW["LiteLLM gateway"]
+  GW --> CLAUDE["Claude Opus 5 · Sonnet 4.6 · Haiku"]
+  CLAUDE --> MCP["MCP servers · tools · subagents"]
+  MCP --> SYS["Enterprise systems & data"]
+  CLAUDE --> PROD["Claude Code · Cowork · Science · Voice Mode · Skills"]
+  CLAUDE --> OBS["Langfuse · Arize Phoenix"]
+  RUN["Runs on: AWS Bedrock · Google Vertex AI · Microsoft Foundry"] -.-> CLAUDE</pre></div></div>
+
+  <div class="docsec"><h3>🔄 Workflow (Proof of Concept, A→Z)</h3>
+   <div class="diagram"><pre class="mermaid">sequenceDiagram
+  participant U as User
+  participant OR as LangGraph
+  participant GW as LiteLLM
+  participant CL as Claude
+  participant MCP as MCP tools
+  U->>OR: goal
+  OR->>GW: plan step
+  GW->>CL: prompt (any cloud backend)
+  CL->>MCP: call tool (governed)
+  MCP-->>CL: result
+  CL-->>U: outcome + trace</pre></div></div>
+
+  <div class="docsec"><h3>🧰 Technology Stack</h3><div class="chips"><span class="chip"><img class="ico" src="../assets/icons/anthropic.svg" alt="">Claude Managed Agents</span><span class="chip">Claude Code</span><span class="chip">Claude Cowork</span><span class="chip">MCP · A2A</span><span class="chip">LangGraph · CrewAI</span><span class="chip">LiteLLM</span><span class="chip"><img class="ico" src="../assets/icons/aws.svg" alt="">Bedrock</span><span class="chip"><img class="ico" src="../assets/icons/gcp.svg" alt="">Vertex AI</span><span class="chip"><img class="ico" src="../assets/icons/azure.svg" alt="">Foundry</span></div></div>
+
+  <div class="docsec"><h3>🔐 Security &amp; Governance</h3><ul><li>Sandboxed Managed Agents, MCP-scoped tool access</li><li>Vendor-agnostic — no lock-in across Bedrock / Vertex / Foundry</li><li>Langfuse / Arize Phoenix tracing + evaluation</li><li>Human-in-the-loop + guardrails on every tool call</li></ul></div>
+
+  <div class="docsec"><h3>🚀 Delivery — MVP → Pilot → Enterprise</h3>
+   <div class="phasebar">
+    <div class="phasebox pb0"><b>MVP</b>Claude API assistant with MCP tools</div>
+    <div class="phasebox pb1"><b>Pilot</b>Claude Code + Cowork + subagents</div>
+    <div class="phasebox pb2"><b>Enterprise</b>Managed Agents + Voice Mode + Skills, multi-cloud</div>
+   </div></div>
+
+  <div class="docsec"><h3>✅ Outcomes</h3><div class="out">Governed, portable agent operations · Same stack on any cloud · Enterprise-grade safety + observability</div></div>
+
+  <p style="margin-top:16px"><a class="btn" href="index.html">← All solutions</a><a class="btn g" href="../resume.html">📄 Résumé</a></p>
+ </section></div><div class="cta"><div class="bar4"><i></i><i></i><i></i><i></i></div><div class="wrap">
+ <h2>Let's build something real.</h2>
+ <p>Available for CTO · CIO · CISO, Principal / Enterprise Architect, and fractional / advisory engagements across North America and globally.</p>
+ <p style="margin-top:14px"><a class="btn" href="mailto:shahzad.ms@yahoo.com">✉ shahzad.ms@yahoo.com</a>
+ <a class="btn r" href="https://linkedin.com/in/shahzadms" target="_blank">in/shahzadms</a>
+ <a class="btn g" href="https://shahzadms7.github.io/" target="_blank">shahzadms7.github.io</a></p></div></div>
+ <footer><div class="bar4"><i></i><i></i><i></i><i></i></div>© 2026 Shahzad MS · Greater Toronto Area, Canada · Built once, runs forever — self-contained portfolio.</footer>
+ <script>mermaid.initialize({startOnLoad:true,theme:'base',themeVariables:{
+ primaryColor:'#e8f0fe',primaryTextColor:'#202124',primaryBorderColor:'#4285F4',lineColor:'#5f6368',
+ secondaryColor:'#feefc3',tertiaryColor:'#ceead6',fontFamily:'Google Sans,Roboto,sans-serif',fontSize:'13px'}});</script>
+ </body></html>
