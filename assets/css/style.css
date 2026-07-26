@@ -15,6 +15,15 @@ a{color:var(--blue-d);text-decoration:none}a:hover{text-decoration:underline}
 .wrap{max-width:1120px;margin:0 auto;padding:0 22px}
 img.ico{height:1.15em;width:auto;vertical-align:-.18em}
 img.ico-lg{height:34px;width:auto;vertical-align:middle}
+svg.icn{width:1.15em;height:1.15em;vertical-align:-.2em;fill:currentColor}
+svg.icn-lg{width:26px;height:26px;vertical-align:middle;fill:currentColor}
+.btn svg.icn,.btn img.ico{width:1.1em;height:1.1em;vertical-align:-.16em;margin-right:2px}
+
+/* one-page scroll-snap sectioning */
+@media(min-width:901px){
+ html{scroll-snap-type:y proximity}
+ section.snap{scroll-snap-align:start;min-height:100vh;display:flex;flex-direction:column;justify-content:center}
+}
 
 /* nav */
 nav.top{position:sticky;top:0;z-index:50;background:#fff;border-bottom:1px solid var(--line);box-shadow:0 1px 3px rgba(60,64,67,.08)}
