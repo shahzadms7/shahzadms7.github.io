@@ -19,10 +19,11 @@ svg.icn{width:1.15em;height:1.15em;vertical-align:-.2em;fill:currentColor}
 svg.icn-lg{width:26px;height:26px;vertical-align:middle;fill:currentColor}
 .btn svg.icn,.btn img.ico{width:1.1em;height:1.1em;vertical-align:-.16em;margin-right:2px}
 
-/* one-page scroll-snap sectioning */
+/* one-page scroll-snap sectioning — snap to each section's natural height, never
+   stretch short sections (Education, Awards, etc.) to a near-empty full screen */
 @media(min-width:901px){
  html{scroll-snap-type:y proximity}
- section.snap{scroll-snap-align:start;min-height:100vh;display:flex;flex-direction:column;justify-content:center}
+ section.snap{scroll-snap-align:start start;scroll-margin-top:58px}
 }
 
 /* nav */

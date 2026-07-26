@@ -4,17 +4,22 @@
 <link rel="stylesheet" href="../assets/css/style.css">
 <script src="../assets/js/mermaid.min.js"></script>
 </head><body>
+<svg style="display:none">
+<symbol id="i-gear" viewBox="0 0 24 24"><path d="M19.4 13a7.6 7.6 0 0 0 0-2l2-1.6-2-3.4-2.4 1a7.9 7.9 0 0 0-1.7-1L15 3h-4l-.3 2.6a7.9 7.9 0 0 0-1.7 1L6.6 5.6l-2 3.4L6.6 10a7.6 7.6 0 0 0 0 2l-2 1.6 2 3.4 2.4-1a7.9 7.9 0 0 0 1.7 1L9 21h4l.3-2.6a7.9 7.9 0 0 0 1.7-1l2.4 1 2-3.4zM11 15.5a3.5 3.5 0 1 1 0-7 3.5 3.5 0 0 1 0 7z"/></symbol>
+<symbol id="i-shield" viewBox="0 0 24 24"><path d="M12 2l8 4v6c0 5-3.4 9.4-8 10-4.6-.6-8-5-8-10V6z"/></symbol>
+<symbol id="i-check" viewBox="0 0 24 24"><path d="M9 16.2L4.8 12l-1.4 1.4L9 19 21 7l-1.4-1.4z"/></symbol>
+</svg>
 <nav class="top"><div class="in">
 <a class="logo" href="../index.html"><span>S</span><span>M</span><span>·</span><span>▪</span> Shahzad MS</a>
 <div class="links"><a href="../index.html">Home</a><a href="../solutions/index.html" style="color:#1a56c4">Solutions</a></div>
 </div></nav><div class="wrap doc"><section>
   <div class="num" style="color:#5f6368;font-weight:800;letter-spacing:1.5px">SOL-05</div>
   <h1><img class="ico" src="../assets/icons/python.svg" alt=""> Sovereign RAG, Agent & MLOps Platform <span class="badge b3">Open Source</span></h1>
-  <div class="sub">🟩 Founder/CEO — Alfalah AI career-intelligence SaaS, 19 modules, 195 countries.</div>
+  <div class="sub">Founder/CEO — Alfalah AI career-intelligence SaaS, 19 modules, 195 countries.</div>
 
-  <div class="docsec"><h3>🎯 Business Problem</h3><p>A self-hostable, vendor-neutral AI platform (powers Alfalah across 195 countries at 50× lower cost).</p></div>
+  <div class="docsec"><h3>Business Problem</h3><p>A self-hostable, vendor-neutral AI platform (powers Alfalah across 195 countries at 50× lower cost).</p></div>
 
-  <div class="docsec"><h3>🏗️ End-to-End Architecture</h3>
+  <div class="docsec"><h3>End-to-End Architecture</h3>
    <div class="diagram"><pre class="mermaid">flowchart LR
   SRC["Documents · APIs · user data"] --> EMB["Embeddings"]
   EMB --> VDB["Vector stores<br/>Qdrant · Weaviate · Milvus · pgvector · FAISS"]
@@ -26,7 +31,7 @@
   OBS["Observability<br/>Langfuse · Arize Phoenix · LangSmith"] -.-> SERVE
   K8S["Kubernetes · Docker · Helm"] -.-> SERVE</pre></div></div>
 
-  <div class="docsec"><h3>🔄 Workflow (Proof of Concept, A→Z)</h3>
+  <div class="docsec"><h3>Workflow (Proof of Concept, A→Z)</h3>
    <div class="diagram"><pre class="mermaid">sequenceDiagram
   participant U as User
   participant APP as FastAPI/Next.js
@@ -40,28 +45,27 @@
   RAG->>LLM: generate (multi-model routing)
   LLM-->>U: result (prompt-cached, evaluated)</pre></div></div>
 
-  <div class="docsec"><h3>🧰 Technology Stack</h3><div class="chips"><span class="chip">LangGraph · CrewAI · DSPy</span><span class="chip">Qdrant · Weaviate · pgvector</span><span class="chip"><img class="ico" src="../assets/icons/nvidia.svg" alt="">vLLM · Ollama · Triton</span><span class="chip">MLflow · Kubeflow · W&B</span><span class="chip">Langfuse · LangSmith</span><span class="chip">LiteLLM · Portkey</span><span class="chip"><img class="ico" src="../assets/icons/databricks.svg" alt="">Databricks · H2O.ai</span><span class="chip"><img class="ico" src="../assets/icons/docker.svg" alt="">Kubernetes · Docker</span></div></div>
+  <div class="docsec"><h3><svg class="icn" viewBox="0 0 24 24"><use href="#i-gear"/></svg> Technology Stack</h3><div class="chips"><span class="chip">LangGraph · CrewAI · DSPy</span><span class="chip">Qdrant · Weaviate · pgvector</span><span class="chip"><img class="ico" src="../assets/icons/nvidia.svg" alt="">vLLM · Ollama · Triton</span><span class="chip">MLflow · Kubeflow · W&B</span><span class="chip">Langfuse · LangSmith</span><span class="chip">LiteLLM · Portkey</span><span class="chip"><img class="ico" src="../assets/icons/databricks.svg" alt="">Databricks · H2O.ai</span><span class="chip"><img class="ico" src="../assets/icons/docker.svg" alt="">Kubernetes · Docker</span></div></div>
 
-  <div class="docsec"><h3>🔐 Security &amp; Governance</h3><ul><li>Self-hostable / sovereign — no data leaves your estate</li><li>PostgreSQL row-level security, one-click deletion, MFA</li><li>LLM-as-judge evaluation + full observability</li><li>Prompt caching + guardrails; GDPR across 195 countries</li></ul></div>
+  <div class="docsec"><h3><svg class="icn" viewBox="0 0 24 24"><use href="#i-shield"/></svg> Security &amp; Governance</h3><ul><li>Self-hostable / sovereign — no data leaves your estate</li><li>PostgreSQL row-level security, one-click deletion, MFA</li><li>LLM-as-judge evaluation + full observability</li><li>Prompt caching + guardrails; GDPR across 195 countries</li></ul></div>
 
-  <div class="docsec"><h3>🚀 Delivery — MVP → Pilot → Enterprise</h3>
+  <div class="docsec"><h3>Delivery — MVP → Pilot → Enterprise</h3>
    <div class="phasebar">
     <div class="phasebox pb0"><b>MVP</b>LangChain + Ollama + Chroma local RAG</div>
     <div class="phasebox pb1"><b>Pilot</b>Qdrant hybrid, vLLM serving, MLflow + Langfuse</div>
     <div class="phasebox pb2"><b>Enterprise</b>full agent + serving fleet + MLOps on Kubernetes</div>
    </div></div>
 
-  <div class="docsec"><h3>✅ Outcomes</h3><div class="out">195 countries · 19 AI modules · ~99.9% uptime · 50× cost reduction · Fully vendor-neutral, self-hostable</div></div>
+  <div class="docsec"><h3><svg class="icn" viewBox="0 0 24 24"><use href="#i-check"/></svg> Outcomes</h3><div class="out">195 countries · 19 AI modules · ~99.9% uptime · 50× cost reduction · Fully vendor-neutral, self-hostable</div></div>
 
   <p style="margin-top:16px"><a class="btn" href="index.html">← All solutions</a></p>
  </section></div><div class="cta"><div class="bar4"><i></i><i></i><i></i><i></i></div><div class="wrap">
  <h2>Let's build something real.</h2>
  <p>Available for CTO · CIO · CISO, Principal / Enterprise Architect, and fractional / advisory engagements across North America and globally.</p>
- <p style="margin-top:14px"><a class="btn r" href="https://www.linkedin.com/in/shahzadms/" target="_blank">💼 LinkedIn</a>
- <a class="btn g" href="https://shahzadms7.github.io/" target="_blank">🌐 Portfolio</a>
- <a class="btn" href="https://mentoga.com/shahzadms" target="_blank">🤝 Book a conversation (Mentoga)</a></p>
- <p style="margin-top:8px;color:#bdc1c6;font-size:.85rem">Conversations happen one-on-one via the links above — no email or phone, by design.</p></div></div>
- <footer><div class="bar4"><i></i><i></i><i></i><i></i></div>© 2026 Shahzad MS · Greater Toronto Area, Canada · Built once, runs forever — self-contained portfolio.</footer>
+ <p style="margin-top:14px"><a class="btn" href="https://www.linkedin.com/in/shahzadms/" target="_blank"><img class="ico" src="../assets/icons/linkedin.svg" alt="" style="filter:brightness(0) invert(1)"> LinkedIn</a>
+ <a class="btn g" href="https://shahzadms7.github.io/" target="_blank"><img class="ico" src="../assets/icons/github2.svg" alt="" style="filter:brightness(0) invert(1)"> Portfolio</a>
+ <a class="btn r" href="https://mentoga.com/shahzadms" target="_blank"><img class="ico" src="../assets/icons/calendar.svg" alt="" style="filter:brightness(0) invert(1)"> Book a Meeting</a></p></div></div>
+ <footer><div class="bar4"><i></i><i></i><i></i><i></i></div>© 2026 Shahzad MS · Greater Toronto Area, Canada</footer>
  <script>mermaid.initialize({startOnLoad:true,theme:'base',themeVariables:{
  primaryColor:'#e8f0fe',primaryTextColor:'#202124',primaryBorderColor:'#4285F4',lineColor:'#5f6368',
  secondaryColor:'#feefc3',tertiaryColor:'#ceead6',fontFamily:'Google Sans,Roboto,sans-serif',fontSize:'13px'}});</script>
