@@ -4,7 +4,7 @@
 Cloud (Azure · AWS · GCP) · AI & Agentic AI · Cybersecurity & Zero Trust · DevOps/SRE · Platform Engineering
 📍 Greater Toronto Area, Canada · PR · 🏆 Winner, Microsoft AI Innovation Hackathon 2025
 
-🌐 **Live:** https://shahzadms7.github.io/ · ✉️ shahzad.ms@yahoo.com · 💼 linkedin.com/in/shahzadms
+🌐 **Live:** https://shahzadms7.github.io/ · 💼 linkedin.com/in/shahzadms · 🤝 mentoga.com/shahzadms
 
 ---
 
@@ -17,7 +17,6 @@ A living, self-contained portfolio — **built once, runs forever** (no external
 ```
 /
 ├─ index.html                     Executive landing (impact metrics, featured solutions, capabilities, career)
-├─ resume.html                    Full résumé — 100% reflected, with PDF & Word downloads
 ├─ solutions/
 │   ├─ index.html                 Solution case-study catalog
 │   ├─ sol-01-azure-foundry.html
@@ -28,9 +27,10 @@ A living, self-contained portfolio — **built once, runs forever** (no external
 └─ assets/
     ├─ css/style.css              Google 4-color design system
     ├─ js/mermaid.min.js          Vendored diagram engine
-    ├─ icons/                     Real product logos (Azure, AWS, GCP, Anthropic, …)
-    └─ resume/                    Downloadable résumé (PDF · DOCX · MD)
+    └─ icons/                     Real product logos (Azure, AWS, GCP, Anthropic, …)
 ```
+
+This is a portfolio, not a résumé — no résumé/CV is published here. Contact is by design one-on-one only (LinkedIn / Mentoga above), no email or phone listed.
 
 ## Solution case studies
 
