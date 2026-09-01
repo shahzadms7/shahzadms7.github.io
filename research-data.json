@@ -1,0 +1,188 @@
+[
+  {
+    "title": "Microsoft Azure",
+    "url": "https://azure.microsoft.com/en-us/products",
+    "checked": "2026-09-01",
+    "summary": "Official catalog used to check cloud service families. The resume's Azure inventory covers compute, identity, networking, applications, data, integration, security, operations, recovery and AI. Availability and region support must be checked for the selected service."
+  },
+  {
+    "title": "AWS services",
+    "url": "https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html",
+    "checked": "2026-09-01",
+    "summary": "Official AWS overview cross-checks compute, storage, networking, databases, analytics, application integration, management, security and AI/ML categories. Product presence does not establish personal delivery of every AWS service."
+  },
+  {
+    "title": "Google Cloud service catalog",
+    "url": "https://docs.cloud.google.com/docs/product-list",
+    "checked": "2026-09-01",
+    "summary": "Official product index for cloud compute, data, security, management and application services. Historical names remain in source records; use the current product documentation for a new design."
+  },
+  {
+    "title": "Cloudflare One / SASE",
+    "url": "https://developers.cloudflare.com/cloudflare-one/",
+    "checked": "2026-09-01",
+    "summary": "Cloudflare One combines enterprise networking and Zero Trust security. Access, device and application policies complement the separately documented application/edge platform."
+  },
+  {
+    "title": "Tailscale operations",
+    "url": "https://tailscale.com/docs/how-to/quickstart",
+    "checked": "2026-09-01",
+    "summary": "Official guidance covers tailnet users, devices, DNS, permissions and authentication. The portfolio distinguishes the control plane, encrypted endpoint connectivity, subnet routing and exit-node routing."
+  },
+  {
+    "title": "Oracle Cloud Infrastructure",
+    "url": "https://docs.oracle.com/iaas/Content/GSG/Concepts/baremetalintro.htm",
+    "checked": "2026-09-01",
+    "summary": "OCI provides infrastructure and managed services for applications, including physical compute and virtual networks. The resume includes tenancy, compartments, networking, bare metal, OKE, databases, integration and operational controls."
+  },
+  {
+    "title": "IBM Cloud",
+    "url": "https://www.ibm.com/products/cloud",
+    "checked": "2026-09-01",
+    "summary": "Official IBM cloud catalog supports the infrastructure, container, data, security and hybrid-cloud comparison. Power, IBM i/AIX and cloud-native modernization remain distinct scopes."
+  },
+  {
+    "title": "Alibaba Cloud ACK",
+    "url": "https://www.alibabacloud.com/en/product/kubernetes",
+    "checked": "2026-09-01",
+    "summary": "ACK provides managed Kubernetes and associated compute, storage, network and security integration. Alibaba is a requested reference extension; the current master resume contains no Alibaba engagement evidence."
+  },
+  {
+    "title": "Alibaba Cloud products",
+    "url": "https://www.alibabacloud.com/en",
+    "checked": "2026-09-01",
+    "summary": "ECS, ACK and Model Studio appear in the official current product portfolio. A broader Alibaba design is an option for discussion, not a claim of a completed implementation."
+  },
+  {
+    "title": "Veeam Backup & Replication",
+    "url": "https://www.veeam.com/products/veeam-data-platform/backup-recovery.html",
+    "checked": "2026-09-01",
+    "summary": "Veeam Backup & Replication protects physical, virtual and cloud workloads. The portfolio emphasizes restore validation, immutable protection, authorization and operational recovery evidence rather than vendor performance promises."
+  },
+  {
+    "title": "Acronis Disaster Recovery",
+    "url": "https://www.acronis.com/support/documentation/DisasterRecovery/",
+    "checked": "2026-09-01",
+    "summary": "Current Cyber Disaster Recovery Cloud documentation identifies DRaaS capabilities and notes that availability can vary by datacentre. Exact service scope and recovery objectives require workload-specific validation."
+  },
+  {
+    "title": "Zoho applications",
+    "url": "https://www.zoho.com/all-products.html",
+    "checked": "2026-09-01",
+    "summary": "Zoho's catalog spans customer operations, finance, HR, collaboration, analytics, low-code and integration. Resume evidence supports suite integration; it does not identify delivery of every application or edition."
+  },
+  {
+    "title": "Odoo applications",
+    "url": "https://www.odoo.com/page/all-apps",
+    "checked": "2026-09-01",
+    "summary": "Odoo lists CRM, accounting, ecommerce, inventory, point of sale and other business apps. Map edition, hosting, customization, data migration and support obligations to the selected modules."
+  },
+  {
+    "title": "SAP application and platform documentation",
+    "url": "https://help.sap.com/docs/",
+    "checked": "2026-09-01",
+    "summary": "SAP documents ERP, S/4HANA and Business Technology Platform capabilities. SAP is requested by the owner but absent from this master resume; named modules, personal responsibilities and project evidence remain to be supplied."
+  },
+  {
+    "title": "SonicWall firewalls",
+    "url": "https://www.sonicwall.com/products/firewalls",
+    "checked": "2026-09-01",
+    "summary": "The official portfolio includes next-generation firewalls. SonicWall is requested by the owner but not named in the current resume; it is included as an additional solution area awaiting engagement detail."
+  },
+  {
+    "title": "Microsoft 365 E7",
+    "url": "https://www.microsoft.com/en-us/microsoft-365/enterprise/e7",
+    "checked": "2026-09-01",
+    "summary": "Microsoft lists E7 with E5, Microsoft 365 Copilot, Agent 365 and Entra Suite. The resume explicitly records E7 appraisal/evaluation, not estate-wide production deployment or universal licensing rights."
+  },
+  {
+    "title": "AWS ML Specialty retirement",
+    "url": "https://aws.amazon.com/certification/certified-machine-learning-specialty/",
+    "checked": "2026-09-01",
+    "summary": "The last exam date was March 31, 2026. The resume's Q1 2027 exam target therefore needs replacement. Retirement does not itself invalidate an already-earned, unexpired credential."
+  },
+  {
+    "title": "Microsoft exam lifecycle",
+    "url": "https://learn.microsoft.com/en-us/credentials/support/retired-certification-exams",
+    "checked": "2026-09-01",
+    "summary": "Exam retirement and credential status are separate. MS-900 is listed as retired March 31, 2026. Historical credential names are preserved; active status and issue/expiry dates need a transcript."
+  },
+  {
+    "title": "SC-400 transition",
+    "url": "https://techcommunity.microsoft.com/blog/iltcommunicationblog/ilt-course-retirement-sc-400/4375185",
+    "checked": "2026-09-01",
+    "summary": "Microsoft announced the SC-400 transition and a May 31, 2025 exam cutoff. Keep historical training and credential records distinct from available exam routes."
+  },
+  {
+    "title": "Entra Permissions Management lifecycle",
+    "url": "https://techcommunity.microsoft.com/blog/microsoft-entra-blog/important-change-announcement-microsoft-entra-permissions-management-end-of-sale/4399382",
+    "checked": "2026-09-01",
+    "summary": "Microsoft's updated notice extended retirement to November 1, 2025. Retain Entra Permissions Management as historical experience/evaluation, not a current new-deployment recommendation."
+  },
+  {
+    "title": "NIST Zero Trust Architecture",
+    "url": "https://csrc.nist.gov/pubs/sp/800/207/final",
+    "checked": "2026-09-01",
+    "summary": "Zero Trust focuses on resource access, identities and policy rather than implicit trust from network location. The diagram includes policy decisions, enforcement, telemetry and privileged-access controls."
+  },
+  {
+    "title": "NIST CSF",
+    "url": "https://www.nist.gov/cyberframework",
+    "checked": "2026-09-01",
+    "summary": "CSF provides cybersecurity outcomes and risk-management structure. Framework alignment is different from a certification, legal opinion or blanket compliance claim."
+  },
+  {
+    "title": "NIST AI RMF",
+    "url": "https://www.nist.gov/itl/ai-risk-management-framework",
+    "checked": "2026-09-01",
+    "summary": "AI risk management informs governance, assessment, measurement and treatment. The portfolio ties AI controls to evaluations, human oversight, traceability and operational monitoring."
+  },
+  {
+    "title": "OWASP agentic security 2026",
+    "url": "https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/",
+    "checked": "2026-09-01",
+    "summary": "The 2026 agentic guidance addresses risks in systems that plan, act and use tools. Relevant architecture controls include bounded authority, tool policies, validated execution and oversight."
+  },
+  {
+    "title": "OWASP LLM security 2026",
+    "url": "https://genai.owasp.org/resource/owasp-genai-llm-top-10-2026/",
+    "checked": "2026-09-01",
+    "summary": "The current guide is linked alongside historical resume terminology. Threat-model choices should follow the system's actual data, model, tool and trust boundaries."
+  },
+  {
+    "title": "Medallion architecture",
+    "url": "https://docs.databricks.com/aws/en/lakehouse/medallion",
+    "checked": "2026-09-01",
+    "summary": "Bronze captures raw data, silver validates and standardizes it, and gold supplies curated business data. The five provider mappings are illustrative implementations of this design pattern, not five newly claimed client projects."
+  },
+  {
+    "title": "LangGraph persistence",
+    "url": "https://docs.langchain.com/oss/python/langgraph/persistence",
+    "checked": "2026-09-01",
+    "summary": "Checkpointers preserve execution state and stores support longer-lived memory. Durable execution does not remove the need for replay-safe side effects and scoped tool authorization."
+  },
+  {
+    "title": "LangGraph interrupts",
+    "url": "https://docs.langchain.com/oss/python/langgraph/interrupts",
+    "checked": "2026-09-01",
+    "summary": "Interrupts pause execution for external input, enabling human approval. The workflow must validate authorization and state again when execution resumes."
+  },
+  {
+    "title": "MCP specification",
+    "url": "https://modelcontextprotocol.io/specification/2026-07-28",
+    "checked": "2026-09-01",
+    "summary": "The July 2026 specification defines protocol requirements. Protocol support does not by itself supply business authorization, tenant isolation, safe tools or trustworthy retrieved content."
+  },
+  {
+    "title": "Ubuntu Server and high availability",
+    "url": "https://ubuntu.com/server/docs/",
+    "checked": "2026-09-01",
+    "summary": "Official server documentation covers provisioning, identity, networking, packages, virtualization, storage and high availability. Distribution family, release support and installed service scope must be distinguished."
+  },
+  {
+    "title": "SUSE Linux and clustering",
+    "url": "https://www.suse.com/products/highavailability/",
+    "checked": "2026-09-01",
+    "summary": "SUSE provides supported high-availability capabilities. Resource agents, replication, quorum and fencing must be designed and tested for the workload rather than inferred from an installed package."
+  }
+]

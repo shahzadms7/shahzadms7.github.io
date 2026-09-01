@@ -62,3 +62,28 @@ function revealArchitecture(){
 }
 window.addEventListener('hashchange',revealArchitecture);
 revealArchitecture();
+
+(() => {
+ const normalize = text => text.toLowerCase().normalize('NFKD').replace(/[\u0300-\u036f]/g,'');
+ const search = document.getElementById('career-search');
+ const groups = [...document.querySelectorAll('.career-group')];
+ const records = [...document.querySelectorAll('.evidence-record')].map(el=>({el,text:normalize(el.textContent)}));
+ if(search) search.addEventListener('input',()=>{
+  const q=normalize(search.value).trim().split(/\s+/).filter(Boolean);let shown=0;
+  for(const {el,text} of records){el.hidden=!q.every(w=>text.includes(w));if(!el.hidden)shown++;}
+  for(const group of groups){group.hidden=![...group.querySelectorAll('.evidence-record')].some(el=>!el.hidden);if(q.length&&!group.hidden)group.open=true;}
+  document.getElementById('career-count').textContent=`${shown} of ${records.length} source records match`;
+ });
+ function reveal(){
+  const el=document.getElementById(location.hash.slice(1));
+  if(!el)return;
+  let parent=el;
+  while(parent){parent.hidden=false;if(parent instanceof HTMLDetailsElement)parent.open=true;parent=parent.parentElement;}
+ }
+ window.addEventListener('hashchange',reveal);reveal();
+ const asearch=document.getElementById('architecture-search');
+ if(asearch)asearch.addEventListener('input',()=>{
+  const q=normalize(asearch.value).trim().split(/\s+/).filter(Boolean);
+  document.querySelectorAll('.architecture-view').forEach(el=>el.hidden=!q.every(w=>normalize(el.textContent).includes(w)));
+ });
+})();

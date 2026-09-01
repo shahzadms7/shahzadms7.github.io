@@ -41,5 +41,23 @@
       "git diff whitespace"
     ],
     "browserRetested": false
+  },
+  "sourceCoverageExpansion": {
+    "date": "2026-09-01",
+    "sourceRecords": 725,
+    "architectureViews": 35,
+    "svgDiagrams": 36,
+    "additionalServiceIcons": 72,
+    "referenceExtensions": 18,
+    "officialSourceEntries": 31,
+    "checks": [
+      "rebuild",
+      "source IDs and digests",
+      "local assets and anchors",
+      "unique IDs",
+      "SVG XML",
+      "diagram text bounds"
+    ],
+    "browserRetested": false
   }
 }

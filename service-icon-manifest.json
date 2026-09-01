@@ -1,0 +1,434 @@
+[
+  {
+    "file": "az-virtual-machines.svg",
+    "product": "Virtual Machine",
+    "package": "azure-icons.zip",
+    "original_path": "Azure_Public_Service_Icons/Icons/compute/10021-icon-service-Virtual-Machine.svg"
+  },
+  {
+    "file": "az-virtual-networks.svg",
+    "product": "Virtual Networks",
+    "package": "azure-icons.zip",
+    "original_path": "Azure_Public_Service_Icons/Icons/networking/10061-icon-service-Virtual-Networks.svg"
+  },
+  {
+    "file": "az-storage-accounts.svg",
+    "product": "Storage Accounts",
+    "package": "azure-icons.zip",
+    "original_path": "Azure_Public_Service_Icons/Icons/storage/10086-icon-service-Storage-Accounts.svg"
+  },
+  {
+    "file": "az-sql-database.svg",
+    "product": "SQL Database",
+    "package": "azure-icons.zip",
+    "original_path": "Azure_Public_Service_Icons/Icons/databases/10130-icon-service-SQL-Database.svg"
+  },
+  {
+    "file": "az-cosmos-db.svg",
+    "product": "Cosmos DB",
+    "package": "azure-icons.zip",
+    "original_path": "Azure_Public_Service_Icons/Icons/iot/10121-icon-service-Azure-Cosmos-DB.svg"
+  },
+  {
+    "file": "az-function-apps.svg",
+    "product": "Function Apps",
+    "package": "azure-icons.zip",
+    "original_path": "Azure_Public_Service_Icons/Icons/iot/10029-icon-service-Function-Apps.svg"
+  },
+  {
+    "file": "az-app-services.svg",
+    "product": "App Services",
+    "package": "azure-icons.zip",
+    "original_path": "Azure_Public_Service_Icons/Icons/web/10035-icon-service-App-Services.svg"
+  },
+  {
+    "file": "az-container-apps.svg",
+    "product": "Container Apps Environments",
+    "package": "azure-icons.zip",
+    "original_path": "Azure_Public_Service_Icons/Icons/other/02989-icon-service-Container-Apps-Environments.svg"
+  },
+  {
+    "file": "az-api-management.svg",
+    "product": "API Management",
+    "package": "azure-icons.zip",
+    "original_path": "Azure_Public_Service_Icons/Icons/web/10042-icon-service-API-Management-Services.svg"
+  },
+  {
+    "file": "az-service-bus.svg",
+    "product": "Service Bus",
+    "package": "azure-icons.zip",
+    "original_path": "Azure_Public_Service_Icons/Icons/integration/10836-icon-service-Azure-Service-Bus.svg"
+  },
+  {
+    "file": "az-event-hubs.svg",
+    "product": "Event Hubs",
+    "package": "azure-icons.zip",
+    "original_path": "Azure_Public_Service_Icons/Icons/iot/00039-icon-service-Event-Hubs.svg"
+  },
+  {
+    "file": "az-synapse-analytics.svg",
+    "product": "Synapse Analytics",
+    "package": "azure-icons.zip",
+    "original_path": "Azure_Public_Service_Icons/Icons/analytics/00606-icon-service-Azure-Synapse-Analytics.svg"
+  },
+  {
+    "file": "az-machine-learning.svg",
+    "product": "Machine Learning",
+    "package": "azure-icons.zip",
+    "original_path": "Azure_Public_Service_Icons/Icons/ai + machine learning/10166-icon-service-Machine-Learning.svg"
+  },
+  {
+    "file": "az-backup.svg",
+    "product": "Backup Vault",
+    "package": "azure-icons.zip",
+    "original_path": "Azure_Public_Service_Icons/Icons/other/02361-icon-service-Backup-Vault.svg"
+  },
+  {
+    "file": "az-recovery-services.svg",
+    "product": "Recovery Services Vaults",
+    "package": "azure-icons.zip",
+    "original_path": "Azure_Public_Service_Icons/Icons/migrate/00017-icon-service-Recovery-Services-Vaults.svg"
+  },
+  {
+    "file": "az-firewall.svg",
+    "product": "Firewall",
+    "package": "azure-icons.zip",
+    "original_path": "Azure_Public_Service_Icons/Icons/networking/10084-icon-service-Firewalls.svg"
+  },
+  {
+    "file": "az-application-gateways.svg",
+    "product": "Application Gateways",
+    "package": "azure-icons.zip",
+    "original_path": "Azure_Public_Service_Icons/Icons/networking/10076-icon-service-Application-Gateways.svg"
+  },
+  {
+    "file": "az-front-door.svg",
+    "product": "Front Door and CDN Profiles",
+    "package": "azure-icons.zip",
+    "original_path": "Azure_Public_Service_Icons/Icons/web/10073-icon-service-Front-Door-and-CDN-Profiles.svg"
+  },
+  {
+    "file": "az-load-balancers.svg",
+    "product": "Load Balancers",
+    "package": "azure-icons.zip",
+    "original_path": "Azure_Public_Service_Icons/Icons/networking/10062-icon-service-Load-Balancers.svg"
+  },
+  {
+    "file": "az-bastions.svg",
+    "product": "Bastions",
+    "package": "azure-icons.zip",
+    "original_path": "Azure_Public_Service_Icons/Icons/networking/02422-icon-service-Bastions.svg"
+  },
+  {
+    "file": "az-azure-arc.svg",
+    "product": "Azure Arc",
+    "package": "azure-icons.zip",
+    "original_path": "Azure_Public_Service_Icons/Icons/management + governance/00756-icon-service-Azure-Arc.svg"
+  },
+  {
+    "file": "az-azure-local.svg",
+    "product": "Azure Local",
+    "package": "azure-icons.zip",
+    "original_path": "Azure_Public_Service_Icons/Icons/hybrid + multicloud/033745116-icon-service-Azure-Local.svg"
+  },
+  {
+    "file": "az-azure-files.svg",
+    "product": "Azure Fileshares",
+    "package": "azure-icons.zip",
+    "original_path": "Azure_Public_Service_Icons/Icons/storage/10400-icon-service-Azure-Fileshares.svg"
+  },
+  {
+    "file": "az-log-analytics.svg",
+    "product": "Log Analytics Workspaces",
+    "package": "azure-icons.zip",
+    "original_path": "Azure_Public_Service_Icons/Icons/analytics/00009-icon-service-Log-Analytics-Workspaces.svg"
+  },
+  {
+    "file": "aws-amazon-ec2.svg",
+    "product": "Amazon EC2",
+    "package": "aws-icons.zip",
+    "original_path": "Architecture-Service-Icons_07312026/Arch_Compute/64/Arch_Amazon-EC2_64.svg"
+  },
+  {
+    "file": "aws-amazon-vpc.svg",
+    "product": "Amazon VPC",
+    "package": "aws-icons.zip",
+    "original_path": "Architecture-Service-Icons_07312026/Arch_Networking-Content-Delivery/64/Arch_Amazon-Virtual-Private-Cloud_64.svg"
+  },
+  {
+    "file": "aws-amazon-eks.svg",
+    "product": "Amazon EKS",
+    "package": "aws-icons.zip",
+    "original_path": "Architecture-Service-Icons_07312026/Arch_Containers/64/Arch_Amazon-Elastic-Kubernetes-Service_64.svg"
+  },
+  {
+    "file": "aws-amazon-ecs.svg",
+    "product": "Amazon ECS",
+    "package": "aws-icons.zip",
+    "original_path": "Architecture-Service-Icons_07312026/Arch_Containers/64/Arch_Amazon-Elastic-Container-Service_64.svg"
+  },
+  {
+    "file": "aws-aws-fargate.svg",
+    "product": "AWS Fargate",
+    "package": "aws-icons.zip",
+    "original_path": "Architecture-Service-Icons_07312026/Arch_Containers/64/Arch_AWS-Fargate_64.svg"
+  },
+  {
+    "file": "aws-amazon-api-gateway.svg",
+    "product": "Amazon API Gateway",
+    "package": "aws-icons.zip",
+    "original_path": "Architecture-Service-Icons_07312026/Arch_Networking-Content-Delivery/64/Arch_Amazon-API-Gateway_64.svg"
+  },
+  {
+    "file": "aws-amazon-rds.svg",
+    "product": "Amazon RDS",
+    "package": "aws-icons.zip",
+    "original_path": "Architecture-Service-Icons_07312026/Arch_Databases/64/Arch_Amazon-RDS_64.svg"
+  },
+  {
+    "file": "aws-amazon-aurora.svg",
+    "product": "Amazon Aurora",
+    "package": "aws-icons.zip",
+    "original_path": "Architecture-Service-Icons_07312026/Arch_Databases/64/Arch_Amazon-Aurora_64.svg"
+  },
+  {
+    "file": "aws-amazon-dynamodb.svg",
+    "product": "Amazon DynamoDB",
+    "package": "aws-icons.zip",
+    "original_path": "Architecture-Service-Icons_07312026/Arch_Databases/64/Arch_Amazon-DynamoDB_64.svg"
+  },
+  {
+    "file": "aws-amazon-cloudfront.svg",
+    "product": "Amazon CloudFront",
+    "package": "aws-icons.zip",
+    "original_path": "Architecture-Service-Icons_07312026/Arch_Networking-Content-Delivery/64/Arch_Amazon-CloudFront_64.svg"
+  },
+  {
+    "file": "aws-amazon-route-53.svg",
+    "product": "Amazon Route 53",
+    "package": "aws-icons.zip",
+    "original_path": "Architecture-Service-Icons_07312026/Arch_Networking-Content-Delivery/64/Arch_Amazon-Route-53_64.svg"
+  },
+  {
+    "file": "aws-aws-backup.svg",
+    "product": "AWS Backup",
+    "package": "aws-icons.zip",
+    "original_path": "Architecture-Service-Icons_07312026/Arch_Storage/64/Arch_AWS-Backup_64.svg"
+  },
+  {
+    "file": "aws-aws-elastic-disaster-recovery.svg",
+    "product": "AWS Elastic Disaster Recovery",
+    "package": "aws-icons.zip",
+    "original_path": "Architecture-Service-Icons_07312026/Arch_Storage/64/Arch_AWS-Elastic-Disaster-Recovery_64.svg"
+  },
+  {
+    "file": "aws-aws-iam-identity-center.svg",
+    "product": "AWS IAM Identity Center",
+    "package": "aws-icons.zip",
+    "original_path": "Architecture-Service-Icons_07312026/Arch_Security-Identity/64/Arch_AWS-IAM-Identity-Center_64.svg"
+  },
+  {
+    "file": "aws-aws-key-management-service.svg",
+    "product": "AWS Key Management Service",
+    "package": "aws-icons.zip",
+    "original_path": "Architecture-Service-Icons_07312026/Arch_Security-Identity/64/Arch_AWS-Key-Management-Service_64.svg"
+  },
+  {
+    "file": "aws-amazon-guardduty.svg",
+    "product": "Amazon GuardDuty",
+    "package": "aws-icons.zip",
+    "original_path": "Architecture-Service-Icons_07312026/Arch_Security-Identity/64/Arch_Amazon-GuardDuty_64.svg"
+  },
+  {
+    "file": "aws-aws-security-hub.svg",
+    "product": "AWS Security Hub",
+    "package": "aws-icons.zip",
+    "original_path": "Architecture-Service-Icons_07312026/Arch_Security-Identity/64/Arch_AWS-Security-Hub_64.svg"
+  },
+  {
+    "file": "aws-aws-waf.svg",
+    "product": "AWS WAF",
+    "package": "aws-icons.zip",
+    "original_path": "Architecture-Service-Icons_07312026/Arch_Security-Identity/64/Arch_AWS-WAF_64.svg"
+  },
+  {
+    "file": "aws-amazon-redshift.svg",
+    "product": "Amazon Redshift",
+    "package": "aws-icons.zip",
+    "original_path": "Architecture-Service-Icons_07312026/Arch_Analytics/64/Arch_Amazon-Redshift_64.svg"
+  },
+  {
+    "file": "aws-aws-glue.svg",
+    "product": "AWS Glue",
+    "package": "aws-icons.zip",
+    "original_path": "Architecture-Service-Icons_07312026/Arch_Analytics/64/Arch_AWS-Glue_64.svg"
+  },
+  {
+    "file": "aws-amazon-kinesis.svg",
+    "product": "Amazon Kinesis",
+    "package": "aws-icons.zip",
+    "original_path": "Architecture-Service-Icons_07312026/Arch_Analytics/64/Arch_Amazon-Kinesis_64.svg"
+  },
+  {
+    "file": "aws-amazon-sagemaker.svg",
+    "product": "Amazon SageMaker",
+    "package": "aws-icons.zip",
+    "original_path": "Architecture-Service-Icons_07312026/Arch_Analytics/64/Arch_Amazon-SageMaker_64.svg"
+  },
+  {
+    "file": "aws-amazon-eventbridge.svg",
+    "product": "Amazon EventBridge",
+    "package": "aws-icons.zip",
+    "original_path": "Architecture-Service-Icons_07312026/Arch_Application-Integration/64/Arch_Amazon-EventBridge_64.svg"
+  },
+  {
+    "file": "aws-aws-step-functions.svg",
+    "product": "AWS Step Functions",
+    "package": "aws-icons.zip",
+    "original_path": "Architecture-Service-Icons_07312026/Arch_Application-Integration/64/Arch_AWS-Step-Functions_64.svg"
+  },
+  {
+    "file": "aws-aws-direct-connect.svg",
+    "product": "AWS Direct Connect",
+    "package": "aws-icons.zip",
+    "original_path": "Architecture-Service-Icons_07312026/Arch_Networking-Content-Delivery/64/Arch_AWS-Direct-Connect_64.svg"
+  },
+  {
+    "file": "aws-aws-organizations.svg",
+    "product": "AWS Organizations",
+    "package": "aws-icons.zip",
+    "original_path": "Architecture-Service-Icons_07312026/Arch_Management-Tools/64/Arch_AWS-Organizations_64.svg"
+  },
+  {
+    "file": "aws-aws-control-tower.svg",
+    "product": "AWS Control Tower",
+    "package": "aws-icons.zip",
+    "original_path": "Architecture-Service-Icons_07312026/Arch_Management-Tools/64/Arch_AWS-Control-Tower_64.svg"
+  },
+  {
+    "file": "gcp-compute-engine.svg",
+    "product": "compute engine",
+    "package": "gcp-legacy.zip",
+    "original_path": "compute_engine/compute_engine.svg"
+  },
+  {
+    "file": "gcp-google-kubernetes-engine.svg",
+    "product": "google kubernetes engine",
+    "package": "gcp-legacy.zip",
+    "original_path": "google_kubernetes_engine/google_kubernetes_engine.svg"
+  },
+  {
+    "file": "gcp-cloud-run.svg",
+    "product": "cloud run",
+    "package": "gcp-legacy.zip",
+    "original_path": "cloud_run/cloud_run.svg"
+  },
+  {
+    "file": "gcp-cloud-storage.svg",
+    "product": "cloud storage",
+    "package": "gcp-legacy.zip",
+    "original_path": "cloud_storage/cloud_storage.svg"
+  },
+  {
+    "file": "gcp-cloud-sql.svg",
+    "product": "cloud sql",
+    "package": "gcp-legacy.zip",
+    "original_path": "cloud_sql/cloud_sql.svg"
+  },
+  {
+    "file": "gcp-cloud-spanner.svg",
+    "product": "cloud spanner",
+    "package": "gcp-legacy.zip",
+    "original_path": "cloud_spanner/cloud_spanner.svg"
+  },
+  {
+    "file": "gcp-pubsub.svg",
+    "product": "pubsub",
+    "package": "gcp-legacy.zip",
+    "original_path": "pubsub/pubsub.svg"
+  },
+  {
+    "file": "gcp-dataflow.svg",
+    "product": "dataflow",
+    "package": "gcp-legacy.zip",
+    "original_path": "dataflow/dataflow.svg"
+  },
+  {
+    "file": "gcp-dataproc.svg",
+    "product": "dataproc",
+    "package": "gcp-legacy.zip",
+    "original_path": "dataproc/dataproc.svg"
+  },
+  {
+    "file": "gcp-dataplex.svg",
+    "product": "dataplex",
+    "package": "gcp-legacy.zip",
+    "original_path": "dataplex/dataplex.svg"
+  },
+  {
+    "file": "gcp-cloud-armor.svg",
+    "product": "cloud armor",
+    "package": "gcp-legacy.zip",
+    "original_path": "cloud_armor/cloud_armor.svg"
+  },
+  {
+    "file": "gcp-cloud-load-balancing.svg",
+    "product": "cloud load balancing",
+    "package": "gcp-legacy.zip",
+    "original_path": "cloud_load_balancing/cloud_load_balancing.svg"
+  },
+  {
+    "file": "gcp-cloud-interconnect.svg",
+    "product": "cloud interconnect",
+    "package": "gcp-legacy.zip",
+    "original_path": "cloud_interconnect/cloud_interconnect.svg"
+  },
+  {
+    "file": "gcp-cloud-logging.svg",
+    "product": "cloud logging",
+    "package": "gcp-legacy.zip",
+    "original_path": "cloud_logging/cloud_logging.svg"
+  },
+  {
+    "file": "gcp-cloud-monitoring.svg",
+    "product": "cloud monitoring",
+    "package": "gcp-legacy.zip",
+    "original_path": "cloud_monitoring/cloud_monitoring.svg"
+  },
+  {
+    "file": "gcp-cloud-functions.svg",
+    "product": "cloud functions",
+    "package": "gcp-legacy.zip",
+    "original_path": "cloud_functions/cloud_functions.svg"
+  },
+  {
+    "file": "gcp-secret-manager.svg",
+    "product": "secret manager",
+    "package": "gcp-legacy.zip",
+    "original_path": "secret_manager/secret_manager.svg"
+  },
+  {
+    "file": "gcp-cloud-dns.svg",
+    "product": "cloud dns",
+    "package": "gcp-legacy.zip",
+    "original_path": "cloud_dns/cloud_dns.svg"
+  },
+  {
+    "file": "gcp-cloud-build.svg",
+    "product": "cloud build",
+    "package": "gcp-legacy.zip",
+    "original_path": "cloud_build/cloud_build.svg"
+  },
+  {
+    "file": "gcp-cloud-deploy.svg",
+    "product": "cloud deploy",
+    "package": "gcp-legacy.zip",
+    "original_path": "cloud_deploy/cloud_deploy.svg"
+  },
+  {
+    "file": "gcp-artifact-registry.svg",
+    "product": "artifact registry",
+    "package": "gcp-legacy.zip",
+    "original_path": "artifact_registry/artifact_registry.svg"
+  }
+]
