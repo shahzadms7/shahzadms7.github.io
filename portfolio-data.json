@@ -1,0 +1,477 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Enterprise Agentic AI, RAG and Document Intelligence",
+      "evidence": "T1, T2, T3, T5.",
+      "actions": [
+        "Engineered retrieval-augmented generation and document-intelligence services on Python, Django, FastAPI, Streamlit, PostgreSQL, pgvector, Redis, Chroma and FAISS with hybrid retrieval, BM25 lexical scoring, reranking, citation validation and tenant isolation.",
+        "Orchestrated agent workflows using typed Python schemas, structured generation, constrained decoding, function calling, Model Context Protocol tools, agent registry, tool registry, scoped permissions, agent sandboxing, retries, idempotency and PII filtering.",
+        "Codified prompt lifecycle management through a versioned prompt registry, golden datasets, groundedness testing, hallucination measurement, latency tracking, token metering and release gates.",
+        "Benchmarked knowledge-graph and ColBERT late-interaction retrieval against dense vector search for multi-hop question answering.",
+        "Designed multi-agent orchestration using supervisor-worker and planner-executor delegation patterns, with agent simulation environments and long-horizon trajectory evaluation for reliability engineering.",
+        "Architected the AI gateway and control plane governing model routing by quality, latency, cost and risk, alongside AI workload identity and AI access governance across tenants.",
+        "Applied hallucination mitigation through grounded retrieval, citation enforcement, content moderation and toxicity detection, sustained by continuous evaluation and regression testing against synthetic evaluation data."
+      ],
+      "evaluated": "Microsoft Agent Framework, Google ADK, OpenAI Agents SDK, Claude Agent SDK, CrewAI, LlamaIndex, DSPy, Azure AI Foundry Agent Service, Databricks Agent Bricks, Qdrant, Pinecone, Weaviate, Neo4j, Langfuse, LangSmith, Arize Phoenix, Braintrust, RAGAS, Helicone, LiteLLM, Portkey, E2B, Modal."
+    },
+    {
+      "id": 2,
+      "title": "AI Inference Infrastructure, Model Serving and GPU Economics",
+      "evidence": "T2, T3, T5.",
+      "actions": [
+        "Architected model-serving and inference-gateway topology covering model routing, cascading, fallback, semantic caching, context caching and token-budget enforcement.",
+        "Modelled accelerator capacity planning across GPU scheduling, GPU partitioning, Multi-Instance GPU allocation, quantisation, distillation and pruning to govern cost per inference and cost per task.",
+        "Prototyped throughput optimisation using speculative decoding, continuous batching and KV-cache management to reduce time-to-first-token under concurrent load."
+      ],
+      "evaluated": "vLLM, NVIDIA Triton Inference Server, TensorRT-LLM, NVIDIA NIM, KServe, Ray and Ray Serve."
+    },
+    {
+      "id": 3,
+      "title": "MLOps, Model Lifecycle and Machine Learning Engineering",
+      "evidence": "T2, T3, T4, T5.",
+      "actions": [
+        "Designed model-lifecycle architecture spanning model registry, model cards, system cards, model lineage, provenance tracking, drift detection and automated retraining triggers.",
+        "Specified evaluation-dataset governance, offline and online evaluation harnesses, regression gates and approval workflow preceding production promotion.",
+        "Assessed parameter-efficient fine-tuning strategy including supervised fine-tuning, direct preference optimisation, reinforcement fine-tuning, LoRA, QLoRA and RLHF against retrieval-first alternatives on cost and maintainability grounds."
+      ],
+      "evaluated": "MLflow, Kubeflow, DVC, Feast, Evidently, Weights and Biases, SageMaker, Vertex AI Pipelines, Azure Machine Learning, scikit-learn, TensorFlow, PyTorch, federated learning, SHAP, LIME, explainable AI."
+    },
+    {
+      "id": 4,
+      "title": "AI Governance, Assurance and Adversarial Testing",
+      "evidence": "T1, T2, T5.",
+      "actions": [
+        "Instituted AI assurance covering model-risk management, AI impact assessment, safety-case documentation, human-oversight design, bounded autonomy and content-safety controls.",
+        "Conducted AI red-team exercises probing prompt injection, indirect injection, retrieval poisoning, excessive agency, model extraction, model inversion and adversarial machine learning.",
+        "Established AI incident-response runbooks, agent audit trails, tool-call telemetry and post-incident review for autonomous workflows."
+      ],
+      "evaluated": "OWASP Top 10 for Agentic Applications, OWASP LLM Top 10, MITRE ATLAS, CSA MAESTRO, NIST AI RMF, NIST AI Agent Standards Initiative, EU AI Act, AI security posture management."
+    },
+    {
+      "id": 5,
+      "title": "Hybrid Cloud, Physical Datacentre, Colocation and BCDR",
+      "evidence": "T1, T2.",
+      "actions": [
+        "Assessed server, network, storage, virtualisation, identity and recovery estates, producing asset inventory, dependency maps, RPO and RTO tiers, 6R and 7R disposition and cutover plans.",
+        "Transformed 5,000-plus virtual machines and 1,000-plus physical servers across VMware, Hyper-V, Nutanix, VxRail, Azure, AWS and GCP.",
+        "Commissioned datacentre infrastructure across Tier I to Tier IV environments, including security-sensitive facilities, with continuous operations, incident response and defined availability commitments.",
+        "Provisioned backup and recovery on Azure Backup, Site Recovery, AWS Backup, Elastic Disaster Recovery, Veeam, Rubrik, Commvault, Cohesity, Zerto, Acronis and Datto with immutable retention and validated recovery testing."
+      ],
+      "evaluated": ""
+    },
+    {
+      "id": 6,
+      "title": "Azure Cloud Foundation and Landing Zone Architecture",
+      "evidence": "T1, T2, T3.",
+      "actions": [
+        "Assembled Azure landing zones on Management Groups, Entra ID, role-based access control, managed identity, Azure Policy, Private Link, Azure Bastion, Route Server, Traffic Manager, hub-and-spoke topology, AKS, Key Vault, Managed HSM, Azure Monitor, Defender for Cloud, Sentinel, Azure Migrate and Site Recovery.",
+        "Extended compute topology across Azure Container Apps, Container Instances, Service Fabric, Azure Batch, App Service and Azure Kubernetes Fleet Manager for multi-cluster estates.",
+        "Provisioned storage and data services spanning Azure NetApp Files, Azure Files, Blob lifecycle tiering, Azure SQL, SQL Managed Instance, Cosmos DB and Azure Cache for Redis.",
+        "Integrated AI Document Intelligence and AI Content Safety into document-processing workflows under Cloud Adoption Framework and Well-Architected review."
+      ],
+      "evaluated": ""
+    },
+    {
+      "id": 7,
+      "title": "AWS Multi-Account Foundation and Well-Architected Delivery",
+      "evidence": "T1, T2.",
+      "actions": [
+        "Partitioned AWS multi-account architecture using Organizations, Control Tower, Landing Zone Accelerator, IAM Identity Center, Resource Access Manager, service control policies and permission boundaries.",
+        "Established network topology across Transit Gateway, Cloud WAN, VPC Lattice, PrivateLink, Direct Connect, Global Accelerator, Network Firewall, WAF and Shield.",
+        "Delivered compute and data services on EC2, Auto Scaling, ECS, EKS, Fargate, Lambda, App Runner, Elastic Beanstalk, S3 Intelligent-Tiering, EBS, EFS, FSx, RDS, Aurora, DynamoDB, ElastiCache, OpenSearch, Redshift, Neptune, AppSync and Step Functions.",
+        "Operationalised governance through Systems Manager, Service Catalog, GuardDuty, Security Hub, Macie, Inspector, Detective, CloudTrail and formal Well-Architected Reviews, extending to Outposts and Local Zones for edge placement."
+      ],
+      "evaluated": ""
+    },
+    {
+      "id": 8,
+      "title": "Google Cloud and Oracle Cloud Infrastructure Architecture",
+      "evidence": "T1, T2, T3.",
+      "actions": [
+        "Structured GCP architecture across Organization, Folders and Projects, Cloud IAM, Organization Policy Service, Shared VPC, VPC Service Controls, Cloud Interconnect, Cloud NAT, Cloud Armor, GKE, GKE Autopilot, Cloud Run and Security Command Center.",
+        "Delivered data and analytics services on AlloyDB, Cloud SQL, Spanner, Bigtable, Firestore, Memorystore, Dataflow, Dataproc, Dataplex, BigQuery, BigLake and Looker.",
+        "Mapped OCI architecture covering tenancy and compartment design, OCI IAM, VCN, Dynamic Routing Gateway, FastConnect, OKE, OCI Functions, Object Storage, Autonomous Database, Exadata Cloud Service, MySQL HeatWave, OCI Streaming, OCI Data Science, Oracle Integration Cloud, GoldenGate, Data Guard and Oracle RAC.",
+        "Applied Assured Workloads and Model Garden patterns for regulated and sovereign workload placement.",
+        "Planned cross-cloud migration and workload portability, formalising cloud exit strategy, reversibility, vendor concentration risk and resilience economics for board-level review."
+      ],
+      "evaluated": ""
+    },
+    {
+      "id": 9,
+      "title": "Kubernetes Platform Engineering and Cluster Lifecycle",
+      "evidence": "T1, T2, T3, T5.",
+      "actions": [
+        "Standardised deployment patterns across AKS, EKS, GKE, OKE and OpenShift using containerd, CRI-O, Docker, Podman, Helm, Kustomize, namespaces, HPA, VPA, KEDA, pod disruption budgets, topology spread constraints and pod-security admission.",
+        "Engineered cluster lifecycle through Cluster API, cert-manager, External Secrets Operator, Velero recovery, Kubernetes Operators, custom resource definitions and admission webhooks.",
+        "Governed artefact supply using Harbor, JFrog Artifactory, Nexus, ECR, ACR and Artifact Registry with image signing and provenance attestation."
+      ],
+      "evaluated": "Crossplane, Karpenter, Kubernetes Gateway API, Knative, Dapr, WebAssembly and WASI, Kata Containers, confidential containers."
+    },
+    {
+      "id": 10,
+      "title": "Internal Developer Platform, Paved Roads and Developer Experience",
+      "evidence": "T1, T2, T3, T5.",
+      "actions": [
+        "Curated platform standards on Backstage with software templates, service catalogues, scorecards, golden paths and self-service environment provisioning, operating the platform as a product with measured adoption.",
+        "Instrumented DORA metrics and the SPACE framework alongside Team Topologies interaction modes to quantify developer productivity and platform return on investment.",
+        "Published reusable infrastructure modules with drift detection, policy feedback loops and onboarding-time measurement.",
+        "Extended the platform practice into platform reliability engineering, platform security engineering and multi-cluster fleet governance, tracking adoption rate and time-to-value as product measures."
+      ],
+      "evaluated": "Port, Cortex, OpsLevel, Humanitec, Kratix, OpenTofu, Terragrunt, Pulumi."
+    },
+    {
+      "id": 11,
+      "title": "CI/CD, GitOps and Progressive Delivery",
+      "evidence": "T1, T2.",
+      "actions": [
+        "Created continuous integration and delivery pipelines on GitHub Enterprise, GitHub Actions, GitLab CI/CD, Azure DevOps, Jenkins and Tekton with automated testing, artefact promotion and approval gating.",
+        "Implemented GitOps reconciliation through Argo CD, Argo Rollouts and Flux, applying canary, blue-green and progressive delivery with automated rollback.",
+        "Introduced trunk-based development, feature flags and semantic versioning to decouple deployment from release."
+      ],
+      "evaluated": "Spinnaker, Harness, Octopus Deploy."
+    },
+    {
+      "id": 12,
+      "title": "DevSecOps and Software Supply-Chain Security",
+      "evidence": "T1, T2.",
+      "actions": [
+        "Embedded secure software development lifecycle controls spanning SAST, DAST, IAST, software-composition analysis, secret scanning, container scanning and infrastructure-as-code scanning.",
+        "Generated software bills of materials in CycloneDX and SPDX, enforcing SLSA provenance, Sigstore and Cosign signing and in-toto attestation across build pipelines.",
+        "Enforced admission-time policy through OPA, Gatekeeper constraint templates and Kyverno, with runtime detection via Falco."
+      ],
+      "evaluated": "Tetragon, GitHub Advanced Security scanning depth."
+    },
+    {
+      "id": 13,
+      "title": "Site Reliability Engineering and Production Operations",
+      "evidence": "T1, T2.",
+      "actions": [
+        "Codified site-reliability practice sustaining 99.99 percent service-level agreements through service-level indicators and objectives, error budgets, incident command, on-call engineering, blameless postmortems and structured problem management.",
+        "Instituted change enablement, release management and major-incident management aligned to ITIL 4 across concurrent client estates.",
+        "Reduced alert fatigue through alert-quality review, threshold rationalisation, runbook engineering and automated remediation.",
+        "Conducted game days, chaos experiments, fault injection and disaster-recovery exercises validating operational readiness."
+      ],
+      "evaluated": ""
+    },
+    {
+      "id": 14,
+      "title": "Observability, Telemetry Pipelines and AIOps",
+      "evidence": "T1, T2, T5.",
+      "actions": [
+        "Unified telemetry on OpenTelemetry, Prometheus, Grafana, Loki, Tempo, Jaeger and Fluent Bit, applying RED and USE methods, service dependency mapping and distributed tracing.",
+        "Integrated commercial observability across Datadog, Dynatrace and Splunk with synthetic monitoring, real-user monitoring and business-service dashboards.",
+        "Wired incident routing through PagerDuty and Opsgenie with escalation policy and paging-load governance."
+      ],
+      "evaluated": "Mimir, Pyroscope continuous profiling, New Relic, Honeycomb."
+    },
+    {
+      "id": 15,
+      "title": "Performance Engineering and Capacity Planning",
+      "evidence": "T1, T2, T3.",
+      "actions": [
+        "Executed load, stress, soak and spike testing to establish capacity envelopes and saturation thresholds ahead of peak trading and seasonal demand.",
+        "Tuned kernel parameters, NUMA placement, huge pages, TCP stack behaviour and storage queue depth to lift sustained throughput.",
+        "Applied query-plan analysis, index strategy and connection-pool tuning to resolve database contention under concurrency."
+      ],
+      "evaluated": "k6, JMeter, Gatling."
+    },
+    {
+      "id": 16,
+      "title": "Zero Trust, Identity Governance and Privileged Access",
+      "evidence": "T1, T2, T5.",
+      "actions": [
+        "Federated identity across Entra ID, Active Directory, AWS IAM and Google Cloud IAM using single sign-on, SAML, OIDC, SCIM provisioning, multifactor authentication, Conditional Access, FIDO2, passkeys and passwordless enrolment.",
+        "Governed the identity lifecycle through joiner-mover-leaver automation, entitlement review, segregation-of-duties enforcement, access certification and break-glass procedure.",
+        "Vaulted privileged credentials on CyberArk, BeyondTrust and Delinea with rotation, session recording, just-in-time elevation and just-enough administration.",
+        "Managed machine, workload and non-human identity with certificate lifecycle management, secrets rotation and hardware security module custody."
+      ],
+      "evaluated": "Okta, Ping Identity, Saviynt, SPIFFE, SPIRE, Entra Private Access, Entra Internet Access, Entra Permissions Management, Entra Verified ID, Entra Workload ID."
+    },
+    {
+      "id": 17,
+      "title": "Security Operations, Detection Engineering and Threat Hunting",
+      "evidence": "T1, T2.",
+      "actions": [
+        "Operationalised monitoring on Microsoft Sentinel, Defender XDR, CrowdStrike Falcon, SentinelOne, Darktrace, Netskope, Zscaler and Splunk Enterprise Security covering ingestion, normalisation, correlation and triage.",
+        "Developed detection engineering mapped to MITRE ATT&CK, formulated hunting hypotheses and authored incident-response and containment runbooks.",
+        "Ran purple-team exercises and breach-and-attack simulation to validate detection coverage against MITRE D3FEND countermeasures."
+      ],
+      "evaluated": ""
+    },
+    {
+      "id": 18,
+      "title": "Cloud Security Posture, Workload and Data Protection",
+      "evidence": "T1, T2, T5.",
+      "actions": [
+        "Layered CSPM, CWPP, CIEM and CNAPP controls with attack-surface management, exposure management and vulnerability-lifecycle governance.",
+        "Implemented data protection across DLP, data classification, encryption, key management, CASB brokering, SASE, SSE, ZTNA and microsegmentation.",
+        "Instituted security validation engineering and continuous controls monitoring, extending identity governance to SaaS estates and assessing confidential computing on Intel SGX and AMD SEV for sensitive workloads."
+      ],
+      "evaluated": "DSPM, SSPM, ITDR, AI-SPM, confidential computing and trusted execution environments."
+    },
+    {
+      "id": 19,
+      "title": "Cyber Resilience, Ransomware Recovery and Continuity",
+      "evidence": "T1, T2.",
+      "actions": [
+        "Architected recovery capability incorporating immutable backup, cyber-recovery vault, clean-room recovery patterns, recovery sequencing and verified failback.",
+        "Produced business impact analysis, workload criticality classification, dependency mapping and RPO and RTO tiering across Tier 0 to Tier 4 applications.",
+        "Rehearsed disaster-recovery invocation and tabletop crisis exercises, converting findings into remediation backlogs."
+      ],
+      "evaluated": ""
+    },
+    {
+      "id": 20,
+      "title": "Post-Quantum Readiness and Cryptographic Modernisation",
+      "evidence": "T2, T5.",
+      "actions": [
+        "Assessed harvest-now-decrypt-later exposure across long-lived confidential data and certificate estates.",
+        "Inventoried cryptographic dependencies spanning TLS termination, PKI hierarchies, code signing and key custody to establish a migration baseline."
+      ],
+      "evaluated": "NIST post-quantum cryptography standards including Kyber and Dilithium, crypto-agility patterns."
+    },
+    {
+      "id": 21,
+      "title": "Enterprise Storage Architecture and Data Protection",
+      "evidence": "T1, T2.",
+      "actions": [
+        "Engineered SAN, NAS and direct-attached storage on Fibre Channel, iSCSI, NFS, SMB, RAID, replication, snapshots, deduplication, compression and tiering.",
+        "Operated enterprise arrays including NetApp ONTAP, Dell PowerMax, PowerStore and Unity, Pure Storage FlashArray and HPE Alletra, tuning for latency and sustained input-output density.",
+        "Deployed software-defined and object storage using Ceph, MinIO and Storage Spaces Direct for private-cloud and archive tiers."
+      ],
+      "evaluated": "NVMe over Fabrics fabric design."
+    },
+    {
+      "id": 22,
+      "title": "Enterprise Networking, Private Connectivity and Carrier Operations",
+      "evidence": "T1, T2, T3.",
+      "actions": [
+        "Operated carrier-scale production networks for a subscriber base approaching one million across TCP/IP, IPv4 and IPv6, VLANs, BGP, OSPF, IS-IS, EVPN, VXLAN, MPLS, Segment Routing, SD-WAN, VPN, IPsec, NAT, firewall policy and load balancing.",
+        "Established private and hybrid connectivity via ExpressRoute, Direct Connect, Cloud Interconnect, Transit Gateway, Private Link and Tailscale zero-trust mesh.",
+        "Administered DNS and DDI estates on BIND, PowerDNS, Azure DNS and Route 53 with DNSSEC signing, key rollover, DNS over HTTPS and DNS over TLS.",
+        "Operated vendor estates spanning Cisco, Arista, Juniper, F5 BIG-IP, Fortinet and Palo Alto, with content delivery through Cloudflare, Akamai and Fastly."
+      ],
+      "evaluated": "Infoblox DDI, QUIC and HTTP/3 transport migration."
+    },
+    {
+      "id": 23,
+      "title": "Windows, Linux and UNIX Estate Engineering",
+      "evidence": "T1, T2.",
+      "actions": [
+        "Administered Windows Server and Server Core estates spanning Active Directory multi-forest, Group Policy, AD Certificate Services, AD Federation Services, DNS, DHCP, IIS, DFS-R, WSUS, Remote Desktop Services and PowerShell Desired State Configuration.",
+        "Operated System Center tooling including SCVMM, SCOM and System Center Orchestrator for provisioning, monitoring and runbook automation.",
+        "Administered RHEL, AlmaLinux, Rocky Linux, Ubuntu, Debian, SUSE Linux Enterprise, CentOS, Oracle Linux, Amazon Linux, Slackware, Kali Linux, Alpine, Flatcar, AIX, HP-UX, Solaris and IBM i using systemd, SELinux, AppArmor, PAM, LDAP, LVM, Pacemaker, Corosync, Keepalived and HAProxy."
+      ],
+      "evaluated": ""
+    },
+    {
+      "id": 24,
+      "title": "Virtualisation, Hyperconverged and Private Cloud",
+      "evidence": "T1, T2.",
+      "actions": [
+        "Deployed VMware estates on ESXi, vSphere, vCenter, vMotion, Storage vMotion, DRS, HA, Fault Tolerance, vSAN, NSX-T, HCX, Site Recovery Manager and VMware Cloud Foundation.",
+        "Operated Hyper-V, Failover Clustering, Nutanix AHV and Prism, Dell VxRail, PowerFlex and Cisco UCS converged infrastructure.",
+        "Ran open virtualisation on KVM, QEMU, Xen, Proxmox VE, oVirt, RHEV and OpenStack for private-cloud and cost-sensitive workloads."
+      ],
+      "evaluated": ""
+    },
+    {
+      "id": 25,
+      "title": "Microsoft 365 Migration, Licensing and Tenant Administration",
+      "evidence": "T1, T2, T5.",
+      "actions": [
+        "Migrated enterprise mailbox and collaboration estates across multiple engagements using BitTitan, Quest, SkyKick and CloudM, with reconciliation and content-integrity validation.",
+        "Administered tenants across E1, E3, E5, F1, F3, Business Premium, Academic and Government subscriptions, applying group-based licensing, service-plan control, tenant-to-tenant migration and multi-geo configuration.",
+        "Configured Exchange Online Plan 1 and Plan 2, Exchange Online Protection, SharePoint Online, OneDrive, Teams, Teams Phone, Teams Rooms Pro, Teams Premium, Viva Engage and Viva Insights.",
+        "Deployed Purview Information Protection, Data Loss Prevention, eDiscovery Premium, Insider Risk Management, Records Management, Communication Compliance, Compliance Manager and Audit Premium."
+      ],
+      "evaluated": "Microsoft 365 E7 Frontier Suite, Microsoft Agent 365, Microsoft 365 Copilot licensing."
+    },
+    {
+      "id": 26,
+      "title": "Google Workspace Administration and Coexistence",
+      "evidence": "T1, T2.",
+      "actions": [
+        "Configured Workspace tenants across Business Starter, Standard and Plus, Enterprise Essentials, Standard and Plus, Frontline, Education Fundamentals, Education Standard, Teaching and Learning Upgrade, Education Plus and Nonprofits editions.",
+        "Administered organisational units, Context-Aware Access, Cloud Identity Free and Premium, endpoint management, shared drives, Gmail routing and retention rules, Google Vault, Alert Center and data-region policies.",
+        "Executed migration and coexistence with Microsoft 365 using Google Workspace Migrate and Google Cloud Directory Sync, deploying Chrome Enterprise and Chrome Enterprise Premium."
+      ],
+      "evaluated": "Gemini Business and Enterprise, NotebookLM Enterprise."
+    },
+    {
+      "id": 27,
+      "title": "Endpoint, Device Management and Virtual Desktop",
+      "evidence": "T1, T2.",
+      "actions": [
+        "Deployed Microsoft Intune Plan 1 and Plan 2, Intune Suite, Endpoint Privilege Management, Windows Autopilot and MECM and SCCM co-management across managed fleets.",
+        "Provisioned Azure Virtual Desktop and Windows 365 Business and Enterprise with host pools, FSLogix profile containers, image lifecycle and conditional-access device compliance.",
+        "Implemented Defender for Endpoint Plan 1 and Plan 2, Defender for Identity, Defender for Cloud Apps, Defender for Office 365 and Defender Vulnerability Management."
+      ],
+      "evaluated": ""
+    },
+    {
+      "id": 28,
+      "title": "Lakehouse, Data Platform and Streaming Architecture",
+      "evidence": "T1, T2, T3, T5.",
+      "actions": [
+        "Modelled lakehouse architecture on Azure Data Factory, Databricks, Delta Lake, Microsoft Fabric, OneLake, Synapse and Spark with medallion layering, schema evolution, cataloguing and lineage.",
+        "Wired streaming and change-data pipelines through Kafka, Kafka Connect, Kafka Streams, Flink, Debezium, Event Hubs, EventBridge, Kinesis, Pub/Sub and SQS with retry, idempotency and dead-letter handling.",
+        "Orchestrated transformation workflows using Airflow and dbt with contract testing and freshness monitoring."
+      ],
+      "evaluated": "Apache Iceberg, DuckDB, Unity Catalog, Trino, ClickHouse, Confluent, Pulsar, NATS, ActiveMQ, Dagster, Fivetran, Airbyte, reverse ETL."
+    },
+    {
+      "id": 29,
+      "title": "Data Governance, Quality and Master Data Management",
+      "evidence": "T2, T3, T5.",
+      "actions": [
+        "Defined data-mesh and data-product operating patterns with data contracts, domain ownership, federated governance and published service levels.",
+        "Established data classification, retention, residency, sovereignty and stewardship controls with business glossary and catalogue publication.",
+        "Specified data-quality testing and observability gates preventing defective records from reaching downstream analytics.",
+        "Applied data-product management and data-centric AI engineering to unstructured pipelines, ontology design, knowledge-graph operations and enterprise knowledge management feeding real-time and event-driven AI systems."
+      ],
+      "evaluated": "Great Expectations, Soda, Monte Carlo, Collibra, Alation, DataHub, OpenMetadata, master data management platforms, differential privacy, synthetic data generation."
+    },
+    {
+      "id": 30,
+      "title": "Database Engineering and Distributed Data",
+      "evidence": "T1, T2.",
+      "actions": [
+        "Engineered database estates across SQL Server Always On, Oracle, PostgreSQL, pgvector, MySQL, MariaDB, MongoDB, Redis, DynamoDB, Cosmos DB, BigQuery, Redshift and Snowflake.",
+        "Applied high availability, replication, sharding, partitioning, point-in-time recovery, transparent data encryption and backup verification.",
+        "Tuned PostgreSQL clusters using Patroni failover orchestration and pgBouncer connection pooling under sustained concurrency."
+      ],
+      "evaluated": "Cassandra, Valkey, Elasticsearch and OpenSearch cluster operations."
+    },
+    {
+      "id": 31,
+      "title": "Analytics, Business Intelligence and Semantic Layer",
+      "evidence": "T2, T3.",
+      "actions": [
+        "Designed semantic and metrics layers establishing governed definitions for revenue, margin, availability and operational key performance indicators.",
+        "Delivered governed self-service analytics with row-level security, certified datasets and refresh governance."
+      ],
+      "evaluated": "Power BI Pro and Premium, Tableau, Looker deployment topology."
+    },
+    {
+      "id": 32,
+      "title": "Software Architecture, Domain-Driven Design and Modernisation",
+      "evidence": "T1, T2, T3.",
+      "actions": [
+        "Applied Domain-Driven Design with bounded contexts, event storming, ubiquitous language and context mapping to decompose entangled estates.",
+        "Implemented Clean and Hexagonal ports-and-adapters architecture, SOLID principles, modular monolith patterns and twelve-factor application discipline.",
+        "Executed strangler-fig decomposition with CQRS, event sourcing, transactional outbox, saga orchestration, circuit breakers, bulkheads, backpressure and load shedding.",
+        "Enforced quality through unit, integration, contract and end-to-end testing, pytest suites, test-driven development, code review and architecture fitness functions.",
+        "Modernised COBOL, IBM iSeries, AS/400, OS/400, AIX, HP-UX, Oracle, Informix, Sybase, Novell NetWare and Lotus Notes Domino estates through discovery, dependency mapping and migration planning."
+      ],
+      "evaluated": "Go, TypeScript, Java, C# and Jupyter within polyglot delivery teams."
+    },
+    {
+      "id": 33,
+      "title": "Enterprise Integration, iPaaS and API Management",
+      "evidence": "T1, T2, T5.",
+      "actions": [
+        "Exposed API estates using REST, GraphQL, gRPC, OpenAPI, AsyncAPI, OAuth 2.0 and 2.1, OIDC, JWT and mutual TLS with versioning, schema registry, schema evolution and contract testing.",
+        "Governed API lifecycle across API Management and API Gateway with rate limiting, quotas, monetisation-ready metering and audit trails.",
+        "Delivered business-to-business and electronic data interchange integration under partner service-level obligation."
+      ],
+      "evaluated": "MuleSoft, Dell Boomi, Apigee, Kong, Tyk, enterprise service bus consolidation."
+    },
+    {
+      "id": 34,
+      "title": "SaaS Product Engineering, Payments and Multi-Tenancy",
+      "evidence": "T1, T2, T3.",
+      "actions": [
+        "Shipped multi-tenant SaaS on Python, Django, FastAPI, Flask, Streamlit, Jinja, PostgreSQL, pgvector, Redis, Docker and Cloudflare with subscriptions, entitlements, quotas and usage metering.",
+        "Enforced tenant security through role-based access control, row-level isolation, encryption, secrets management, consent capture, retention workflows and negative-authorisation testing.",
+        "Integrated Stripe Checkout with signed webhook verification, idempotent event processing, refund and revocation states and PCI-aware handling.",
+        "Progressed a multi-tenant product through prototype, minimum viable product, pilot and production-release activities, with internationalization and future growth incorporated into the design."
+      ],
+      "evaluated": ""
+    },
+    {
+      "id": 35,
+      "title": "Automation, Robotic Process Automation and Workflow Engineering",
+      "evidence": "T1, T2, T3, T5.",
+      "actions": [
+        "Integrated Odoo, Zoho, Dynamics 365, Oracle Fusion and Workday across CRM, ERP, finance, HR, procurement and inventory using Python, Deluge, APIs, webhooks and Azure Functions.",
+        "Automated document workflows with optical character recognition, reconciliation, retry semantics and idempotent replay.",
+        "Built Power Platform automations using Power Apps, Power Automate premium connectors, Dataverse and Copilot Studio."
+      ],
+      "evaluated": "UiPath agentic automation, Automation Anywhere, Workato."
+    },
+    {
+      "id": 36,
+      "title": "IT Service Management, CMDB and Operational Governance",
+      "evidence": "T1, T2, T5.",
+      "actions": [
+        "Operated ITIL 4 service management covering service catalogue, configuration management, asset management, change enablement, problem management, release management and service continuity.",
+        "Reconciled configuration management databases against discovered inventory ahead of migration waves, resolving ownership and dependency gaps.",
+        "Coordinated delivery through Jira and Confluence with architecture decision records maintained in a versioned repository."
+      ],
+      "evaluated": "ServiceNow ITSM and ITOM, Common Service Data Model alignment."
+    },
+    {
+      "id": 37,
+      "title": "FinOps, Cloud Economics and Sustainable Technology",
+      "evidence": "T1, T2, T5.",
+      "actions": [
+        "Instituted FinOps practice across cost allocation, tagging strategy, showback and chargeback, forecasting, anomaly detection, rightsizing, commitment and reservation management, Savings Plans, spot capacity and egress optimisation.",
+        "Recovered $2M-plus through Microsoft Enterprise Agreement, AWS Enterprise Discount Program and VMware licence rationalisation, supported by software asset management discipline.",
+        "Modelled unit economics including cost per transaction, cost per user, cost per inference and cost per token using unit-cost reporting."
+      ],
+      "evaluated": "Apptio, CloudHealth, Cloudability, Kubecost, OpenCost, GreenOps and carbon-aware workload scheduling."
+    },
+    {
+      "id": 38,
+      "title": "Regulated Delivery, Compliance Automation and Sovereignty",
+      "evidence": "T1, T2, T5.",
+      "actions": [
+        "Mapped controls to NIST Cybersecurity Framework 2.0, NIST SP 800-53, NIST SP 800-171, NIST SP 800-207, ISO/IEC 27001, 27017, 27018, 27701 and 42001, SOC 1 and SOC 2, PCI DSS, HIPAA and HITECH, PIPEDA, PHIPA, GDPR and UK GDPR.",
+        "Automated audit evidence through policy-as-code, compliance-as-code, risk-as-code and continuous control testing, reducing manual evidence gathering at audit time.",
+        "Architected sovereign and jurisdiction-aware placement using Azure Government, AWS GovCloud, Google Assured Workloads, data-residency controls and air-gapped and disconnected operations."
+      ],
+      "evaluated": "CMMC, FedRAMP, HITRUST, CSA Cloud Controls Matrix, OWASP SAMM, FFIEC, Basel III, Solvency II, SEC cybersecurity disclosure, EU Data Act, Digital Operational Resilience Act, ITAR and EAR obligations."
+    },
+    {
+      "id": 39,
+      "title": "Enterprise Architecture Governance and Portfolio Management",
+      "evidence": "T1, T2.",
+      "actions": [
+        "Produced architecture artefacts including current and target-state assessment, high-level and low-level design, C4 models, Mermaid diagram-as-code, architecture decision records, threat models, dependency maps and risk registers.",
+        "Maintained an architecture repository, architecture runway and architecture-debt register under a design authority and architecture review board using TOGAF, ArchiMate and Zachman reference structures.",
+        "Executed capability-based planning, value-stream mapping, application portfolio management and portfolio rationalisation to retire duplicated capability.",
+        "Governed migration-factory execution across discovery, 6R and 7R strategy, wave planning, cutover, hypercare and operational handover."
+      ],
+      "evaluated": ""
+    },
+    {
+      "id": 40,
+      "title": "Forward-Deployed Engineering, Executive Advisory and Commercial Delivery",
+      "evidence": "T1, T2.",
+      "actions": [
+        "Operated forward-deployed alongside customer engineering teams, converting ambiguous business problems into working architecture through discovery workshops, whiteboard sessions and embedded delivery.",
+        "Led proof-of-value and pilot engagements from prototype through production adoption, tracking proof-of-value conversion, adoption rate, time-to-value, cost per task and human-to-agent escalation rate as delivery measures.",
+        "Presented investment options, business cases, financial models and benefits-realisation plans to executive steering and investment committees, applying Pyramid Principle structuring and MECE problem decomposition.",
+        "Led pursuits and proposal defence across statements of work, RFP and RFI responses, vendor scorecards, build-versus-buy analysis and pre-sales solution design, negotiating with BATNA and ZOPA framing.",
+        "Conducted technology due diligence for merger, acquisition, divestiture, carve-out and post-merger integration, informing valuation and integration sequencing.",
+        "Applied pre-mortem analysis, weighted decision matrices, second-order thinking, scenario foresight and cognitive-bias mitigation to high-consequence architecture decisions, while mentoring 50-plus engineers through coaching and succession planning."
+      ],
+      "evaluated": ""
+    },
+    {
+      "id": 41,
+      "title": "Edge, Internet of Things, Operational Technology and Physical AI",
+      "evidence": "T1, T2, T3, T5.",
+      "actions": [
+        "Architected edge and internet-of-things topology spanning devices, sensors, store systems, gateways, device identity and attestation, secure provisioning, over-the-air update, telemetry ingestion and controlled remote administration.",
+        "Segmented operational-technology from information-technology estates following Purdue Enterprise Reference Architecture layering and IEC 62443 zone-and-conduit principles across manufacturing and critical-infrastructure sites.",
+        "Sustained industrial estates interfacing supervisory control and data acquisition, industrial control systems, manufacturing execution systems and programmable logic controllers under availability and safety constraint.",
+        "Designed retail edge intelligence covering computer-vision shelf analytics, visual inspection, inventory automation and smart-store telemetry feeding cloud artificial-intelligence and machine-learning pipelines.",
+        "Specified edge inference placement, disconnected and offline-first operation, distributed fleet management and on-device model deployment for bandwidth-constrained and intermittently connected sites."
+      ],
+      "evaluated": "Azure IoT Hub, IoT Edge and IoT Operations, Azure Digital Twins, AWS IoT Core, Greengrass, SiteWise and TwinMaker, Google Distributed Cloud Edge, EdgeX Foundry, OPC UA, MQTT, Modbus, CAN bus, time-sensitive networking, private 5G, ROS 2, NVIDIA Jetson, Isaac and Omniverse, robotics and autonomous systems, physical and embodied artificial intelligence, spatial computing, digital twins, TinyML, ONNX Runtime, WebNN, ISA-95, product lifecycle management, predictive maintenance."
+    }
+  ]
+}

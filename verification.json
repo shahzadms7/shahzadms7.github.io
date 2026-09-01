@@ -1,0 +1,29 @@
+{
+  "projectFamilies": 41,
+  "technologyDomains": 15,
+  "engagementStories": 6,
+  "viewports": [
+    360,
+    390,
+    768,
+    1024,
+    1440
+  ],
+  "overflow": [],
+  "errors": [],
+  "externalPageRequests": 0,
+  "checks": [
+    "anchors",
+    "search",
+    "empty results",
+    "reset",
+    "category filter",
+    "expand/collapse",
+    "engagement disclosure",
+    "mobile menu",
+    "Escape",
+    "no-JavaScript reading",
+    "legacy redirect"
+  ],
+  "accessibilityViolations": []
+}

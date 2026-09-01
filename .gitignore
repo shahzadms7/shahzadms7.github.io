@@ -2,3 +2,5 @@
 node_modules/
 _deploy_backup/
 job-radar/
+__pycache__/
+*.pyc
