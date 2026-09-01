@@ -52,3 +52,13 @@
   document.querySelector('#print-profile').addEventListener('click', () => window.print());
   filter();
 })();
+
+// Open architecture disclosures for direct links from engagement stories.
+function revealArchitecture(){
+ const id=location.hash.slice(1);
+ if(!id.startsWith('architecture-')) return;
+ const panel=document.getElementById(id);
+ if(panel instanceof HTMLDetailsElement) panel.open=true;
+}
+window.addEventListener('hashchange',revealArchitecture);
+revealArchitecture();
