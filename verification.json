@@ -25,5 +25,21 @@
     "no-JavaScript reading",
     "legacy redirect"
   ],
-  "accessibilityViolations": []
+  "accessibilityViolations": [],
+  "release": "Previous release: initial single-page redesign",
+  "visualArchitectureUpdate": {
+    "diagrams": 8,
+    "projectFamilies": 41,
+    "technologyDomains": 15,
+    "checks": [
+      "build",
+      "asset paths",
+      "anchor targets",
+      "unique IDs",
+      "SVG XML",
+      "JavaScript syntax",
+      "git diff whitespace"
+    ],
+    "browserRetested": false
+  }
 }

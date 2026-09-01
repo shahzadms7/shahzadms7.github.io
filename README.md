@@ -1,35 +1,71 @@
-# Shahzad MS — Enterprise Architecture & Delivery Portfolio
+# Shahzad MS
 
-Single-page responsive portfolio at https://shahzadms7.github.io/.
+**Principal Enterprise, Cloud & AI Architect · Hands-on Technical Leader · Fractional CTO/CIO**
 
-## Content
+[View my portfolio](https://shahzadms7.github.io/) · [Email me](mailto:shahzad.ms@yahoo.com) · [LinkedIn](https://www.linkedin.com/in/shahzadms/) · [GitHub](https://github.com/shahzadms7)
 
-Six anonymized engagement stories, a discovery-to-handover workflow, 41 project families and 15 technology domains. Direct email, LinkedIn and GitHub routes. No tracking, form backend, cookies, hosted fonts or external runtime dependencies.
+Based in the Greater Toronto Area, Canada. Available for employment, contracts, consulting, scoped projects, fractional leadership and selected startup partnerships.
 
-## Edit and build
+## From business challenge to working technology
 
-`build.py` contains page structure and engagement stories. `portfolio-data.json` contains project-family content; `technology-data.json` holds the broader capability inventory. Styles and interactions are in `assets/css/portfolio.css` and `assets/js/portfolio.js`.
+My experience spans 1992–2026: datacentres and ISP operations, enterprise systems, cloud modernization, cybersecurity, software, data and AI. I connect customer discovery and executive decisions with architecture, hands-on engineering, operational support and practical handover.
 
-Run `python3 build.py` to regenerate the page, favicon and six legacy redirects. Preview using `python3 -m http.server 8765` at http://localhost:8765.
+## How I can help
 
-Core content and disclosure panels work without JavaScript. Search, filters, mobile menu and printing controls are progressively enhanced.
+| Your business need | My contribution |
+|---|---|
+| Decide what to invest in | Current-state assessment, architecture options, business case, roadmap, fractional CTO/CIO guidance |
+| Modernize critical systems | Datacentre, cloud, identity, messaging and application migration; continuity and recovery planning |
+| Build and deliver a product | Scope, architecture, MVP, integration, tenant-aware SaaS and production readiness |
+| Improve security and reliability | Identity, cloud security, SOC integration, observability, SRE, backup and disaster recovery |
+| Apply AI to real work | Use-case discovery, governed data, retrieval, agents, evaluation, pilot and adoption |
+| Extend a delivery team | MSP/CSP/MSSP support, presales, workshops, engineering, complex escalation and partner enablement |
 
-## Content rules
+## Architecture and delivery
 
-Do not add confidential client identities, identifying combinations or proprietary artifacts. Do not publish the unredacted master resume. Resume requests use email.
+The single page contains seven connected architecture views, six anonymized engagement stories, 41 project families and 15 searchable technology domains. Expand each view for technical detail and download the SVG for a discussion or presentation.
 
-Separate production delivery, architecture/design, prototype/pilot, training and evaluation. A family aggregates experience; it does not imply every listed tool was deployed together. Match metrics to units and periods. Never present roadmap features, evaluated tools or availability targets as delivered results.
+| View | Explore |
+|---|---|
+| Microsoft / Azure | [Enterprise operations, data and controlled AI](https://shahzadms7.github.io/#architecture-01) |
+| AWS | [AI, SaaS and cloud governance](https://shahzadms7.github.io/#architecture-02) |
+| MSP / CSP / MSSP | [Isolated multi-cloud customer delivery](https://shahzadms7.github.io/#architecture-03) |
+| Open-source SaaS | [Tenant-aware product engineering](https://shahzadms7.github.io/#architecture-04) |
+| ISP / datacentre | [Physical foundations through hosted services](https://shahzadms7.github.io/#architecture-05) |
+| Microsoft 365 | [Identity, migration, validation and transition](https://shahzadms7.github.io/#architecture-06) |
+| Google Cloud | [AI reference architecture for discussion](https://shahzadms7.github.io/#architecture-07) |
 
-The catalog is resume-derived and owner-supplied, not independently certified. Product names in historical/evaluated inventories are not assertions of current availability. Future additions require source, chronology and confidentiality review.
+![Discovery through production, handover and improvement](assets/diagrams/delivery-lifecycle.svg)
 
-## Deployment and recovery
+Scope and statement of work establish outcomes, deliverables, dependencies, responsibilities and acceptance criteria. Architecture and proof-of-concept work reduce uncertainty. MVP and pilot evidence inform release decisions. Production delivery includes monitoring, rollback and recovery. Handover includes as-built documentation, SOPs, runbooks, training and ownership.
 
-GitHub Pages retains its existing main-branch configuration. Submit a branch and PR, verify rendered behavior, then merge and confirm the Pages workflow and live content.
+## Technology breadth
 
-Pre-redesign baseline: `ea2f66ec4f17d0497130b2e21e1ec2c3494cc745`. Roll back by reverting the redesign merge through a reviewed commit; do not force-reset main. The previous design remains in Git history.
+Microsoft/Azure, AWS, Google Cloud, IBM, Oracle, hybrid and private cloud; networking, compute, storage, virtualization, Windows/Linux, identity and messaging; Kubernetes, infrastructure as code, CI/CD and GitOps; security and recovery; databases, analytics, APIs and integration; AI, retrieval and agents; commercial, customer-facing and technical leadership.
 
-Legacy solution URLs redirect to the relevant section of the single page.
+[Search the complete current catalog](https://shahzadms7.github.io/#catalog). Historical platforms, delivered work, architecture, prototypes, training and evaluation remain distinct. This catalog does not certify every technology used over a 34-year career.
 
-## Verification
+## Confidentiality and evidence
 
-Check generated content, asset/anchor targets, confidentiality, desktop/mobile overflow, keyboard navigation, search/filter/reset, disclosures, JavaScript-disabled reading and console errors. Check mailto destinations without sending messages. Page load should use local assets only.
+Public cases are anonymized. Diagrams are representative patterns, not confidential as-built client topology. A project family can aggregate separate engagements; it does not imply every product was deployed together. Detailed scope, personal contribution, scale and evidence can be discussed only within permitted confidentiality boundaries. No client list or unredacted resume is published here.
+
+## Start a conversation
+
+[Email shahzad.ms@yahoo.com](mailto:shahzad.ms@yahoo.com) with the role or business problem, desired outcome, timing and engagement type. Current resume and an appropriate technical walkthrough are available by request.
+
+---
+
+## Maintain this website
+
+Only this repository is in scope. Do not modify other repositories or publish confidential client content.
+
+- `build.py`: page structure and engagement stories.
+- `architecture.py`: self-contained SVG diagrams and platform strip.
+- `portfolio-data.json`: 41 project families.
+- `technology-data.json`: 15 technology domains.
+- `assets/css/portfolio.css` and `assets/js/portfolio.js`: styling and progressive enhancement.
+- `ICON_SOURCES.md`: product icon provenance and usage notes.
+
+Run `python3 build.py`, then preview with `python3 -m http.server 8765`. Core content, architecture disclosures and diagrams work without JavaScript. Search and mobile navigation are progressive enhancements.
+
+Publish through a branch and pull request, then confirm GitHub Pages. Preserve existing changes. Revert a release commit to roll back; do not force-reset main. Legacy solution URLs continue to redirect into the single landing page.
