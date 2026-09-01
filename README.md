@@ -23,7 +23,7 @@ My experience spans 1992–2026: datacentres and ISP operations, enterprise syst
 
 ## Architecture and delivery
 
-The single page contains seven connected architecture views, six anonymized engagement stories, 41 project families and 15 searchable technology domains. Expand each view for technical detail and download the SVG for a discussion or presentation.
+The single page contains 35 architecture views plus the delivery lifecycle, six anonymized engagement stories, 41 project families and 15 searchable technology domains. A searchable career archive accounts for all 725 source entries in the August 2026 master resume. Expand each view for technical detail and download the SVG for a discussion or presentation.
 
 | View | Explore |
 |---|---|
@@ -45,6 +45,23 @@ Microsoft/Azure, AWS, Google Cloud, IBM, Oracle, hybrid and private cloud; netwo
 
 [Search the complete current catalog](https://shahzadms7.github.io/#catalog). Historical platforms, delivered work, architecture, prototypes, training and evaluation remain distinct. This catalog does not certify every technology used over a 34-year career.
 
+## Explore the complete portfolio
+
+| Area | Coverage |
+|---|---|
+| [All architecture views](https://shahzadms7.github.io/#architecture) | Azure, AWS, Google, Oracle, IBM, Alibaba reference, Cloudflare, Tailscale, bare metal, virtualization, Linux/UNIX, Zero Trust, SOC, BCP/DR, availability, DevSecOps, platform engineering, SRE, databases, AI operations, agents/MCP, ERP, licensing, governance, applications and five provider-specific medallion patterns |
+| [IaaS, PaaS and SaaS](https://shahzadms7.github.io/#service-models) | Infrastructure, platform, application and operating responsibilities across public, private and hybrid environments |
+| [Licensing and economics](https://shahzadms7.github.io/#licensing) | Microsoft, Google, server/database, cloud and open-source entitlement lifecycle |
+| [Credentials and development](https://shahzadms7.github.io/#credentials) | Resume-listed education, qualifications, training, pending examinations and development plans |
+| [Industry solutions](https://shahzadms7.github.io/#industry-solutions) | Twelve anonymized business-environment groups |
+| [Complete career record](https://shahzadms7.github.io/#career-library) | 725 searchable source records, with identifiers withheld and sensitive details generalized |
+| [Additional solution coverage](https://shahzadms7.github.io/#solution-extensions) | Eighteen requested extensions and design checklists, with evidence boundaries |
+| [Product lifecycle review](https://shahzadms7.github.io/#current-reference) | Dated official sources, retirements and naming checks |
+
+The record distinguishes experience stated in the resume, evaluations, pending exams and additional reference designs. It does not imply that every service, module, Linux variant or certification has been used or earned. The source lists 13 Linux families; a claim of 50+ named variants needs a supporting inventory. Five-nines availability is a design target in the reference material, not a published delivered result. Event attendance without names and dates remains unconfirmed.
+
+[Coverage review](COVERAGE_REVIEW.md) · [Source-to-page register](coverage-audit.json) · [Official research sources](research-data.json)
+
 ## Confidentiality and evidence
 
 Public cases are anonymized. Diagrams are representative patterns, not confidential as-built client topology. A project family can aggregate separate engagements; it does not imply every product was deployed together. Detailed scope, personal contribution, scale and evidence can be discussed only within permitted confidentiality boundaries. No client list or unredacted resume is published here.
@@ -60,7 +77,10 @@ Public cases are anonymized. Diagrams are representative patterns, not confident
 Only this repository is in scope. Do not modify other repositories or publish confidential client content.
 
 - `build.py`: page structure and engagement stories.
-- `architecture.py`: self-contained SVG diagrams and platform strip.
+- `architecture.py` and `architecture_expansion.py`: 35 architecture views and the delivery lifecycle.
+- `portfolio_depth.py`: detailed career, credential, industry and solution sections.
+- `career-source-data.json` and `coverage-audit.json`: anonymized source records and dispositions.
+- `solution-extensions.json` and `research-data.json`: reference coverage and dated official sources.
 - `portfolio-data.json`: 41 project families.
 - `technology-data.json`: 15 technology domains.
 - `assets/css/portfolio.css` and `assets/js/portfolio.js`: styling and progressive enhancement.

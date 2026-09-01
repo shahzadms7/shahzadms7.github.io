@@ -18,3 +18,11 @@ Packages: [Azure V24](https://arch-center.azureedge.net/icons/Azure_Public_Servi
 
 Service icons identify their named products. Provider marks identify broader multi-service groups. Original colours, geometry and proportions are preserved. These are the published source packages available at retrieval time; icon artwork is not evidence of personal production experience.
 SVG diagrams embed the local assets so downloaded diagrams do not depend on external image requests. Preserve original icon geometry and colours.
+
+## Expanded service library
+
+The additional 72 service icons are mapped to their original package paths in [service-icon-manifest.json](service-icon-manifest.json). Azure and AWS use the packages above. Google Cloud additional service artwork is from the official [legacy architecture icon package](https://services.google.com/fh/files/misc/google-cloud-legacy-icons.zip); legacy artwork does not imply a current product edition.
+
+Cloudflare's unchanged mark comes from its [press kit](https://www.cloudflare.com/press/). Tailscale's unchanged mark comes from its [media resources](https://tailscale.com/press). These are provider marks, not individual service symbols.
+
+Oracle's [official diagram toolkit](https://docs.oracle.com/en-us/iaas/Content/General/Reference/graphicsfordiagrams.htm) was identified, but its download could not be retrieved in this session. Oracle, IBM, Alibaba and other unprovided product-specific icons remain text-labelled. No substitute is presented as an official product icon. This icon inventory is not complete for every vendor product.

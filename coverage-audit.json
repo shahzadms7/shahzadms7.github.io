@@ -1,0 +1,5087 @@
+{
+  "source": "ShahzadMS_Resume_2026_v08.docx",
+  "reviewed": "2026-09-01",
+  "records": [
+    {
+      "source_id": "R0001",
+      "source_sha256": "7d40fbb579a2548ce87f52ffb0b25d7a786ba1dc0ec01f465732fd4100633d0f",
+      "disposition": "heading",
+      "public_anchor": "source-R0001",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0002",
+      "source_sha256": "da365bb3aec4e351bbeece540572616b8530937988d114059c73630212c45da6",
+      "disposition": "heading",
+      "public_anchor": "source-R0002",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0003",
+      "source_sha256": "f56fee05799726c124d92e75f3afd38f9af2b41e4623743b7fd2a77bf593b092",
+      "disposition": "heading",
+      "public_anchor": "source-R0003",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0004",
+      "source_sha256": "7c54a6288de3791c3c342c0111bc2503a8bf12655eb78bffdb147dc59a2de5be",
+      "disposition": "heading",
+      "public_anchor": "source-R0004",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0005",
+      "source_sha256": "a70dcdf0f90c7ed37dfa57ebf3b1d7d1ab1dfc58f152f5a275aac786fc7f10b5",
+      "disposition": "heading",
+      "public_anchor": "source-R0005",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0006",
+      "source_sha256": "3e3c88c23b0ea74f24dac588db1a2c9309c8a5f1cadfe0f3aaaaafcadbb91239",
+      "disposition": "retained",
+      "public_anchor": "source-R0006",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0007",
+      "source_sha256": "7745e626b552d2e8ab3daf76bac86ae75cceefa9a14d1c28c519f6ccf280fb39",
+      "disposition": "retained",
+      "public_anchor": "source-R0007",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0008",
+      "source_sha256": "813acd813c97b960ec3145c8b1d79ff52522dd8420fff08e3e8e9ba3439d3715",
+      "disposition": "heading",
+      "public_anchor": "source-R0008",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0009",
+      "source_sha256": "ed71606dce22fa14f2bcf569cbd63419ca4ebc88354c2b61ac8643077687783f",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0009",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0010",
+      "source_sha256": "9db589e84e2237ed0d6a573f2dac6cff0b3fe371136a63da597edb89a2550640",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0010",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0011",
+      "source_sha256": "d11ca44e438f6455a5d2b6ef59db405bd0c5bcf2beeb6da7bf01fb452fc1a3d3",
+      "disposition": "retained",
+      "public_anchor": "source-R0011",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0012",
+      "source_sha256": "9e824ac08409f7a17d009a52693c8c22194b82546320d8904e8d11966e6e9a41",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0012",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0013",
+      "source_sha256": "9f38bc646d80cafe65e4eeca7cbe954274d82dc2f8322e8c97fc39313345525b",
+      "disposition": "retained",
+      "public_anchor": "source-R0013",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0014",
+      "source_sha256": "50b6a45395eb78380886deb04969de701654afd0cf3f92d4a0781a0a28e12aac",
+      "disposition": "retained",
+      "public_anchor": "source-R0014",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0015",
+      "source_sha256": "7b3dd7882a883e865f746b72c63a8d31a8c7f47f72f7fe3187a3eeb3bf6a1f87",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0015",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0016",
+      "source_sha256": "e47fb3d1b563c5fe9453a7583172a355d2fc7f64025082edfd7eeb0bec8a6234",
+      "disposition": "retained",
+      "public_anchor": "source-R0016",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0017",
+      "source_sha256": "cd37f9c59847c29cb175aeeca8b0424e9c54078ba87d686e6f3c69181e8d8bb9",
+      "disposition": "heading",
+      "public_anchor": "source-R0017",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0018",
+      "source_sha256": "f0fe59682ebb33bddd2c994e15184b4c1d84bcb75a835e211193fc6a549809ea",
+      "disposition": "retained",
+      "public_anchor": "source-R0018",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0019",
+      "source_sha256": "ac03c5c2c0c4464c4ab6c158e3bdc970fd72f3e15d8b38dfdb8024a08188c991",
+      "disposition": "retained",
+      "public_anchor": "source-R0019",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0020",
+      "source_sha256": "96bda9cd097504864403abbaa73eb76942fad06c2cced8d7d8ca0963ace91877",
+      "disposition": "heading",
+      "public_anchor": "source-R0020",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0021",
+      "source_sha256": "262e2820f79acdc39fab6218dedbb9e0d0f097e76b2a13191f7a6c081b07f2b7",
+      "disposition": "retained",
+      "public_anchor": "source-R0021",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0022",
+      "source_sha256": "bef290bfd43cc9dc676f15a9cd5cbadaaba89cf6718bd44434cc24333c6e9b30",
+      "disposition": "retained",
+      "public_anchor": "source-R0022",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0023",
+      "source_sha256": "ecdde8054d13a49927a62ea5dac48232915220f5807941761d481566baa56180",
+      "disposition": "retained",
+      "public_anchor": "source-R0023",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0024",
+      "source_sha256": "e6ba08a0c5db4f35e61b3c6214d16b2c80c5ca9c8c82cf0239ba8deef96de624",
+      "disposition": "retained",
+      "public_anchor": "source-R0024",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0025",
+      "source_sha256": "91fe8265ab90794c8c541876576a084b91853a78ef2e7585b564c5ec994311ec",
+      "disposition": "retained",
+      "public_anchor": "source-R0025",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0026",
+      "source_sha256": "5bbf47fa75d3acd30d62a9298f55dece065cb0e5b021091007932b9b268e6723",
+      "disposition": "retained",
+      "public_anchor": "source-R0026",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0027",
+      "source_sha256": "595bc1f40695b6907fa6af0c8b78c9add9e235029d503efe4c926db59c8e8caf",
+      "disposition": "heading",
+      "public_anchor": "source-R0027",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0028",
+      "source_sha256": "913b3f40217f3cce1b190f99875a747bb1a82dd06873cbd66d87b1929f079b97",
+      "disposition": "retained",
+      "public_anchor": "source-R0028",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0029",
+      "source_sha256": "89cafd20cd1b4e616f6f2141a23052402eafaf727cd392b213c4b32d17571903",
+      "disposition": "retained",
+      "public_anchor": "source-R0029",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0030",
+      "source_sha256": "a45f5584d1dd9a7cd85e13ff34bbb6c2b3b41b5d8d90d001b464532f28d5093f",
+      "disposition": "retained",
+      "public_anchor": "source-R0030",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0031",
+      "source_sha256": "459bd5f4bb09be309f56467e806542b3e9975bc6008665e5841540429c9932e2",
+      "disposition": "retained",
+      "public_anchor": "source-R0031",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0032",
+      "source_sha256": "464ffd06fb53df36d9cda64d4bcebb79aa35f384a925a301c348bad9ecea9671",
+      "disposition": "heading",
+      "public_anchor": "source-R0032",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0033",
+      "source_sha256": "c5c8668bf9366aa863e8d50f8b448d2fac17947badb43b79d393bbb15e9520c3",
+      "disposition": "retained",
+      "public_anchor": "source-R0033",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0034",
+      "source_sha256": "f301d4424a494552a8fd939abc85640596b4de5b2de30f7d8614f6b451492cfa",
+      "disposition": "retained",
+      "public_anchor": "source-R0034",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0035",
+      "source_sha256": "0eff0c2debef395633719ba950c718b53a24ec234e181af61fd023adccfacdeb",
+      "disposition": "retained",
+      "public_anchor": "source-R0035",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0036",
+      "source_sha256": "4220301457e22af2049de2446d4ee911ad7ad29632bbf981e1c740634bec9ee6",
+      "disposition": "retained",
+      "public_anchor": "source-R0036",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0037",
+      "source_sha256": "52f311455bce740557f319293e1590c8e989eec814fbc16081a48f1b28a4e72b",
+      "disposition": "heading",
+      "public_anchor": "source-R0037",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0038",
+      "source_sha256": "54718fa8439a82d7cb7febc578b75a9591e2f2dfbf7051cb3175bd9f18a3f89f",
+      "disposition": "retained",
+      "public_anchor": "source-R0038",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0039",
+      "source_sha256": "64fee593d233ca3602bd5e36bc58d17879069fb4db2a684cc0a7880245addbcb",
+      "disposition": "retained",
+      "public_anchor": "source-R0039",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0040",
+      "source_sha256": "477b51898941cd23f07adfd91d610c2570ff21b3335dcee56ad58cf52d44eba1",
+      "disposition": "retained",
+      "public_anchor": "source-R0040",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0041",
+      "source_sha256": "3bc447150ee350e4084c010b723382fa3300951cfc5ed9428f7887365e52854b",
+      "disposition": "heading",
+      "public_anchor": "source-R0041",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0042",
+      "source_sha256": "6ae1cd2c107a3b2cb2a6d5892ce17f27bc06515d7dfc7b1480a34e1992d18248",
+      "disposition": "retained",
+      "public_anchor": "source-R0042",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0043",
+      "source_sha256": "cc274835ea0409a93933d3d5f0ce0b4707e122e366fba403bb28bb2bae42f8a1",
+      "disposition": "retained",
+      "public_anchor": "source-R0043",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0044",
+      "source_sha256": "8080f02abfff7e8d4cf40403d748141a3c5e6d7622b3493cd74266367a1d277d",
+      "disposition": "retained",
+      "public_anchor": "source-R0044",
+      "section": "Leadership, business models and delivery"
+    },
+    {
+      "source_id": "R0045",
+      "source_sha256": "ea591f5f3aff27b3a7e1a31b470143fca2d9b6d237e2e06a0faba4d810e942ad",
+      "disposition": "heading",
+      "public_anchor": "source-R0045",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0046",
+      "source_sha256": "e34622d0c2b9012ebb94924083039bbf243994bd740882dda9afc40e8542273b",
+      "disposition": "heading",
+      "public_anchor": "source-R0046",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0047",
+      "source_sha256": "b5af59055b37896ac084e3812dcc2b2d529fb10e02ddd50350cb411021543051",
+      "disposition": "withheld-identifiers",
+      "public_anchor": "source-R0047",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0048",
+      "source_sha256": "b3a5e758ef6e1a0c7a142ad93209997095863a0829c376967a928bf7befc7d04",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0048",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0049",
+      "source_sha256": "0a275300a785159b0785becd706810293b3bc79e93eb4124abde1303650b56cf",
+      "disposition": "retained",
+      "public_anchor": "source-R0049",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0050",
+      "source_sha256": "069c4a0a4335f607cc57d137ea068aac3f3f4cd5772bd4dd94429d1c29d8ee8d",
+      "disposition": "retained",
+      "public_anchor": "source-R0050",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0051",
+      "source_sha256": "a29f4567ace6ecb8a3a712c7b9884cc8154d72af200ab49efc91cd9c704defa2",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0051",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0052",
+      "source_sha256": "5b36f901bc8c2165b5135d04c523405d0441d610750af4449c9c168c3c505e17",
+      "disposition": "retained",
+      "public_anchor": "source-R0052",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0053",
+      "source_sha256": "dafa762ce3e6d191cb70610ec7699a8e0c90f5ab2fe68ac891ec44f87fdedb5b",
+      "disposition": "retained",
+      "public_anchor": "source-R0053",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0054",
+      "source_sha256": "d0414bcef34ad8fd38c22164170a066b33edfb69d9ef541137cc7e04a01dbee8",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0054",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0055",
+      "source_sha256": "43719f053b3b9a5026636824622348c31f58630a9badd0117463e49952e1b568",
+      "disposition": "retained",
+      "public_anchor": "source-R0055",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0056",
+      "source_sha256": "a962f13f5bd5808ec67e470da467eead84abd818127a52041c94ee5a060c02ec",
+      "disposition": "retained",
+      "public_anchor": "source-R0056",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0057",
+      "source_sha256": "b770931ce472712e880abc43713e8a9ca4426c8884920fbe196b06ef81031cca",
+      "disposition": "retained",
+      "public_anchor": "source-R0057",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0058",
+      "source_sha256": "b3466a1ef8f6f2873e4ddc7bfeb62a2ee6bf982d0b8fc7f18697a0dd76f7a575",
+      "disposition": "retained",
+      "public_anchor": "source-R0058",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0059",
+      "source_sha256": "cc795f19b1e73e8ad35562715997de7d08de2f437ad0bea0db43ca3bdabfb4c0",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0059",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0060",
+      "source_sha256": "12af52e2b644586cd509f6d8ac1d40e50d8f9bd2dc374543f4395264104798a3",
+      "disposition": "retained",
+      "public_anchor": "source-R0060",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0061",
+      "source_sha256": "0c1cab9579317fd0d56e491f0184a0af7b615cab1136ac58179d1171aaea77f3",
+      "disposition": "retained",
+      "public_anchor": "source-R0061",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0062",
+      "source_sha256": "5412d937b8bed275ba575dcba5b73f77b459276ee50687724f75d31b789a9e37",
+      "disposition": "retained",
+      "public_anchor": "source-R0062",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0063",
+      "source_sha256": "051e8727b87d96e7fd4a1da96eaa499d85df53f25edf8d74d503a2fc783b4b68",
+      "disposition": "retained",
+      "public_anchor": "source-R0063",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0064",
+      "source_sha256": "eb449c8f679feaab8e4b7f0625952ab63b33f8e7d30b2b2ca7a5fabc9ddb8506",
+      "disposition": "retained",
+      "public_anchor": "source-R0064",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0065",
+      "source_sha256": "d61f42aadccbfbc90394244b185d4d404194f1812d1a35fb35c825e28eb878e3",
+      "disposition": "retained",
+      "public_anchor": "source-R0065",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0066",
+      "source_sha256": "cbc6051b0951522145ad5d720811733ff20befa0bda955d2e2f32df4451165f2",
+      "disposition": "retained",
+      "public_anchor": "source-R0066",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0067",
+      "source_sha256": "a23a3ff41da95f8372869e80959cf26d942d9be7ac6784f0360189ffb0bccc24",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0067",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0068",
+      "source_sha256": "a2a947a4e325be3cce0218b96b8fe2998b82948dbace29ac03575bcce32095b4",
+      "disposition": "retained",
+      "public_anchor": "source-R0068",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0069",
+      "source_sha256": "b8d167a9d8caf7bc3b78f1bfb3ebaec04bf10aaf2483eb6c37430d95baf6fd8b",
+      "disposition": "retained",
+      "public_anchor": "source-R0069",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0070",
+      "source_sha256": "73891ba14fdd72b557fd395faac8e98389efae73278cec024b051b439ea236c8",
+      "disposition": "retained",
+      "public_anchor": "source-R0070",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0071",
+      "source_sha256": "400355528470aa44d50ff7471835bf893651d1ce8031cfd52dc7ce4b781c3b3c",
+      "disposition": "retained",
+      "public_anchor": "source-R0071",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0072",
+      "source_sha256": "6afad2e6454d8d125490701e07d1441e0bbde76ba50614a6ad56e2c26b03f446",
+      "disposition": "retained",
+      "public_anchor": "source-R0072",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0073",
+      "source_sha256": "54c0fb3dc891392084f55085724e524432afd7c321f99f9f8b003dbfb7769f37",
+      "disposition": "retained",
+      "public_anchor": "source-R0073",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0074",
+      "source_sha256": "9ca8ccf10bc3c9d6da9df8093e2d088279cce37a8b03c5895abd54f1cb248acd",
+      "disposition": "retained",
+      "public_anchor": "source-R0074",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0075",
+      "source_sha256": "91a9eb6e55acc1b7a7c8eef5e1efe3db80a72236da81be683f9417cad6cfe9a3",
+      "disposition": "retained",
+      "public_anchor": "source-R0075",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0076",
+      "source_sha256": "bbe1c6b932ca457d840e966ca5cbf12099be1c5441ab5b723143492b037fa8aa",
+      "disposition": "retained",
+      "public_anchor": "source-R0076",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0077",
+      "source_sha256": "762cd54f30c5508b2157667e8acf014a9e50f91b03f9d13835568cc26375c70f",
+      "disposition": "retained",
+      "public_anchor": "source-R0077",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0078",
+      "source_sha256": "df2fcd03639f6fc9ebbaaba4d74c2026011e7415e74fa81afd4195c592fbf4ca",
+      "disposition": "retained",
+      "public_anchor": "source-R0078",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0079",
+      "source_sha256": "b2df2279951983b4f52418b9df101c3256efc298e8f13586e3b6a856ab773f20",
+      "disposition": "retained",
+      "public_anchor": "source-R0079",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0080",
+      "source_sha256": "5f8bc4ae92757f51649740f4ac1e8e97ad537c3458cd924c96822afdb3ff7aa3",
+      "disposition": "retained",
+      "public_anchor": "source-R0080",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0081",
+      "source_sha256": "8c0e068b8d36c188718f56030b003c9a94a5ff7a8f0172aa0fabbd5c0ff210d2",
+      "disposition": "retained",
+      "public_anchor": "source-R0081",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0082",
+      "source_sha256": "46fb0966474bdf6ac2da953045fd217cb529bf5f4caafa26aec400fe5d3f5d25",
+      "disposition": "retained",
+      "public_anchor": "source-R0082",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0083",
+      "source_sha256": "9aa520697f106192ba75cc2207e6198d9a5b8c825e400bc21e9ca9c657525206",
+      "disposition": "retained",
+      "public_anchor": "source-R0083",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0084",
+      "source_sha256": "3ddc859575bfc0b142827e0ef27c354a186e398e71d3b51b04824923dca5e49c",
+      "disposition": "retained",
+      "public_anchor": "source-R0084",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0085",
+      "source_sha256": "67b2cefd393863bb7e09b8a0c42397fde5cd225dffe4dda136c613f266794ba6",
+      "disposition": "retained",
+      "public_anchor": "source-R0085",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0086",
+      "source_sha256": "a91c467699ff7e61890a63a328955a6c99f96ce816a6fcffeff4d85a174c9b62",
+      "disposition": "retained",
+      "public_anchor": "source-R0086",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0087",
+      "source_sha256": "27ac085b59c3c0d1f04c414b9ab4897ee06e2e661abd4dbe1a96c54db96c8276",
+      "disposition": "retained",
+      "public_anchor": "source-R0087",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0088",
+      "source_sha256": "902fee4ed4c4b674122753638ac986a848444cd0f371fec48a96256834a39633",
+      "disposition": "retained",
+      "public_anchor": "source-R0088",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0089",
+      "source_sha256": "463307ecca40037e3c942ea5e0e6ae8509813b1bd3c2a86dcc64b8af562ce7bd",
+      "disposition": "retained",
+      "public_anchor": "source-R0089",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0090",
+      "source_sha256": "044ef1ebe249936cd08f8785a51e80e9675bc67c52433069d0ffbac44337c601",
+      "disposition": "retained",
+      "public_anchor": "source-R0090",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0091",
+      "source_sha256": "b5dfbf369e3b3873c1cdb26d9dd3c8f51e1fd2dc8626c4dc23243c37f91c506d",
+      "disposition": "retained",
+      "public_anchor": "source-R0091",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0092",
+      "source_sha256": "de8514c24b92b9f5b158699c79bf508edefeeeddfa7830c444cc26745e9c07aa",
+      "disposition": "retained",
+      "public_anchor": "source-R0092",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0093",
+      "source_sha256": "20e1c6f75c88ac6ae488200d5cb37e68a010a20efb79826039f13834fe7854d8",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0093",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0094",
+      "source_sha256": "cbd96f301c0bf928938062807187c1728964fc69d671e9529b9a9977281a52c6",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0094",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0095",
+      "source_sha256": "645afde9525a4f190b059777165232c14554b6add1c0dcdecd49b6ec8e6f7d6c",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0095",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0096",
+      "source_sha256": "bfc4c18975fb3c9482653dbc17056c38b022998723a11471ce94f257f07801dd",
+      "disposition": "retained",
+      "public_anchor": "source-R0096",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0097",
+      "source_sha256": "18da8faa9094fa87eae7b8554c2add6f82036fb16fcca0efa654575313066718",
+      "disposition": "retained",
+      "public_anchor": "source-R0097",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0098",
+      "source_sha256": "31c5d053f854774f2eb40e4d28eb7b955a19ecd152bd495cc8a43087bb0a4ba2",
+      "disposition": "retained",
+      "public_anchor": "source-R0098",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0099",
+      "source_sha256": "6162ed17931ab30a052ed6510095eccf9a7252bdc9ceccf3d3045bf4fca9794e",
+      "disposition": "retained",
+      "public_anchor": "source-R0099",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0100",
+      "source_sha256": "daeca09fe6619da963fc709fe95d674b8a67659896a5c79f80fb36f48fc2c310",
+      "disposition": "retained",
+      "public_anchor": "source-R0100",
+      "section": "Microsoft and Azure enterprise delivery"
+    },
+    {
+      "source_id": "R0101",
+      "source_sha256": "771639efffc45e012039bad63e3bfbbd5b3de925aa85514282c7c0e1cbfaa218",
+      "disposition": "withheld-identifiers",
+      "public_anchor": "source-R0101",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0102",
+      "source_sha256": "cb508cf01c0ff7d03b630a203fb1513225db342be9c4d51d60d6283e279de0ea",
+      "disposition": "retained",
+      "public_anchor": "source-R0102",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0103",
+      "source_sha256": "247d17b59eeabd3f258cd7e80dd34892bc1da37e876d9c0ea7f5ac89ef270576",
+      "disposition": "retained",
+      "public_anchor": "source-R0103",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0104",
+      "source_sha256": "2efae76853e7159246e1a09a75e39b655c3148c1543208c91763f40360fa02a5",
+      "disposition": "retained",
+      "public_anchor": "source-R0104",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0105",
+      "source_sha256": "25deabe3fce0beacbdbca53b51257667707fef8cf681956dd633d671d5678f96",
+      "disposition": "retained",
+      "public_anchor": "source-R0105",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0106",
+      "source_sha256": "c66de01099bbcb18621f2b02b3b75af1b0bd7f99595f66a2a7adabfadb66904b",
+      "disposition": "retained",
+      "public_anchor": "source-R0106",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0107",
+      "source_sha256": "4a7d0e9b5c4845a44aacebeb75f680e70a2a81af2d1c6731ea0796e0b48baf0f",
+      "disposition": "retained",
+      "public_anchor": "source-R0107",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0108",
+      "source_sha256": "7e206821689293eed12a04a52af21117c9424921c7ae917235b535db31b38bfe",
+      "disposition": "retained",
+      "public_anchor": "source-R0108",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0109",
+      "source_sha256": "6da9f90b9bd3d7b3f198afe624ad8490b242ebc05beb903d44b3b1165191aa3d",
+      "disposition": "retained",
+      "public_anchor": "source-R0109",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0110",
+      "source_sha256": "42455854b27cfb6852f20f10977302b633965a10bb5faffcbd268962a6df9c23",
+      "disposition": "retained",
+      "public_anchor": "source-R0110",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0111",
+      "source_sha256": "159a1bac5d2eedb802c925a98382d97759ee14decfb3d7a040cb48425f025fc3",
+      "disposition": "retained",
+      "public_anchor": "source-R0111",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0112",
+      "source_sha256": "3e15f717207df5a3f41c1c630ff81f7f361315b2318dd7887bf80cb826014514",
+      "disposition": "retained",
+      "public_anchor": "source-R0112",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0113",
+      "source_sha256": "e6025ace4d81f5ff3349d0a71b0322f77422fd271a35af6545b8c6670d07e696",
+      "disposition": "retained",
+      "public_anchor": "source-R0113",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0114",
+      "source_sha256": "7b0d7dedc959f82d97c37b1686e1709cc1eb85c850635d0aa9988dc03baba000",
+      "disposition": "retained",
+      "public_anchor": "source-R0114",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0115",
+      "source_sha256": "53248d2ab211d2efb6cc6f40280067a950f09476573e64b9270c89938481f89e",
+      "disposition": "retained",
+      "public_anchor": "source-R0115",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0116",
+      "source_sha256": "da83fab5ec6faadaada2b869d2918597909165abd9d6b21f597cf7e4576886ca",
+      "disposition": "retained",
+      "public_anchor": "source-R0116",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0117",
+      "source_sha256": "17dcd820d5626932ff900a2d44e0e6d7826706d64bf9aa7c676067f65479baad",
+      "disposition": "retained",
+      "public_anchor": "source-R0117",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0118",
+      "source_sha256": "dc45a14bd2683b55f0de3167956299fd9fa110e84f5565212a85f0764b08c3cb",
+      "disposition": "retained",
+      "public_anchor": "source-R0118",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0119",
+      "source_sha256": "c1f3bbcb33eba1e5ae2c6b3f8d50d790074d95c638a14058e0b3765c6f82747c",
+      "disposition": "retained",
+      "public_anchor": "source-R0119",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0120",
+      "source_sha256": "d0d5eb280cf06ae37c34f8d85aa3b4bcc5b963e35e412983b806bb8fdc770174",
+      "disposition": "retained",
+      "public_anchor": "source-R0120",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0121",
+      "source_sha256": "6e2f33da7e98c58ee88f45a0ba774dc4f35141b816a2b346986f8cec37d64b06",
+      "disposition": "retained",
+      "public_anchor": "source-R0121",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0122",
+      "source_sha256": "2a5526c2d07e98b9876ae2d7db21c5e4c828f14f8747dae76a39016f7d7f1e25",
+      "disposition": "retained",
+      "public_anchor": "source-R0122",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0123",
+      "source_sha256": "22fad758e90bb856bea006578cd229675b02a1e4ca832c8721c3bb6fa35361af",
+      "disposition": "retained",
+      "public_anchor": "source-R0123",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0124",
+      "source_sha256": "6a197740bb8dfe50833db5c5e20f82b51591c2995af6a05ba207cd5518d6ce1c",
+      "disposition": "retained",
+      "public_anchor": "source-R0124",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0125",
+      "source_sha256": "5f68ae6462c6f94d39006f7bb618b62a453bac75b11592935f96c15dd6f0a498",
+      "disposition": "retained",
+      "public_anchor": "source-R0125",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0126",
+      "source_sha256": "84455eb1e12d2bcf455bcdb975f218174f5127ad737896078120fd7a9c11dcca",
+      "disposition": "retained",
+      "public_anchor": "source-R0126",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0127",
+      "source_sha256": "bb1732f8ca75f82cac0f60ead4d5fc8f89375496a0d9657790e5717dabbb8325",
+      "disposition": "retained",
+      "public_anchor": "source-R0127",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0128",
+      "source_sha256": "4b899f768b514e93bf9bbff5d3187601971a5d299b494b65594a76132270579a",
+      "disposition": "retained",
+      "public_anchor": "source-R0128",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0129",
+      "source_sha256": "c0805b098f1d810a81bca5db6449a8abdda73d405498f66179b171e36cc067ef",
+      "disposition": "retained",
+      "public_anchor": "source-R0129",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0130",
+      "source_sha256": "a7bb75d6a0ad40a7cae22a91fc8830d464952c35591e2367f845cbf0d081689d",
+      "disposition": "retained",
+      "public_anchor": "source-R0130",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0131",
+      "source_sha256": "6b32ccb1951d289e6f00561379036cdec1eac57c6ed0b94ad6bd9acc70842425",
+      "disposition": "retained",
+      "public_anchor": "source-R0131",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0132",
+      "source_sha256": "2b1f9b4581f4f1251d091f8f3e66caa1c8f4db376a3d81034bf2aeb840c1e7ab",
+      "disposition": "retained",
+      "public_anchor": "source-R0132",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0133",
+      "source_sha256": "2961e399ef9bf96f57571052804aea656208fc0e99c4b4291875eda249077488",
+      "disposition": "retained",
+      "public_anchor": "source-R0133",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0134",
+      "source_sha256": "b472455de3dd3bec85e85eec73cff479d4abb50f64778223513879096dea85d8",
+      "disposition": "retained",
+      "public_anchor": "source-R0134",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0135",
+      "source_sha256": "c3e58b3bbac98259b8a44b36ae9b515d90ae9d9f642448d94a7df25c18d29f44",
+      "disposition": "retained",
+      "public_anchor": "source-R0135",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0136",
+      "source_sha256": "6fd28dd1327aa120211fee4e2dc9a1befb609b89ec86c47d332a7d9f04b64d5f",
+      "disposition": "retained",
+      "public_anchor": "source-R0136",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0137",
+      "source_sha256": "8de5a1de763dac37216ff8e9f5deeeffc7d785dbc0696349163fa8ea0b6a2910",
+      "disposition": "retained",
+      "public_anchor": "source-R0137",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0138",
+      "source_sha256": "2d5b1cd4d62f318035997666e2e52ef01a3d7a387de5c5cb2b8929a0f5614a52",
+      "disposition": "retained",
+      "public_anchor": "source-R0138",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0139",
+      "source_sha256": "c4435c471287c8e1130466555db8e3cd45f14607dbff850e1b5293747bc41d99",
+      "disposition": "retained",
+      "public_anchor": "source-R0139",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0140",
+      "source_sha256": "daf3042404fbf1ea4d5b8e6ab2e22aad575c371309a56d934e1ca4ffa6314a61",
+      "disposition": "retained",
+      "public_anchor": "source-R0140",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0141",
+      "source_sha256": "51a440208c9215ea28ee177e1b3fdd12c3fd5365cfe2c8b7757b98c46e29681d",
+      "disposition": "retained",
+      "public_anchor": "source-R0141",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0142",
+      "source_sha256": "984a097b71fe82c6e4d6b9898c06d02b67c2fdc9973224135d5773e90cc1534c",
+      "disposition": "retained",
+      "public_anchor": "source-R0142",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0143",
+      "source_sha256": "9afe65a73e12bb1221741f5aca5ac55344a5e42f152100f4843e3e5b5bcdb23f",
+      "disposition": "retained",
+      "public_anchor": "source-R0143",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0144",
+      "source_sha256": "7c044920d26cbeaeda6f5f56d2fdab85e727a53d510f27253cf5a2e6669c5efa",
+      "disposition": "retained",
+      "public_anchor": "source-R0144",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0145",
+      "source_sha256": "d05e33c465985e9b1a5702c82a3d7350327f856ec0ef5ec8a12bae42847f0585",
+      "disposition": "retained",
+      "public_anchor": "source-R0145",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0146",
+      "source_sha256": "036e6c7ff91a6a9a654cebeba6668ed276190fca901846f7a463c6f79d5fcc9d",
+      "disposition": "retained",
+      "public_anchor": "source-R0146",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0147",
+      "source_sha256": "387c1d5f78c1a5bc9b94c94e7109377dbc15cf7c179d61037a971c9f35c8dcc2",
+      "disposition": "retained",
+      "public_anchor": "source-R0147",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0148",
+      "source_sha256": "d0f6d006f9834eeb98c5a5aa28e04e72b59642f87af02f57f1353c2d3a269476",
+      "disposition": "heading",
+      "public_anchor": "source-R0148",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0149",
+      "source_sha256": "45eadec10fb9f19ba5cfc66d99e4fdd18011371e3be670c760cd25c2303c9252",
+      "disposition": "retained",
+      "public_anchor": "source-R0149",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0150",
+      "source_sha256": "c60d140f8af8ac59df3f637c5b834e119baffaee3f6277579ebbe7cc427cc421",
+      "disposition": "retained",
+      "public_anchor": "source-R0150",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0151",
+      "source_sha256": "96a056277614620210ef7f5948f7e5afba610f73a292985cbcb7520e23f4b382",
+      "disposition": "retained",
+      "public_anchor": "source-R0151",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0152",
+      "source_sha256": "34f5df6488f95c5ff66710906b793c83d0171a154d6efba41a6789ea55242fe4",
+      "disposition": "retained",
+      "public_anchor": "source-R0152",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0153",
+      "source_sha256": "de97022455bc126f5b8776efa7ca4b3168917ee4cb783a6248923a2896ff8329",
+      "disposition": "retained",
+      "public_anchor": "source-R0153",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0154",
+      "source_sha256": "53297c43c7cb030ecbcd51a2b10884ef6c011d1d9442f3ae08c75c4f27516545",
+      "disposition": "retained",
+      "public_anchor": "source-R0154",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0155",
+      "source_sha256": "74489f6a7128f80555d95f4b7f676b0e97f554b84173b2fbd54141cea852ae9d",
+      "disposition": "retained",
+      "public_anchor": "source-R0155",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0156",
+      "source_sha256": "101811199e48ff022a02633d363d6fe529695acc3a290372560fe8602b52b881",
+      "disposition": "retained",
+      "public_anchor": "source-R0156",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0157",
+      "source_sha256": "0f3e652013b60780d0dbe0f2e7e5bd06f2a6ca1085e4589989e509d5fb1cddbf",
+      "disposition": "retained",
+      "public_anchor": "source-R0157",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0158",
+      "source_sha256": "34071f510a1aacc8a5b9e2dd79f600f6cdb2819fce5dd0ad1dd96f19d4d859f3",
+      "disposition": "retained",
+      "public_anchor": "source-R0158",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0159",
+      "source_sha256": "35d26874c4cc2d50aedca55d6c15bc1e5d0d8207c39647eee5292a1629d65b3f",
+      "disposition": "retained",
+      "public_anchor": "source-R0159",
+      "section": "AWS and fractional technology leadership"
+    },
+    {
+      "source_id": "R0160",
+      "source_sha256": "4cce6c9ce3c3fffc6b2eb47423618e23ca899ec77c3c57ab6a94da8f49dfb652",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0160",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0161",
+      "source_sha256": "5e168fc099964195b121d2a248b2f7f06e2035ec023371b09a5a8bc5976c544e",
+      "disposition": "withheld-identifiers",
+      "public_anchor": "source-R0161",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0162",
+      "source_sha256": "97966f7a6495e71eaba67312eeffbb1f8a26c93fa690efc69896fc4244dba124",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0162",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0163",
+      "source_sha256": "43587d22bdd34e7d785154df7b2b57d7a032d37613f63677551b78c865334baf",
+      "disposition": "retained",
+      "public_anchor": "source-R0163",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0164",
+      "source_sha256": "670f67ae2224891b1aaac2475d22f6fda417c2d87012c15dccd8a56c4ad891be",
+      "disposition": "retained",
+      "public_anchor": "source-R0164",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0165",
+      "source_sha256": "cc715b40b43b0a33f36d2bfed8cd25d374652539d27da4752dc2adb331555310",
+      "disposition": "retained",
+      "public_anchor": "source-R0165",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0166",
+      "source_sha256": "c9d05363052adff9123ea8b1767b70aaf281435847577f1fcdcf55aa5a6c4138",
+      "disposition": "retained",
+      "public_anchor": "source-R0166",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0167",
+      "source_sha256": "dbb0f8ccf6aadac48e7c0fb81b03def3187664dece222bfa8d4de7352130da77",
+      "disposition": "retained",
+      "public_anchor": "source-R0167",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0168",
+      "source_sha256": "ae79a1c873b680ef5f22701d12aeeef7fa48311fdc429795398567fad855c19e",
+      "disposition": "retained",
+      "public_anchor": "source-R0168",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0169",
+      "source_sha256": "9646057cfa93bd17bc3bb84ab077ed83720548fd87ac0c2207963c6834830606",
+      "disposition": "retained",
+      "public_anchor": "source-R0169",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0170",
+      "source_sha256": "9c281177140d0c2ec79965c36707cbc16569902b9c408254057ea476aa1bf859",
+      "disposition": "retained",
+      "public_anchor": "source-R0170",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0171",
+      "source_sha256": "191aca8de047a72af1a04a31ac0cce7ab04810e79dfb44d6c9bd5687b0ffdd5a",
+      "disposition": "retained",
+      "public_anchor": "source-R0171",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0172",
+      "source_sha256": "1c8954af0f991707647028e684d17371857181a305c784256272725540ab60e3",
+      "disposition": "retained",
+      "public_anchor": "source-R0172",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0173",
+      "source_sha256": "921e60ae6e7a3a1e51c36f4a4a661e77a4e94f7e9637f985b04c4ab5502f22d0",
+      "disposition": "retained",
+      "public_anchor": "source-R0173",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0174",
+      "source_sha256": "e7b352bfd9128b710ba0dec7ca6ce5d9c0e7f7e451634c62837f274934697e0c",
+      "disposition": "retained",
+      "public_anchor": "source-R0174",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0175",
+      "source_sha256": "ea8b7fb8aeea7f0aa0296247abb0771c5ebe8eef3095575eb6f45c42d964ea72",
+      "disposition": "retained",
+      "public_anchor": "source-R0175",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0176",
+      "source_sha256": "60b9d8f7ec60f9c5ea71bb6393c280d5e8bad3d0860ff2b07281bdd2573bbc44",
+      "disposition": "retained",
+      "public_anchor": "source-R0176",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0177",
+      "source_sha256": "5e5d23d9e399341ef38e45dc56b573a31d728a3b98a7fcd9df6784724e9db103",
+      "disposition": "retained",
+      "public_anchor": "source-R0177",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0178",
+      "source_sha256": "e4b0e518c946af27af0811781ac58d360ba3716722337e9d13078cc36b855c74",
+      "disposition": "retained",
+      "public_anchor": "source-R0178",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0179",
+      "source_sha256": "b07a2971edbb8d08aeadb8d3289bd8adb35bb42ced353e5465bbd3dcf7b90651",
+      "disposition": "retained",
+      "public_anchor": "source-R0179",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0180",
+      "source_sha256": "1d545793e67387aff76b903b0ff1716a6368fc8007cda966b841e5f6c71787ab",
+      "disposition": "retained",
+      "public_anchor": "source-R0180",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0181",
+      "source_sha256": "0b40172a150eb101369f67e521e6792f375c744ce7e2a26a8a98c2e89ab70432",
+      "disposition": "retained",
+      "public_anchor": "source-R0181",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0182",
+      "source_sha256": "c9dbf65eb943ee5a6457cb0e410ab692c3496e8ed85c7b391fe95fceb951ed1c",
+      "disposition": "retained",
+      "public_anchor": "source-R0182",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0183",
+      "source_sha256": "bdb22bc0bac1b0400fab165744cc0a26fa2db4489041c92e94c2296ca6e042ce",
+      "disposition": "retained",
+      "public_anchor": "source-R0183",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0184",
+      "source_sha256": "0804969c7942e25f478c3ed635c1d76c09f3b7e04fede252d14e312a96db4fa6",
+      "disposition": "retained",
+      "public_anchor": "source-R0184",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0185",
+      "source_sha256": "15772d9f537ed16ed191c454bc9c351a89de1ed5f949ada620b06e2d9bfe8e87",
+      "disposition": "retained",
+      "public_anchor": "source-R0185",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0186",
+      "source_sha256": "9d16aa248dcdecdfac80aec013d92a148d71faa397e7aa1b4ec4890f55dab61b",
+      "disposition": "retained",
+      "public_anchor": "source-R0186",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0187",
+      "source_sha256": "c9e8f5462140c84c19b4c8d8b52e7393d2eff6512a1572cb2ac88242c3810c98",
+      "disposition": "retained",
+      "public_anchor": "source-R0187",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0188",
+      "source_sha256": "5d39b4a4f0c08ecadb0cf52984c7a7c42e74c18bbfe53705b4d5ae26a9240b62",
+      "disposition": "retained",
+      "public_anchor": "source-R0188",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0189",
+      "source_sha256": "ce62660e45b8251503b2e694fc2412f4bbe3c76a7e56165f480b65a217f91c84",
+      "disposition": "retained",
+      "public_anchor": "source-R0189",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0190",
+      "source_sha256": "f78247596728f6e15a3c15adc21a2753791af0066547efb9d5604b53c5033af0",
+      "disposition": "retained",
+      "public_anchor": "source-R0190",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0191",
+      "source_sha256": "7e0cf64d931183ffb2f1e511351d23c46e8e17897cc80d90be5f8d6e1afe19df",
+      "disposition": "retained",
+      "public_anchor": "source-R0191",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0192",
+      "source_sha256": "83f7f236d253b4956f5ee00e04d39a014aa4112ea60680a19e2393973445d1c4",
+      "disposition": "retained",
+      "public_anchor": "source-R0192",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0193",
+      "source_sha256": "99b49c5f922ba953177e02cda1f669a880056532479adfa30104754c3c12a5d5",
+      "disposition": "retained",
+      "public_anchor": "source-R0193",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0194",
+      "source_sha256": "255f45fa2f973e73f89831191902075f5f498c638c536756cd09b929f4384b9a",
+      "disposition": "retained",
+      "public_anchor": "source-R0194",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0195",
+      "source_sha256": "1322f4b7770d70f369980b4249ccec1906e3cd29682b159f86b02b72438d02b1",
+      "disposition": "retained",
+      "public_anchor": "source-R0195",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0196",
+      "source_sha256": "eff3a08ae08a2b2ebff0152c7c4064859ce9855482f1776267132a552977d51e",
+      "disposition": "retained",
+      "public_anchor": "source-R0196",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0197",
+      "source_sha256": "c46a0f6adcdbb56f55b1b4ce4b11bda8c2da3c50375a0442146db9289cad93a1",
+      "disposition": "retained",
+      "public_anchor": "source-R0197",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0198",
+      "source_sha256": "78a539503ab4ead62e3e4664728d989fb6deb135399c29f51a9811e5eb081755",
+      "disposition": "retained",
+      "public_anchor": "source-R0198",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0199",
+      "source_sha256": "7c71637aae22fe402af13c2055660d809a2bc5b27b0edad6325a9a6a1dc76c9f",
+      "disposition": "retained",
+      "public_anchor": "source-R0199",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0200",
+      "source_sha256": "0e2b598b78aca179cb4c2218e54c58f74da82aff7b49920f4ab1401a1a5d76c3",
+      "disposition": "retained",
+      "public_anchor": "source-R0200",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0201",
+      "source_sha256": "ddd4561067542475a1416ae1c764fcd2eb9ea9b88ab32a740151b98a65f24022",
+      "disposition": "retained",
+      "public_anchor": "source-R0201",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0202",
+      "source_sha256": "0221cb64ad36496dcf466659ae6c1c0189d2bb59daba2caa394c441f77edc56c",
+      "disposition": "retained",
+      "public_anchor": "source-R0202",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0203",
+      "source_sha256": "0c1e7af93d550ed6835bbf87d2c96be62fbc5404f89a600c89b0cae4b8223cb8",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0203",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0204",
+      "source_sha256": "5ce826cad9cc41fbd0b584ddf2464c8674372be407060ce442e220d46475c79d",
+      "disposition": "retained",
+      "public_anchor": "source-R0204",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0205",
+      "source_sha256": "2d087952aea67b072cf06726447367eb5ad2685348a5a7d54b7738e7e9ee6406",
+      "disposition": "retained",
+      "public_anchor": "source-R0205",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0206",
+      "source_sha256": "7937c31627660eb87fd579353aa4c9109eacf5ec8c266933979b0e815da47009",
+      "disposition": "retained",
+      "public_anchor": "source-R0206",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0207",
+      "source_sha256": "976027f6a51f085445ab6a7fdf06c6e8b37e7e946b548d087d942271b3b5bc56",
+      "disposition": "retained",
+      "public_anchor": "source-R0207",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0208",
+      "source_sha256": "aef90d58098c3977aa6ebeb907e20f8d2045ad29eae7e45f8d00cf4798d35a08",
+      "disposition": "retained",
+      "public_anchor": "source-R0208",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0209",
+      "source_sha256": "c0001ba14e59a9baf7e5e92d0179386b534461241ba65c0bf2740706cb6a497d",
+      "disposition": "retained",
+      "public_anchor": "source-R0209",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0210",
+      "source_sha256": "8f3482ada60daaadf9ef708e50f97dc7cd73a34c249a2aca9e5b707c4aca07eb",
+      "disposition": "heading",
+      "public_anchor": "source-R0210",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0211",
+      "source_sha256": "ef37d82e2ae1ef44cd7f00d2e89e39f6cc01208bc9a4bf01c80b3b7d0d37e1c9",
+      "disposition": "retained",
+      "public_anchor": "source-R0211",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0212",
+      "source_sha256": "045a4bd59c6e25078c6b99e2ae062708d26e5293472596de4e9fd560f6614f1a",
+      "disposition": "retained",
+      "public_anchor": "source-R0212",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0213",
+      "source_sha256": "23059ea14db6a27ed4d7666469e86e56f82922a212690ada1e77582c96014d3a",
+      "disposition": "retained",
+      "public_anchor": "source-R0213",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0214",
+      "source_sha256": "7b1fad02c915701d1765566e4088f139980d67be20c1e63e1c873bd5a772f3e1",
+      "disposition": "retained",
+      "public_anchor": "source-R0214",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0215",
+      "source_sha256": "11e51c15056d936ea8ffa59eda7ed58e19a02a18fc26ad310ab717368bc58a6f",
+      "disposition": "retained",
+      "public_anchor": "source-R0215",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0216",
+      "source_sha256": "a4d15b23fc429580a5d6af27b8103da31e35f5a1451d135858caf4116176cbaa",
+      "disposition": "retained",
+      "public_anchor": "source-R0216",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0217",
+      "source_sha256": "e04fb5dfd8c913eeba93cc5a54eed51d8f253e6f42021762fad73e4928d72d63",
+      "disposition": "retained",
+      "public_anchor": "source-R0217",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0218",
+      "source_sha256": "cf69bb8d9a7e89f81bdff0103ab502b7573257d5460fa6d86354fb61e5a2742f",
+      "disposition": "retained",
+      "public_anchor": "source-R0218",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0219",
+      "source_sha256": "b81f7bbcdab8b137d99aaa9e5ebf03ac9557e2e913b9e16cb5c6eed88356905c",
+      "disposition": "retained",
+      "public_anchor": "source-R0219",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0220",
+      "source_sha256": "d161a6f6b20d61b531693d85d7ecc3641e08afe65bf21c19d63f2180fa8e173d",
+      "disposition": "retained",
+      "public_anchor": "source-R0220",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0221",
+      "source_sha256": "09ca6603c5b616b1d776642ff412f23ffb0a128a011018412fa63efa220e9bcd",
+      "disposition": "retained",
+      "public_anchor": "source-R0221",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0222",
+      "source_sha256": "9525984906cb654a3ec11c9d0660dd8ba4583fdba0f75a9c9981de01a0c5d53a",
+      "disposition": "retained",
+      "public_anchor": "source-R0222",
+      "section": "Founder-led open-source product engineering"
+    },
+    {
+      "source_id": "R0223",
+      "source_sha256": "ce9ebdfb3707182216c403cf8e93202f3ee80012b997a7a1bd758d2712a81a2c",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0223",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0224",
+      "source_sha256": "465f5c785076c3b63871e313c251107bab6dbeedff44d7ee999b30dfcbbdba9b",
+      "disposition": "withheld-identifiers",
+      "public_anchor": "source-R0224",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0225",
+      "source_sha256": "a08e19394023322919ad49446eb61be1f845d96f9db5958eb6bdd82bd3432a4e",
+      "disposition": "retained",
+      "public_anchor": "source-R0225",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0226",
+      "source_sha256": "b63c762b700bc5af9c49a8a33d2a64ec133654286a2b9c3174aca1566cfe22aa",
+      "disposition": "retained",
+      "public_anchor": "source-R0226",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0227",
+      "source_sha256": "a1fae2fe9a86f3078f257b224606f90111a426d705eb1e73fd3f50d431ad1b58",
+      "disposition": "retained",
+      "public_anchor": "source-R0227",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0228",
+      "source_sha256": "a8c7ab61789adfaa2c05e9b7b96f968cb9193a0b6becff1d85869d9bef6a62dd",
+      "disposition": "retained",
+      "public_anchor": "source-R0228",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0229",
+      "source_sha256": "14afd7abb36257b6c67df00d4ffe0b1703e7ffcbfb4a4f7383e20ddae42a5be8",
+      "disposition": "retained",
+      "public_anchor": "source-R0229",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0230",
+      "source_sha256": "c0022f1c03a2e686f860874cfb077139176b881541be8f7b15b787655d210753",
+      "disposition": "heading",
+      "public_anchor": "source-R0230",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0231",
+      "source_sha256": "6c8183e3baa0908562662fae64b5c54e6d1f8789bf3d53dd5cab907606631749",
+      "disposition": "retained",
+      "public_anchor": "source-R0231",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0232",
+      "source_sha256": "91d0a8f4caba604c8077276576d3d42d5ef3706fccb82eb9bd61906020f99c45",
+      "disposition": "retained",
+      "public_anchor": "source-R0232",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0233",
+      "source_sha256": "0fdfc4fb8d82291c2b20c7fe996271e9642c8f3ee9413063e4bd954d1e79d879",
+      "disposition": "retained",
+      "public_anchor": "source-R0233",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0234",
+      "source_sha256": "150108fe1970e3ccbc3845907c4b81000516add9526026414d6d217515a0d28d",
+      "disposition": "retained",
+      "public_anchor": "source-R0234",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0235",
+      "source_sha256": "fdeb05002e26129a9501d868b5701b3fc0e9b9925a3e98df9a4e7d1b3aa05919",
+      "disposition": "retained",
+      "public_anchor": "source-R0235",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0236",
+      "source_sha256": "17782ffb9a312a8f0f02a952dd67805d1b44c62121e2e331d174d48cc9f6a413",
+      "disposition": "retained",
+      "public_anchor": "source-R0236",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0237",
+      "source_sha256": "dba28647732222e8b0ccead8e71e54e579ada08f406cabfd168d177395049602",
+      "disposition": "retained",
+      "public_anchor": "source-R0237",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0238",
+      "source_sha256": "7aa5c51f3bb73ade7bcdfa49c4f4879d794a037f422bfda05eb389b27d77d992",
+      "disposition": "heading",
+      "public_anchor": "source-R0238",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0239",
+      "source_sha256": "1f52e1e4fcc3cff5be8ca21dab8b81149848b5069bfc68c1ea81fc411dfb1d92",
+      "disposition": "retained",
+      "public_anchor": "source-R0239",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0240",
+      "source_sha256": "16f31f1243c62520eed81ae5c1f399ca3b017b08ff7968b574f97789922d7aed",
+      "disposition": "retained",
+      "public_anchor": "source-R0240",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0241",
+      "source_sha256": "66898ddd572e2564e97ad131aba4f6fe72993d6bf5da32038f7b6f30f1380c16",
+      "disposition": "retained",
+      "public_anchor": "source-R0241",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0242",
+      "source_sha256": "9847ec55b777f28f22ca11a94670c3b6113e8c6089452f4617458d28d4776fe5",
+      "disposition": "retained",
+      "public_anchor": "source-R0242",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0243",
+      "source_sha256": "241dbcc9822f119e059fd525ca56da30a82879e7704524df462ca5e559fb10a7",
+      "disposition": "retained",
+      "public_anchor": "source-R0243",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0244",
+      "source_sha256": "fa2f5b4d1143d247887ff6b7d4ee37b4b2b9e13d92c9d46cd760f0ba934a3ce1",
+      "disposition": "retained",
+      "public_anchor": "source-R0244",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0245",
+      "source_sha256": "9cfeaff2b495354ad06363923fbea8814c537d7d9c005c7dcb57798f96d425d7",
+      "disposition": "heading",
+      "public_anchor": "source-R0245",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0246",
+      "source_sha256": "c2d30ef4033838e60d0e9fd276b2606996b39eebc6dd081dc5f388895469c227",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0246",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0247",
+      "source_sha256": "d8a3ffc676f1395a19d8f418aadfc4ed0ab11915ca4ec675fcac05177098173b",
+      "disposition": "retained",
+      "public_anchor": "source-R0247",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0248",
+      "source_sha256": "ca5dafad615bb724799f0ab1d04e896a13dc69fa068800bb38b4d71a9bfcf22d",
+      "disposition": "retained",
+      "public_anchor": "source-R0248",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0249",
+      "source_sha256": "fd7d6fc668b521c4e2a326877f43cefab39e65b3b8797d5dfd3c5c82d3a63005",
+      "disposition": "retained",
+      "public_anchor": "source-R0249",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0250",
+      "source_sha256": "149ebf7f5d6257ac3bb8c9d25a93d0c182fd456d2fbbc43092924ec69e8c3d5d",
+      "disposition": "heading",
+      "public_anchor": "source-R0250",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0251",
+      "source_sha256": "d43d5aea00f56c65457874a30a23a7178a259e580b59b7abb06d391e08a3ecbf",
+      "disposition": "retained",
+      "public_anchor": "source-R0251",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0252",
+      "source_sha256": "145c35491a00e167687a14bd0d28636148e7e48e5ff944110b2ab0fa251b1e97",
+      "disposition": "retained",
+      "public_anchor": "source-R0252",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0253",
+      "source_sha256": "90dfc65756766e71612164ee6bae2b5fd37d9dcfc6a94101524f8524dee0742c",
+      "disposition": "retained",
+      "public_anchor": "source-R0253",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0254",
+      "source_sha256": "1f6340e8c73dae9bb947e02258140fb016d77e65727cd125a9a20bb9a7e2fc6a",
+      "disposition": "retained",
+      "public_anchor": "source-R0254",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0255",
+      "source_sha256": "8e29cb43136357d5009218f6fda86a844634aa3af11d906ee13e32af8acb4ddd",
+      "disposition": "heading",
+      "public_anchor": "source-R0255",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0256",
+      "source_sha256": "dbc7464821f901b9fa984126324321e520d91d4192688c9c486b96c175581a3b",
+      "disposition": "retained",
+      "public_anchor": "source-R0256",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0257",
+      "source_sha256": "99b3c3d2740c81a62cf686cbc02b0e7ff00e6b45d7b22aad2018c91be80ff5b3",
+      "disposition": "retained",
+      "public_anchor": "source-R0257",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0258",
+      "source_sha256": "710c0aae52f158bbc11ab2ddf0954049585c1304d131a9461ff44ab97554d679",
+      "disposition": "retained",
+      "public_anchor": "source-R0258",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0259",
+      "source_sha256": "3fab1377c5c2b1e17a2efd891fd6441fcd64d28e833d71f0bf8f633110f7d970",
+      "disposition": "retained",
+      "public_anchor": "source-R0259",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0260",
+      "source_sha256": "3615d0c1227464a37a44055704c387d037c5fe2f8e1a21543cc45b625808ad7f",
+      "disposition": "heading",
+      "public_anchor": "source-R0260",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0261",
+      "source_sha256": "1c302df35c24cf6afc1010044da1b211c75aac288e594ecbb755d7ee95badf7e",
+      "disposition": "retained",
+      "public_anchor": "source-R0261",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0262",
+      "source_sha256": "358589220911231749d545ec5b52ff79ef3f98d4754718a3a8a3031d870f9bc7",
+      "disposition": "retained",
+      "public_anchor": "source-R0262",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0263",
+      "source_sha256": "763c64a8deb22a3e27a6898e759b64a11a83538fa9dd8de97e5ba13aa37ea8db",
+      "disposition": "retained",
+      "public_anchor": "source-R0263",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0264",
+      "source_sha256": "1bd677a878c2d0d18ab57500ce0a808bb27baede4e0ec344d983c374f5dd12ac",
+      "disposition": "retained",
+      "public_anchor": "source-R0264",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0265",
+      "source_sha256": "ae1c88773af1bae6e3599735e5e3acee7e32f3ca5d42aac44fbcaf303b498d52",
+      "disposition": "heading",
+      "public_anchor": "source-R0265",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0266",
+      "source_sha256": "5e95bd001c751706efe52612b74a0d1e84cee3942813f6dbe8b192707fe8a4d8",
+      "disposition": "retained",
+      "public_anchor": "source-R0266",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0267",
+      "source_sha256": "066ef2842b8ee6fe416213bd440aab2ffb0f5a3241e820643e8876ea7f4ba212",
+      "disposition": "retained",
+      "public_anchor": "source-R0267",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0268",
+      "source_sha256": "98fba180a3b75d4cea3bf55fd627551fd5a029649bfb06e7e6aafd22949f1780",
+      "disposition": "retained",
+      "public_anchor": "source-R0268",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0269",
+      "source_sha256": "acd50744094006d293717a19cb8c964130300779a7b829cb565480976e631bcc",
+      "disposition": "retained",
+      "public_anchor": "source-R0269",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0270",
+      "source_sha256": "95ea53821a8e9a73b3f1e38a97242d3e86b3a4078cd3006afa2acecbd7e5c4f9",
+      "disposition": "heading",
+      "public_anchor": "source-R0270",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0271",
+      "source_sha256": "ea59fd30dc090c7ea8768f5229cf0246d346d3c0d46b787c90b21f4630ea62f9",
+      "disposition": "retained",
+      "public_anchor": "source-R0271",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0272",
+      "source_sha256": "d48c7889fb7d942ca4b9ce282a1777037ec732e2d57d6772f8a9debad9866da9",
+      "disposition": "retained",
+      "public_anchor": "source-R0272",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0273",
+      "source_sha256": "2bab97f0ada18b890e16a64d49f7709bf11044bf79e04adf2c8d9425f131c89a",
+      "disposition": "retained",
+      "public_anchor": "source-R0273",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0274",
+      "source_sha256": "0aa515b40068bc66850d1a95b96ec4a83f41ca7ab63edfd45c763bc0677f5a29",
+      "disposition": "retained",
+      "public_anchor": "source-R0274",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0275",
+      "source_sha256": "13398001dcbbcda6c1abbc8a0cd0a776f596ecdc18360a7631c0332337cf52a8",
+      "disposition": "retained",
+      "public_anchor": "source-R0275",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0276",
+      "source_sha256": "2e0eb7c824c5283c6c0683ce511b2ef0710b6e12f095bee2e76ad6a623c8b388",
+      "disposition": "heading",
+      "public_anchor": "source-R0276",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0277",
+      "source_sha256": "35a09859d8e08a5dfe08aec7f082b28d57fdc578916418e6ecfd83e6ad908e74",
+      "disposition": "retained",
+      "public_anchor": "source-R0277",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0278",
+      "source_sha256": "488e082aadf75211c7c344c43eade6f02f24a000a788b2aa693f107c88c88ec4",
+      "disposition": "retained",
+      "public_anchor": "source-R0278",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0279",
+      "source_sha256": "c2c61c9a8c892f8a0091986a5dd5de7de5bfbff9e052dcebcc26957111e67098",
+      "disposition": "retained",
+      "public_anchor": "source-R0279",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0280",
+      "source_sha256": "4fa898adf57ddc51f22db9c1f35946b6e7722a7d75e11201ea7e1240bdc1d052",
+      "disposition": "heading",
+      "public_anchor": "source-R0280",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0281",
+      "source_sha256": "9a1a1e7b13552e72945ad5ce577d2d328f27484e78cca0ef0218b465bc9e54b2",
+      "disposition": "retained",
+      "public_anchor": "source-R0281",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0282",
+      "source_sha256": "6466eadf1fca8f99dbd7278c882bf7a620250dc2df35de8d767d8b9075cc9ffb",
+      "disposition": "retained",
+      "public_anchor": "source-R0282",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0283",
+      "source_sha256": "fc7314c73948073d44a4f4c269ce4cc8c17f4884bcafc1f27eb2f38d893534a4",
+      "disposition": "retained",
+      "public_anchor": "source-R0283",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0284",
+      "source_sha256": "20a3677e5cfcdeb7171b40c8db101d531750b10902942c4c964d4c7b1131a71e",
+      "disposition": "heading",
+      "public_anchor": "source-R0284",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0285",
+      "source_sha256": "397f4cb99c6e2e73addb58d5d50ef3718203e1c6aaefad98b83481a19126aacd",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0285",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0286",
+      "source_sha256": "9e31659cbe5bfb760a73caebffe91896fe0b1f76df12df7777cd868342b039eb",
+      "disposition": "retained",
+      "public_anchor": "source-R0286",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0287",
+      "source_sha256": "cee7a213f9abd38b39178b17654ca40bcc11ee6a846b9b127929fc4699224ab4",
+      "disposition": "heading",
+      "public_anchor": "source-R0287",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0288",
+      "source_sha256": "b4972b3d1adbf5dedeab78785e95c277fb66b59748fb8a341f7f5c6b0da639da",
+      "disposition": "retained",
+      "public_anchor": "source-R0288",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0289",
+      "source_sha256": "b6c6ec70821e6abaffe8b88932eba20769e84e56f3f499e2d2e9a3386ab442e6",
+      "disposition": "retained",
+      "public_anchor": "source-R0289",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0290",
+      "source_sha256": "509a5537416e94bf3e2fa4a3a0d7228fbd7a3aa5862f8b6e914eaf73fff23009",
+      "disposition": "retained",
+      "public_anchor": "source-R0290",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0291",
+      "source_sha256": "2adebdd1a3772f28c46a71c58d188a62ae2b6a6a4ae91d78c4cea03ccef16e4b",
+      "disposition": "retained",
+      "public_anchor": "source-R0291",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0292",
+      "source_sha256": "70d23278a0497d6aa96e7b5231af0c6eac4664ccf14e25e55804ed43e1687cfc",
+      "disposition": "retained",
+      "public_anchor": "source-R0292",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0293",
+      "source_sha256": "cf5c9da8e56c3c6754fa374a0f5b93df94550b7f74cd74ebfaf0407d30d68da4",
+      "disposition": "heading",
+      "public_anchor": "source-R0293",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0294",
+      "source_sha256": "f188c69a5688b5f16a2d97d239ab31aad7c3d6f36a217f4476dd0dc36bfbcfbc",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0294",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0295",
+      "source_sha256": "3f6739083113af3cb0d8167b3432b52ffadeff364b64d8da3296ff78a9630884",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0295",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0296",
+      "source_sha256": "facdefd59ad48acc016e67eb2807d60c0bbab6244b9e89502349acab4a8193c0",
+      "disposition": "retained",
+      "public_anchor": "source-R0296",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0297",
+      "source_sha256": "306aa5cc759766a59809045fecd99d3e40c0d4e4b5cf51ce03f4ff4b8df0c247",
+      "disposition": "retained",
+      "public_anchor": "source-R0297",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0298",
+      "source_sha256": "28bffb15285d97f7079024979c86d095685ecba500e2fed081d3faf820362a5b",
+      "disposition": "heading",
+      "public_anchor": "source-R0298",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0299",
+      "source_sha256": "324edf221511d00959a21800d1f8830fe45eedb60ee89d0d901fc14fe220aa10",
+      "disposition": "retained",
+      "public_anchor": "source-R0299",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0300",
+      "source_sha256": "4a2f7d97d11a2bcfd9d9b347e9d27ec18994e86c7a301d0ec4951ba5d977c629",
+      "disposition": "retained",
+      "public_anchor": "source-R0300",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0301",
+      "source_sha256": "9f24631e687209fa40914405fb1edcf7a608a68fa9d3b6d423767dc79294e78f",
+      "disposition": "retained",
+      "public_anchor": "source-R0301",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0302",
+      "source_sha256": "3f917acf805d7324d89870574908e98f98d9630cefa6f3f2b54f6957e9e2d067",
+      "disposition": "retained",
+      "public_anchor": "source-R0302",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0303",
+      "source_sha256": "a4db85b8f0c97849161f004eb0850fbf4d3cceb430aac7d695c44d23105dbbfa",
+      "disposition": "retained",
+      "public_anchor": "source-R0303",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0304",
+      "source_sha256": "b98448644391adb624aea58f509cbf694306e8fb8df7beb7b690a2492cb8ecdc",
+      "disposition": "retained",
+      "public_anchor": "source-R0304",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0305",
+      "source_sha256": "5e58f99b6489482301532ff437890db8d76a8ff3f13927c96c63068098f391b2",
+      "disposition": "retained",
+      "public_anchor": "source-R0305",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0306",
+      "source_sha256": "077d2c46aaf665a3a62131d5e02fc4e671d994da923cadf5886053365db04220",
+      "disposition": "retained",
+      "public_anchor": "source-R0306",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0307",
+      "source_sha256": "a6735a693d0a164401d779ceb3d58a2c58758387fc748e794af02c4dfd7bd523",
+      "disposition": "retained",
+      "public_anchor": "source-R0307",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0308",
+      "source_sha256": "9371b8da3d912c2ba25ca73bd870a6ea0652dcbabd7fbd6631377397c81857f1",
+      "disposition": "retained",
+      "public_anchor": "source-R0308",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0309",
+      "source_sha256": "3676ab0f73c5f71e0b279045b57b5b4b1147eaaf44b4209a79e07144fb7238dd",
+      "disposition": "retained",
+      "public_anchor": "source-R0309",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0310",
+      "source_sha256": "f8a25e25aa35c56c78bb2215385e8e5764052a967e74cc2acb6780d6889d1b61",
+      "disposition": "retained",
+      "public_anchor": "source-R0310",
+      "section": "Multi-cloud and managed-service engineering"
+    },
+    {
+      "source_id": "R0311",
+      "source_sha256": "e7009ded6f9d60c7a009090ae573de0a3e8d0a7d3922e1a4d901f2356192cabf",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0311",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0312",
+      "source_sha256": "0fb49dea029be54146fc99398830020923cedb350a40eab4822d5a024347d8c8",
+      "disposition": "withheld-identifiers",
+      "public_anchor": "source-R0312",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0313",
+      "source_sha256": "59f48ad42dc5a44d5b7a456b41ae0333af03f4c50000251662e347bf3e5e42e4",
+      "disposition": "retained",
+      "public_anchor": "source-R0313",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0314",
+      "source_sha256": "b61737eed57da0c38a30bb4a38fd4e3161bf47f8148c39840ef2b1b9e3d07964",
+      "disposition": "retained",
+      "public_anchor": "source-R0314",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0315",
+      "source_sha256": "4a906f8c283904a484cdaaca70df2fb97eb7af7452386e01c448a46b62b3542c",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0315",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0316",
+      "source_sha256": "b80cab55a5eaec6638dbba5ec02160e4faa1ccc1baeccaeaafeaff3be5d0b3ee",
+      "disposition": "retained",
+      "public_anchor": "source-R0316",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0317",
+      "source_sha256": "3bd668468c75c0284447f55c5249de422bab2f0bb1e7a3ea564c1b59d02ed57f",
+      "disposition": "retained",
+      "public_anchor": "source-R0317",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0318",
+      "source_sha256": "15c0665ab1ed5e7b023249c5b6a76ffe4fd41cca2ea9f84a6e1c7bfa0ff8b10f",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0318",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0319",
+      "source_sha256": "b8f56a92a27283e222ba08e638c9a60ac6a4314ed2f663f24c957c559fe3e2de",
+      "disposition": "retained",
+      "public_anchor": "source-R0319",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0320",
+      "source_sha256": "8fbb9c9e449b14ae5e368788d9c40927df26fc41168b2fc1a44a6c1adf07832f",
+      "disposition": "retained",
+      "public_anchor": "source-R0320",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0321",
+      "source_sha256": "28181148e25e4436f178ca2313ac653e3ef5e05612b13fc60e59ae65775b7aff",
+      "disposition": "retained",
+      "public_anchor": "source-R0321",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0322",
+      "source_sha256": "3200a6808b8b73ac8ad41cdc5efd4d962f2ebdff774f1c1cfb2a40edfa3c577d",
+      "disposition": "retained",
+      "public_anchor": "source-R0322",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0323",
+      "source_sha256": "25e2e78a03fc331b25d123a1e0e1b8ebe7e5408cbc8a7cce37c1dcdf6c3a6497",
+      "disposition": "retained",
+      "public_anchor": "source-R0323",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0324",
+      "source_sha256": "a3fd869db11d2237c75b328cc2413b86bf69a200673a9a4ce64e0d133f25d135",
+      "disposition": "retained",
+      "public_anchor": "source-R0324",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0325",
+      "source_sha256": "3ea5acb839864b2d1dce46f4cee6a7edba77d7104923b14049e568bd8ebd80ef",
+      "disposition": "retained",
+      "public_anchor": "source-R0325",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0326",
+      "source_sha256": "c8ad213f8d0af9de1b979a6077ce42f28f7253b251a96d636c47f93028ff70af",
+      "disposition": "retained",
+      "public_anchor": "source-R0326",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0327",
+      "source_sha256": "56aa60c0c6c912397328b77d0ebf037d5aa27a7b325378b63aa153e4839da848",
+      "disposition": "retained",
+      "public_anchor": "source-R0327",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0328",
+      "source_sha256": "f1a3db89e12ee928e7a5633195c0e48e4fe5f0b948585179aa711075aebae714",
+      "disposition": "retained",
+      "public_anchor": "source-R0328",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0329",
+      "source_sha256": "3c53b780c796f66118eb02301968fc2cdef761ffb07114d38ce8459ba1b48cdc",
+      "disposition": "retained",
+      "public_anchor": "source-R0329",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0330",
+      "source_sha256": "ee4a83d31263c6e6d5054f6cb51e4397cd130d0b3eaa048119ce997581518830",
+      "disposition": "retained",
+      "public_anchor": "source-R0330",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0331",
+      "source_sha256": "db18ba3491fd77a07f6505e044669acfc8143b4a4775c51cd3a9dd42e55618d8",
+      "disposition": "retained",
+      "public_anchor": "source-R0331",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0332",
+      "source_sha256": "2f5fcb7d442c2708560e19c86975126e982fcdab73f51fdef286d7d49b5eb302",
+      "disposition": "retained",
+      "public_anchor": "source-R0332",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0333",
+      "source_sha256": "17bf292cb260412c498c4209e2fd528a84739cac63ece8bc313d4f260502c954",
+      "disposition": "retained",
+      "public_anchor": "source-R0333",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0334",
+      "source_sha256": "5884161111ceb96e3388ef853ba45be5cf7a23fc55e23aa81e5c00f65bbebea5",
+      "disposition": "retained",
+      "public_anchor": "source-R0334",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0335",
+      "source_sha256": "63c1105ece1cd630cd251095bbe6237745255f81830dc464d60c81daf3801a2b",
+      "disposition": "retained",
+      "public_anchor": "source-R0335",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0336",
+      "source_sha256": "6ad08ac36fedb5d0631a2bf6bfd1ebb20b46ee8491c3332857b05770e4c1e03e",
+      "disposition": "retained",
+      "public_anchor": "source-R0336",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0337",
+      "source_sha256": "3936b9770126b79af7aca74bdaa3aa1722c5338dbdaa48fa44456bdce290ddc0",
+      "disposition": "retained",
+      "public_anchor": "source-R0337",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0338",
+      "source_sha256": "5dc0c00382b893e2ad7d2ba8f1c434033d3516c1aeedb9ba61f07372ac703c85",
+      "disposition": "retained",
+      "public_anchor": "source-R0338",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0339",
+      "source_sha256": "2d3915c1ee16e4e76e99d5d92b88e1b2442d51faee87fcf455c0fa343e7876bb",
+      "disposition": "retained",
+      "public_anchor": "source-R0339",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0340",
+      "source_sha256": "1efd5c7ae9ef912aad899a54d3af007c5e38525e13e4e35ba21777d8eca70548",
+      "disposition": "retained",
+      "public_anchor": "source-R0340",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0341",
+      "source_sha256": "e4eaa21f3cf0ad3ad465ff0080790f39710ce596f0fd57d21a5a7c73b896e593",
+      "disposition": "retained",
+      "public_anchor": "source-R0341",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0342",
+      "source_sha256": "810d6ee6abdf9a2042ec5b3333f26bfaadb5f28af19fb2d3ce87a88250ab4f3e",
+      "disposition": "retained",
+      "public_anchor": "source-R0342",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0343",
+      "source_sha256": "e2151e2c84bd05485cf34a2c4ee25a0cab137e13856ffe64a09119c7d6beee5b",
+      "disposition": "retained",
+      "public_anchor": "source-R0343",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0344",
+      "source_sha256": "826f198090b33b3f20fab6d1412a468fe95b3143d8229833ecb0fae19162afc4",
+      "disposition": "retained",
+      "public_anchor": "source-R0344",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0345",
+      "source_sha256": "5879eccb1b92baeae1624aa0a0a490be8a8de927ed13a6d87ca4ee6c1f914b0f",
+      "disposition": "retained",
+      "public_anchor": "source-R0345",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0346",
+      "source_sha256": "e29540fbb9561a0fb094fdbaae79c4d1dd6b42b6f37ef4e7436a593250c994a6",
+      "disposition": "retained",
+      "public_anchor": "source-R0346",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0347",
+      "source_sha256": "d482b20005034dae15c6a47bf026732d29700bb86d271ec1526fab3148a7d0ba",
+      "disposition": "retained",
+      "public_anchor": "source-R0347",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0348",
+      "source_sha256": "a7ea2d08b7ac733a960622e2c70f2928370b8982dfc618b201fce7f228d8ffec",
+      "disposition": "retained",
+      "public_anchor": "source-R0348",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0349",
+      "source_sha256": "50f2db04a84efdd5db7748496a8b5b682abfea23306b098bd9b303118868e689",
+      "disposition": "retained",
+      "public_anchor": "source-R0349",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0350",
+      "source_sha256": "cfb460ca481d7d034fb51756b8c35c98987b2912bfc200c07bfceda45919526f",
+      "disposition": "retained",
+      "public_anchor": "source-R0350",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0351",
+      "source_sha256": "15a01420313c0e19e972bd19dfdabdc451555ebb1254b387de2008399d5f7b1f",
+      "disposition": "retained",
+      "public_anchor": "source-R0351",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0352",
+      "source_sha256": "e0843cc86db1d484c8e6c9da1cc841f16d066587384f371a444a02569f3cb826",
+      "disposition": "retained",
+      "public_anchor": "source-R0352",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0353",
+      "source_sha256": "b8fbe580bab47147a3f5c1f3787d7cdf938f34ae402225478a5dbde837142df0",
+      "disposition": "retained",
+      "public_anchor": "source-R0353",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0354",
+      "source_sha256": "8f3482ada60daaadf9ef708e50f97dc7cd73a34c249a2aca9e5b707c4aca07eb",
+      "disposition": "heading",
+      "public_anchor": "source-R0354",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0355",
+      "source_sha256": "98e0d992f7a762c5e45bffca386fa149786f4b8fae723a54e2c5040e08eeb123",
+      "disposition": "retained",
+      "public_anchor": "source-R0355",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0356",
+      "source_sha256": "6b2e060145638b1907765d12a527d5e5d09a5d46cb8c70981e0955d185634423",
+      "disposition": "retained",
+      "public_anchor": "source-R0356",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0357",
+      "source_sha256": "8eb3ac3144bd5899e7a9e834aff906e4934c47be985bbc55d45b6e6c1e75a70a",
+      "disposition": "retained",
+      "public_anchor": "source-R0357",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0358",
+      "source_sha256": "b2b90e3d4b01b3ca60b787598989c939c4f7c828226df87556d43af3f07bed5d",
+      "disposition": "retained",
+      "public_anchor": "source-R0358",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0359",
+      "source_sha256": "f53891c8b89eeedfdf131a79c87a53b28289e54f759935aff338bc8fa8a1c80c",
+      "disposition": "retained",
+      "public_anchor": "source-R0359",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0360",
+      "source_sha256": "2c4bedd37cf93edc177c56dc247d0c722cdd79c690fa91aaf2f8c3c55b86ad08",
+      "disposition": "retained",
+      "public_anchor": "source-R0360",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0361",
+      "source_sha256": "52edfce7f832922f9ac4332c131a9d1bce74b03e60a9198b680ce08bc4627594",
+      "disposition": "retained",
+      "public_anchor": "source-R0361",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0362",
+      "source_sha256": "1e967ae6fe0a375ee907963a923dc192a2ec92b6a7c9c02ebe3c2f5941a2f07d",
+      "disposition": "retained",
+      "public_anchor": "source-R0362",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0363",
+      "source_sha256": "c9913056246d9fb828d8341ace6ad6b1ff2898cd4627036f0d2ab3ef4f34961e",
+      "disposition": "retained",
+      "public_anchor": "source-R0363",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0364",
+      "source_sha256": "b6ccebba7fcaaea4ddd1654724fd1634d18cbe7d89e769206a7e7dfbe9df5637",
+      "disposition": "retained",
+      "public_anchor": "source-R0364",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0365",
+      "source_sha256": "55b72559d5de25041298d9055d5281b1912c3e9487e6677a3e5174a12b224d9a",
+      "disposition": "retained",
+      "public_anchor": "source-R0365",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0366",
+      "source_sha256": "fb8cffecf92c606633b990dc0068fa8365d3c1ae3d75f57e05720813a324d94f",
+      "disposition": "retained",
+      "public_anchor": "source-R0366",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0367",
+      "source_sha256": "50749612aa9f2591890485419bffcf59a66d9f03dcdf6cc138eb334c285d1e68",
+      "disposition": "retained",
+      "public_anchor": "source-R0367",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0368",
+      "source_sha256": "d7f4ed7dcf543ce78b88c26b3139746ef86b318a3f9855978d81b0bd8130779a",
+      "disposition": "retained",
+      "public_anchor": "source-R0368",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0369",
+      "source_sha256": "8e1ed1a341357b625652dc11f224787d59200127df364d767a5087910a642878",
+      "disposition": "retained",
+      "public_anchor": "source-R0369",
+      "section": "ISP, datacentre, systems and carrier engineering"
+    },
+    {
+      "source_id": "R0370",
+      "source_sha256": "d9941c76d73c64db0828c9d311fbe25482b77e49fd221b24211c4c8c1d7b35cd",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0370",
+      "section": "Microsoft 365 and legal-sector migration"
+    },
+    {
+      "source_id": "R0371",
+      "source_sha256": "9b51ef8623d384dfd8d4d4f8b7cfa46f6652db241c985046cb67be7ceb418ae0",
+      "disposition": "withheld-identifiers",
+      "public_anchor": "source-R0371",
+      "section": "Microsoft 365 and legal-sector migration"
+    },
+    {
+      "source_id": "R0372",
+      "source_sha256": "a61e053d2c3a06ef8cf687c7959b6e1b20f935b26e45540aaeffe8d0a4e1fd7a",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0372",
+      "section": "Microsoft 365 and legal-sector migration"
+    },
+    {
+      "source_id": "R0373",
+      "source_sha256": "a7d9f9b130b6cd6a840010f8465d20c556c6299c10ff882bbd4792b45590b3a7",
+      "disposition": "retained",
+      "public_anchor": "source-R0373",
+      "section": "Microsoft 365 and legal-sector migration"
+    },
+    {
+      "source_id": "R0374",
+      "source_sha256": "a9dee369c070842a89110c00dfaa6eb6a275545d0c64bcdea4772b8238d67814",
+      "disposition": "retained",
+      "public_anchor": "source-R0374",
+      "section": "Microsoft 365 and legal-sector migration"
+    },
+    {
+      "source_id": "R0375",
+      "source_sha256": "a53691132ae21593659f2fa2630f0c67aab0e1098f253cb9356c790f4e0962be",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0375",
+      "section": "Microsoft 365 and legal-sector migration"
+    },
+    {
+      "source_id": "R0376",
+      "source_sha256": "4b76566d86e33687f7446fb356b501f7a40ff1e158f73ae5aa55bce5ae5a12e1",
+      "disposition": "retained",
+      "public_anchor": "source-R0376",
+      "section": "Microsoft 365 and legal-sector migration"
+    },
+    {
+      "source_id": "R0377",
+      "source_sha256": "a7c70726b9d1978769dc6893f14e879b67d7ea8bc6b2124ce7a2865947606c99",
+      "disposition": "retained",
+      "public_anchor": "source-R0377",
+      "section": "Microsoft 365 and legal-sector migration"
+    },
+    {
+      "source_id": "R0378",
+      "source_sha256": "cfad967829001fc68059e675a4ad48c544de0ad6033030cf0f7741676a83e315",
+      "disposition": "retained",
+      "public_anchor": "source-R0378",
+      "section": "Microsoft 365 and legal-sector migration"
+    },
+    {
+      "source_id": "R0379",
+      "source_sha256": "77d433f77ce6e11699c6f05108c109c6c08e66ecc19a6f83f6b912a034a723f1",
+      "disposition": "retained",
+      "public_anchor": "source-R0379",
+      "section": "Microsoft 365 and legal-sector migration"
+    },
+    {
+      "source_id": "R0380",
+      "source_sha256": "6e9321a128454be951219e6a5c0d1dfa370304f108f8c9bf3902694d7fffe414",
+      "disposition": "retained",
+      "public_anchor": "source-R0380",
+      "section": "Microsoft 365 and legal-sector migration"
+    },
+    {
+      "source_id": "R0381",
+      "source_sha256": "01a611c199ba1578a9dc11a7a1740335aa6ff89e63ce155fb2ff38ed96d5edcc",
+      "disposition": "retained",
+      "public_anchor": "source-R0381",
+      "section": "Microsoft 365 and legal-sector migration"
+    },
+    {
+      "source_id": "R0382",
+      "source_sha256": "6b7fd20ffe1b6527fa6dde411ce9b52200ed2b8b022ee3fe7cbf8221aac7d22c",
+      "disposition": "retained",
+      "public_anchor": "source-R0382",
+      "section": "Microsoft 365 and legal-sector migration"
+    },
+    {
+      "source_id": "R0383",
+      "source_sha256": "453b4fd4aaf7c503176e18b6e57a436a7979708ce687e992188bb01663429ad9",
+      "disposition": "retained",
+      "public_anchor": "source-R0383",
+      "section": "Microsoft 365 and legal-sector migration"
+    },
+    {
+      "source_id": "R0384",
+      "source_sha256": "467ec507c1304fba317a1d5ce930df3aa57ca57977faf57a6552f55f16780de3",
+      "disposition": "retained",
+      "public_anchor": "source-R0384",
+      "section": "Microsoft 365 and legal-sector migration"
+    },
+    {
+      "source_id": "R0385",
+      "source_sha256": "ba4fdda534e1a49fad714517a98a34ab537b2dd6b7ac1ca44e8f85e63b77624e",
+      "disposition": "retained",
+      "public_anchor": "source-R0385",
+      "section": "Microsoft 365 and legal-sector migration"
+    },
+    {
+      "source_id": "R0386",
+      "source_sha256": "d1a0250f23a777955b96fb9a94a95a05f7ec166a81f6631eea45f40cce1d449b",
+      "disposition": "heading",
+      "public_anchor": "source-R0386",
+      "section": "Early international systems engineering"
+    },
+    {
+      "source_id": "R0387",
+      "source_sha256": "15ee06224e5692ac8e44a29de368e9db55b775467098e39cfed71067d682c34c",
+      "disposition": "withheld-identifiers",
+      "public_anchor": "source-R0387",
+      "section": "Early international systems engineering"
+    },
+    {
+      "source_id": "R0388",
+      "source_sha256": "0eb6f8dc1ae3139ba6ba8638f7cbd500cf2006ec276afd0b504ae6682754dea7",
+      "disposition": "retained",
+      "public_anchor": "source-R0388",
+      "section": "Early international systems engineering"
+    },
+    {
+      "source_id": "R0389",
+      "source_sha256": "dc670e0598681eba8969cd2f685cd5c521556badc66cd4e2adebaf14f7690006",
+      "disposition": "retained",
+      "public_anchor": "source-R0389",
+      "section": "Early international systems engineering"
+    },
+    {
+      "source_id": "R0390",
+      "source_sha256": "7c4145236295504f5357fd8ead84b11f8440550da59595799dfe46736adc27e7",
+      "disposition": "retained",
+      "public_anchor": "source-R0390",
+      "section": "Early international systems engineering"
+    },
+    {
+      "source_id": "R0391",
+      "source_sha256": "a0c90a7fb72fac82457e687b2c0a7d2cbfff6737061e63e2109b170327b16a28",
+      "disposition": "heading",
+      "public_anchor": "source-R0391",
+      "section": "Industry delivery"
+    },
+    {
+      "source_id": "R0392",
+      "source_sha256": "2ba5ef0b8cf74c6f8ad1f283b29d1969f8d353d7ccb3a100f79e6815dd888489",
+      "disposition": "retained",
+      "public_anchor": "source-R0392",
+      "section": "Industry delivery"
+    },
+    {
+      "source_id": "R0393",
+      "source_sha256": "5396689d2087646c544b9d31434eaef4032da760432f1119558a14acdb6e72fc",
+      "disposition": "heading",
+      "public_anchor": "source-R0393",
+      "section": "Industry delivery"
+    },
+    {
+      "source_id": "R0394",
+      "source_sha256": "aa5168d586f98d480e1b750e47643c43812e2b33b01fa88e393f0be632d11bc8",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0394",
+      "section": "Industry delivery"
+    },
+    {
+      "source_id": "R0395",
+      "source_sha256": "3ad3fd3df3b6d04e1113ff525069eef01ad74b9615254e1ea02d5a0c679b453e",
+      "disposition": "heading",
+      "public_anchor": "source-R0395",
+      "section": "Industry delivery"
+    },
+    {
+      "source_id": "R0396",
+      "source_sha256": "b31ab3ad3cf1919d1ff8b0bfac31fff7461e326b898b99eadddf196a431ec6f4",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0396",
+      "section": "Industry delivery"
+    },
+    {
+      "source_id": "R0397",
+      "source_sha256": "cec72d528d315ac0e276384e8cb492ea7681201cab68e65aba55611b2254b1bf",
+      "disposition": "heading",
+      "public_anchor": "source-R0397",
+      "section": "Industry delivery"
+    },
+    {
+      "source_id": "R0398",
+      "source_sha256": "42a6238f95a241089161f36389f8f25a61865f937ef502aa7a6c9342f4bec2e4",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0398",
+      "section": "Industry delivery"
+    },
+    {
+      "source_id": "R0399",
+      "source_sha256": "ec516e893fdefd9616b9c0dfa4e2d067af06fc4968fe576b0fe893feb2181686",
+      "disposition": "heading",
+      "public_anchor": "source-R0399",
+      "section": "Industry delivery"
+    },
+    {
+      "source_id": "R0400",
+      "source_sha256": "aefe0539d897583d84e57f448c778620fe181eb397f1b858a862bffb68bd0244",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0400",
+      "section": "Industry delivery"
+    },
+    {
+      "source_id": "R0401",
+      "source_sha256": "594de90a4d9149de8fa08f61e43569d3ee0b149a4e05be221bb92bd61e7110b5",
+      "disposition": "heading",
+      "public_anchor": "source-R0401",
+      "section": "Industry delivery"
+    },
+    {
+      "source_id": "R0402",
+      "source_sha256": "6b9a02d45af243defef5d88d289e27fb8c6a55b0c17c0943734aab9a2fc13031",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0402",
+      "section": "Industry delivery"
+    },
+    {
+      "source_id": "R0403",
+      "source_sha256": "b80fc31de126cbbf1dd199a56da25787bff4cb9dfa0aacfa1912630501d6fb6b",
+      "disposition": "heading",
+      "public_anchor": "source-R0403",
+      "section": "Industry delivery"
+    },
+    {
+      "source_id": "R0404",
+      "source_sha256": "3de649cce9a3e58b9201315d2bb6a70520a53276da80c764e81d8d64a20db108",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0404",
+      "section": "Industry delivery"
+    },
+    {
+      "source_id": "R0405",
+      "source_sha256": "7a002bb957ee59bddac57b3052a27912cde837aa72f90af8c5977a12e7b06e9a",
+      "disposition": "heading",
+      "public_anchor": "source-R0405",
+      "section": "Industry delivery"
+    },
+    {
+      "source_id": "R0406",
+      "source_sha256": "ed33ff35201e88a9c0d698749d925249125ec056342d271c64efef03924aa724",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0406",
+      "section": "Industry delivery"
+    },
+    {
+      "source_id": "R0407",
+      "source_sha256": "1c738d02b29528ff400d25be9fd2a26a84773f4b0159705c9edfdac9b9446eb6",
+      "disposition": "heading",
+      "public_anchor": "source-R0407",
+      "section": "Industry delivery"
+    },
+    {
+      "source_id": "R0408",
+      "source_sha256": "7185eb4ec9daac5fa4bf0fd5b5bf17dd04202fd8e094fd3b45289d2aebbb154f",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0408",
+      "section": "Industry delivery"
+    },
+    {
+      "source_id": "R0409",
+      "source_sha256": "b46b3682dcfdabd44b48ce026a7cff60ee01ecc7182eefff984032a45fb374fd",
+      "disposition": "heading",
+      "public_anchor": "source-R0409",
+      "section": "Industry delivery"
+    },
+    {
+      "source_id": "R0410",
+      "source_sha256": "7cad9429a7ad03bf63aec224532be7674b531bb1aa4b120cbfae0523c59ae2bb",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0410",
+      "section": "Industry delivery"
+    },
+    {
+      "source_id": "R0411",
+      "source_sha256": "29bf16113aa102b1565e57f86dbf05297f6f515b55f4791b03ab8f2c20cfd52c",
+      "disposition": "heading",
+      "public_anchor": "source-R0411",
+      "section": "Industry delivery"
+    },
+    {
+      "source_id": "R0412",
+      "source_sha256": "1728f46091d5c9762c2bcc669cce0a291267cf2eb72c59e40fb58f2206f6357a",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0412",
+      "section": "Industry delivery"
+    },
+    {
+      "source_id": "R0413",
+      "source_sha256": "1193258704b66babac77b87611be39a49b237d07a1290f69dbf581bd27b94812",
+      "disposition": "heading",
+      "public_anchor": "source-R0413",
+      "section": "Industry delivery"
+    },
+    {
+      "source_id": "R0414",
+      "source_sha256": "cb6102f181e4ec70954de9eaebde76db33119965c41fc6b0793f2a8642159c15",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0414",
+      "section": "Industry delivery"
+    },
+    {
+      "source_id": "R0415",
+      "source_sha256": "5f6d4f2dac6c499a714d392d8a08e540e0e9d07f6f4ee9ce8524d8cb3dcf8d9a",
+      "disposition": "heading",
+      "public_anchor": "source-R0415",
+      "section": "Industry delivery"
+    },
+    {
+      "source_id": "R0416",
+      "source_sha256": "74b4af945629ea92de9b04d3b20b9c29b6c2974fd2a03361892b7eb163dfbb8a",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0416",
+      "section": "Industry delivery"
+    },
+    {
+      "source_id": "R0417",
+      "source_sha256": "25c3308bcdc49ca36826fbe41a38f8525335489864ea299cca7f2090e0670b5c",
+      "disposition": "heading",
+      "public_anchor": "source-R0417",
+      "section": "Education, credentials and development"
+    },
+    {
+      "source_id": "R0418",
+      "source_sha256": "50e24b1a022615aad292f184f207c8c9b42ee68904ac69ff33ada915056258cc",
+      "disposition": "heading",
+      "public_anchor": "source-R0418",
+      "section": "Education, credentials and development"
+    },
+    {
+      "source_id": "R0419",
+      "source_sha256": "c623b8f3138d0969619c3a82fb6920883ab04bbf23a4f71cdbb8587de2398a34",
+      "disposition": "heading",
+      "public_anchor": "source-R0419",
+      "section": "Education, credentials and development"
+    },
+    {
+      "source_id": "R0420",
+      "source_sha256": "25687ad90728e5b626f82b767251647fcd90088c73b3dea912b7aa4f3cf5facd",
+      "disposition": "retained",
+      "public_anchor": "source-R0420",
+      "section": "Education, credentials and development"
+    },
+    {
+      "source_id": "R0421",
+      "source_sha256": "531fa1fde1a94d85cbf1c3536cabd9a548e8cd655afa11cbf5b42c98ba96dfc4",
+      "disposition": "heading",
+      "public_anchor": "source-R0421",
+      "section": "Education, credentials and development"
+    },
+    {
+      "source_id": "R0422",
+      "source_sha256": "c7bac46904be785cd0c965bf5659610044f0cdb4cbb02d2ec398dc56648988fd",
+      "disposition": "heading",
+      "public_anchor": "source-R0422",
+      "section": "Education, credentials and development"
+    },
+    {
+      "source_id": "R0423",
+      "source_sha256": "56739e7e05c3a4965aeabe82f438e3ac8c179553b4070c47bb44c41aa4bd6807",
+      "disposition": "retained",
+      "public_anchor": "source-R0423",
+      "section": "Education, credentials and development"
+    },
+    {
+      "source_id": "R0424",
+      "source_sha256": "a940fb838463b60b25dd42b20b34e564bad8c5795206b4796914771954bc7e48",
+      "disposition": "heading",
+      "public_anchor": "source-R0424",
+      "section": "Education, credentials and development"
+    },
+    {
+      "source_id": "R0425",
+      "source_sha256": "b42785f6f94334ff62258e4df1432397b8aff43816a7c92c1cb25d76c0be9bbf",
+      "disposition": "retained",
+      "public_anchor": "source-R0425",
+      "section": "Education, credentials and development"
+    },
+    {
+      "source_id": "R0426",
+      "source_sha256": "26e35a3a19933524a3c302d3434fba0c0938d33e8ba598a0d3d617de91e3aaa8",
+      "disposition": "heading",
+      "public_anchor": "source-R0426",
+      "section": "Education, credentials and development"
+    },
+    {
+      "source_id": "R0427",
+      "source_sha256": "4b42966259d243aea5445591a8800a7020d81fb26193ae57a227ac512c793fae",
+      "disposition": "retained",
+      "public_anchor": "source-R0427",
+      "section": "Education, credentials and development"
+    },
+    {
+      "source_id": "R0428",
+      "source_sha256": "e349cbb2af70b36c2011aa654e4b1a01c6c3b7b5d7416a2fc4dfc40993fa8f3b",
+      "disposition": "heading",
+      "public_anchor": "source-R0428",
+      "section": "Education, credentials and development"
+    },
+    {
+      "source_id": "R0429",
+      "source_sha256": "2709cc0f707f4e3382e43ca17cf16ca7c63497253cfa9f90ef466d2c1cf3a860",
+      "disposition": "retained",
+      "public_anchor": "source-R0429",
+      "section": "Education, credentials and development"
+    },
+    {
+      "source_id": "R0430",
+      "source_sha256": "80f921dc9023261e3c814707c896863d81af58f84e1bb20c0654fe3b609e0941",
+      "disposition": "heading",
+      "public_anchor": "source-R0430",
+      "section": "Education, credentials and development"
+    },
+    {
+      "source_id": "R0431",
+      "source_sha256": "8c49afeff35197eb89bdac24990e65616501f41860cb9a78067cc3b5fcc2fa7f",
+      "disposition": "retained",
+      "public_anchor": "source-R0431",
+      "section": "Education, credentials and development"
+    },
+    {
+      "source_id": "R0432",
+      "source_sha256": "5fd57b281d97ed1373277a0b747d37fd81cd1bbb3b83fed88dfe1ef619bef3ac",
+      "disposition": "heading",
+      "public_anchor": "source-R0432",
+      "section": "Education, credentials and development"
+    },
+    {
+      "source_id": "R0433",
+      "source_sha256": "e9495e58c0de00160abff6f9bcd5a45a15a0bc85fcb68dcbc95c6884b66e8919",
+      "disposition": "qualified",
+      "public_anchor": "source-R0433",
+      "section": "Education, credentials and development"
+    },
+    {
+      "source_id": "R0434",
+      "source_sha256": "829a6e1bc6fe6b382a4962323f433e3d11fdbfb594b178d3fac16e72d513148e",
+      "disposition": "heading",
+      "public_anchor": "source-R0434",
+      "section": "Education, credentials and development"
+    },
+    {
+      "source_id": "R0435",
+      "source_sha256": "7bec8405300c6599046285f3d6e9b92e4c6900bd67178d10e0cd635969450205",
+      "disposition": "retained",
+      "public_anchor": "source-R0435",
+      "section": "Education, credentials and development"
+    },
+    {
+      "source_id": "R0436",
+      "source_sha256": "cabfb44f96d09966ece78f468abc0445d728e90bbdcf2a9a817fbe77b5d47279",
+      "disposition": "heading",
+      "public_anchor": "source-R0436",
+      "section": "Complete technology and framework index"
+    },
+    {
+      "source_id": "R0437",
+      "source_sha256": "5ce6f271ecf446d8302d60939cc83e8e0a7fa854c719acbe9ec4c122d17b36d8",
+      "disposition": "heading",
+      "public_anchor": "source-R0437",
+      "section": "Complete technology and framework index"
+    },
+    {
+      "source_id": "R0438",
+      "source_sha256": "b9d9087d63e5d7d4fc89f6b553f007acaa7d9f4c3394c45f9bdb112b49671d73",
+      "disposition": "retained",
+      "public_anchor": "source-R0438",
+      "section": "Complete technology and framework index"
+    },
+    {
+      "source_id": "R0439",
+      "source_sha256": "01813915e99d276457d839e9792bdab523d4e8090d639a9f25acb629b30da925",
+      "disposition": "heading",
+      "public_anchor": "source-R0439",
+      "section": "Complete technology and framework index"
+    },
+    {
+      "source_id": "R0440",
+      "source_sha256": "f1fc07d74398a7527830a143cda669cc7a8071287184318cd9429a2ff6d52101",
+      "disposition": "retained",
+      "public_anchor": "source-R0440",
+      "section": "Complete technology and framework index"
+    },
+    {
+      "source_id": "R0441",
+      "source_sha256": "9b480cc1f9f0e31cac4beacd9d80903745386ae0ad03dd4852cba02615e1295f",
+      "disposition": "heading",
+      "public_anchor": "source-R0441",
+      "section": "Complete technology and framework index"
+    },
+    {
+      "source_id": "R0442",
+      "source_sha256": "653f6806c839c7cb5dcd51a57e886ca52e58c513bafc4f94628b48342fafbc00",
+      "disposition": "retained",
+      "public_anchor": "source-R0442",
+      "section": "Complete technology and framework index"
+    },
+    {
+      "source_id": "R0443",
+      "source_sha256": "a940fb838463b60b25dd42b20b34e564bad8c5795206b4796914771954bc7e48",
+      "disposition": "heading",
+      "public_anchor": "source-R0443",
+      "section": "Complete technology and framework index"
+    },
+    {
+      "source_id": "R0444",
+      "source_sha256": "665110c727868fe2d0d76b2a7ebac223ed9cb3f62fb4ecc555faeae5676a0a04",
+      "disposition": "retained",
+      "public_anchor": "source-R0444",
+      "section": "Complete technology and framework index"
+    },
+    {
+      "source_id": "R0445",
+      "source_sha256": "84db1bee433611efb9be16786a8efdba73330b631045d61036283bbb924b6b80",
+      "disposition": "heading",
+      "public_anchor": "source-R0445",
+      "section": "Complete technology and framework index"
+    },
+    {
+      "source_id": "R0446",
+      "source_sha256": "f20067a2a455ba6b506c95f96ee7a846cf1d76f1bee1fe4c5578ae5c27f0f269",
+      "disposition": "retained",
+      "public_anchor": "source-R0446",
+      "section": "Complete technology and framework index"
+    },
+    {
+      "source_id": "R0447",
+      "source_sha256": "a509f7c7a92e7ea257320571e9ffde0ff94ec9095be8a0484ab2a6059aa2655f",
+      "disposition": "heading",
+      "public_anchor": "source-R0447",
+      "section": "Complete technology and framework index"
+    },
+    {
+      "source_id": "R0448",
+      "source_sha256": "8835cbd1660ef7ec2aac70808498d1c5c53a4c136e4e8593fcdade1a211c67fd",
+      "disposition": "retained",
+      "public_anchor": "source-R0448",
+      "section": "Complete technology and framework index"
+    },
+    {
+      "source_id": "R0449",
+      "source_sha256": "49a93dfab483228a3742df21bf03d2b5abda32c0ead13a199d2134d0573245f0",
+      "disposition": "heading",
+      "public_anchor": "source-R0449",
+      "section": "Complete technology and framework index"
+    },
+    {
+      "source_id": "R0450",
+      "source_sha256": "573a83f5e7ea3f9c27d57eedb204de1d0669826926385102335fd40b15840f2a",
+      "disposition": "retained",
+      "public_anchor": "source-R0450",
+      "section": "Complete technology and framework index"
+    },
+    {
+      "source_id": "R0451",
+      "source_sha256": "0c5b426c43bf91cfa9e76317d00dc30bd1c3d84695cf2131f32361fedc43bd20",
+      "disposition": "heading",
+      "public_anchor": "source-R0451",
+      "section": "Complete technology and framework index"
+    },
+    {
+      "source_id": "R0452",
+      "source_sha256": "0d3f1afed34d82327d09020ea83d14367023e51e2827ea7c5ba34a9d094de851",
+      "disposition": "retained",
+      "public_anchor": "source-R0452",
+      "section": "Complete technology and framework index"
+    },
+    {
+      "source_id": "R0453",
+      "source_sha256": "2b07102d87350a8c98c57db5a30a40af0658f59bd89b2cb6b85ab953abaf294f",
+      "disposition": "heading",
+      "public_anchor": "source-R0453",
+      "section": "Complete technology and framework index"
+    },
+    {
+      "source_id": "R0454",
+      "source_sha256": "2a93f98d49fb59b1a603a3f6d9f60ac7af4fd5c79d5605c871d47799cc963f1d",
+      "disposition": "retained",
+      "public_anchor": "source-R0454",
+      "section": "Complete technology and framework index"
+    },
+    {
+      "source_id": "R0455",
+      "source_sha256": "b67118d16c5b903ec4d51b52169c8f4dc02f082e1ecc2da736a0e3dc038c740d",
+      "disposition": "heading",
+      "public_anchor": "source-R0455",
+      "section": "Complete technology and framework index"
+    },
+    {
+      "source_id": "R0456",
+      "source_sha256": "1f29395aa5cbc75e2ca78dd8cd1c37797001ca5f691c8d3ced5dac564b200262",
+      "disposition": "retained",
+      "public_anchor": "source-R0456",
+      "section": "Complete technology and framework index"
+    },
+    {
+      "source_id": "R0457",
+      "source_sha256": "aefa82ad762d6738f8a4c81bf8acca54dbed410e9df7662c367117fe10385d89",
+      "disposition": "heading",
+      "public_anchor": "source-R0457",
+      "section": "Complete technology and framework index"
+    },
+    {
+      "source_id": "R0458",
+      "source_sha256": "2811d3984797d6784dc402c648fb03a010649ff977bcd84a4b297fae1b6e67ee",
+      "disposition": "retained",
+      "public_anchor": "source-R0458",
+      "section": "Complete technology and framework index"
+    },
+    {
+      "source_id": "R0459",
+      "source_sha256": "d1f8a6926dbf3bad2967d64eb951660316852a649e95fb3139667917930199a9",
+      "disposition": "heading",
+      "public_anchor": "source-R0459",
+      "section": "Complete technology and framework index"
+    },
+    {
+      "source_id": "R0460",
+      "source_sha256": "39cc76d47a1704169b276814d67888f9169521f2b9e92f1bb52b92e72623df1d",
+      "disposition": "retained",
+      "public_anchor": "source-R0460",
+      "section": "Complete technology and framework index"
+    },
+    {
+      "source_id": "R0461",
+      "source_sha256": "27c9a293320d326d1397d7299fea1f48804d591ba5672bf07aedea1c575608d2",
+      "disposition": "heading",
+      "public_anchor": "source-R0461",
+      "section": "Complete technology and framework index"
+    },
+    {
+      "source_id": "R0462",
+      "source_sha256": "fcc9926c894c1cce93bce7598b0c95bbe4ea4e9723d8ce2bfe256b20a6b8a83e",
+      "disposition": "retained",
+      "public_anchor": "source-R0462",
+      "section": "Complete technology and framework index"
+    },
+    {
+      "source_id": "R0463",
+      "source_sha256": "ae36c609b2f25990c8788286bc30edf6253a84abaab68b1042eb07ffceeda50a",
+      "disposition": "heading",
+      "public_anchor": "source-R0463",
+      "section": "Complete technology and framework index"
+    },
+    {
+      "source_id": "R0464",
+      "source_sha256": "6c255aec534565876c82461a00875305dc9a4d7af49e7875201e9902ed3db087",
+      "disposition": "retained",
+      "public_anchor": "source-R0464",
+      "section": "Complete technology and framework index"
+    },
+    {
+      "source_id": "R0465",
+      "source_sha256": "2310f71655d4eabfe77231758ac9421fc155d2096d85324aed15b11e7e380a8b",
+      "disposition": "heading",
+      "public_anchor": "source-R0465",
+      "section": "Complete technology and framework index"
+    },
+    {
+      "source_id": "R0466",
+      "source_sha256": "dc3b3b52f5c69192c43e1bb4478e97565063d1783d70050c1e0bdaadb4ddef34",
+      "disposition": "retained",
+      "public_anchor": "source-R0466",
+      "section": "Complete technology and framework index"
+    },
+    {
+      "source_id": "R0467",
+      "source_sha256": "96c52cce72ebb4358a76de77f61d33e6b5dfa6af1d2afa1b31ffcf96728686e5",
+      "disposition": "heading",
+      "public_anchor": "source-R0467",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0468",
+      "source_sha256": "495e554b06168ccb521ddcde830332e5f76bf757d1899c0072e4f01713fae55b",
+      "disposition": "retained",
+      "public_anchor": "source-R0468",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0469",
+      "source_sha256": "1e9452eb5e4e2e1c104459fd4721692101c2f5f042f61020b7e2a65c88ea2b38",
+      "disposition": "retained",
+      "public_anchor": "source-R0469",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0470",
+      "source_sha256": "880d7e79b85a6916c91752d9ef0776a808b0972f86532d08621054afd7faac8f",
+      "disposition": "retained",
+      "public_anchor": "source-R0470",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0471",
+      "source_sha256": "aa91718398b9c5bb3bd0a5bd1e908146c6d9b732472917090556e5b321a4ea6b",
+      "disposition": "retained",
+      "public_anchor": "source-R0471",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0472",
+      "source_sha256": "d2cf5bf8bae876ede3df54357e98061d2d7baa95589e156217b33bf831c37c73",
+      "disposition": "retained",
+      "public_anchor": "source-R0472",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0473",
+      "source_sha256": "006cc714c6f03ea35d6f2c4acf24ff71b778673a60a8d4395ebc7ebc0cc6d31f",
+      "disposition": "retained",
+      "public_anchor": "source-R0473",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0474",
+      "source_sha256": "330e24bce8968dd75cf13682ab33a065fe50412c8b5131706e380c015bac4507",
+      "disposition": "retained",
+      "public_anchor": "source-R0474",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0475",
+      "source_sha256": "2c0fe1afb9ea912ae3df337d33e5266d89e668a5bf2edc2de5d6e61369f496dd",
+      "disposition": "retained",
+      "public_anchor": "source-R0475",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0476",
+      "source_sha256": "466c336897d3c51064ff9d382806b52bcea3673ccce2f9b9857a40150052b43f",
+      "disposition": "retained",
+      "public_anchor": "source-R0476",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0477",
+      "source_sha256": "06d4f3baf029576f5a17353473188ab28d21c5f4ca85e2099bf9194d2af8edb5",
+      "disposition": "retained",
+      "public_anchor": "source-R0477",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0478",
+      "source_sha256": "61f8f94b9cdde4795418f29b56a009fdb402b28dd8fd1a2be70cb0addc756b8c",
+      "disposition": "retained",
+      "public_anchor": "source-R0478",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0479",
+      "source_sha256": "bda2b9c85f59ee7b2fb8a47b2a3a43bfa626026a0903d0ddab7457a8a4d767ae",
+      "disposition": "retained",
+      "public_anchor": "source-R0479",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0480",
+      "source_sha256": "7c3843461c86d9a438b5debc7bbc874e4438331bd90e8671f697b1d9b453beb6",
+      "disposition": "retained",
+      "public_anchor": "source-R0480",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0481",
+      "source_sha256": "8c5055f237b1684f26f9620b761336c0401d982c22378358c56322d8aaf86379",
+      "disposition": "retained",
+      "public_anchor": "source-R0481",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0482",
+      "source_sha256": "208c9ea0da9361f5a1ded6ce0642252e0e13e4c6741b35ddd2d4567bfb0d8ed5",
+      "disposition": "retained",
+      "public_anchor": "source-R0482",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0483",
+      "source_sha256": "9c457e4718338b710b38a4edc7a5ccac216907d228ec85e9f4c8e5c600993b4b",
+      "disposition": "retained",
+      "public_anchor": "source-R0483",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0484",
+      "source_sha256": "147b2ef05c8c20b11ac4ec3fdef7895920cc697b44042b3be800eedec1075be9",
+      "disposition": "retained",
+      "public_anchor": "source-R0484",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0485",
+      "source_sha256": "b983d943b4145dcdd2f302c0fc615f33196e5cfbcf4a0812d7cdc0da94347f1f",
+      "disposition": "retained",
+      "public_anchor": "source-R0485",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0486",
+      "source_sha256": "825af7e3277cc8cc272b85e9ae78fd1999f28cdb8d1252a57caa02aa79bd66d2",
+      "disposition": "retained",
+      "public_anchor": "source-R0486",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0487",
+      "source_sha256": "117348d2f9b1580efafa95a1000d4747400725b607698317c69294aa80b7b890",
+      "disposition": "retained",
+      "public_anchor": "source-R0487",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0488",
+      "source_sha256": "de986b9059e3e9938b267b13dac0989b7790ca9d133ac4a11bd1e35f32ebd990",
+      "disposition": "retained",
+      "public_anchor": "source-R0488",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0489",
+      "source_sha256": "b9b438864790ee7add87a9a92fe4b2ef34cb576222e75d5727ac2598088495ea",
+      "disposition": "retained",
+      "public_anchor": "source-R0489",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0490",
+      "source_sha256": "824d3e475420535fc5ebbbcb3788067ee3cded3ac30b11abd5735ffce600dc86",
+      "disposition": "retained",
+      "public_anchor": "source-R0490",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0491",
+      "source_sha256": "8ba5d74655fcf1f748f726c84000facdef3e35d6cfb084573765812a0bfb6610",
+      "disposition": "retained",
+      "public_anchor": "source-R0491",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0492",
+      "source_sha256": "5f27dcef166e6b755c44b986822e8cde74e2c7b918d9a80ad731b826d20fac36",
+      "disposition": "retained",
+      "public_anchor": "source-R0492",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0493",
+      "source_sha256": "15fa532152c0ab6439dd7a2ce1c54e82005083a725f7cffd8f5effc9f021078c",
+      "disposition": "retained",
+      "public_anchor": "source-R0493",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0494",
+      "source_sha256": "3ef7e5a1034bd4e7af22bdb1d91cbb42c43462345ea2ea2eabf028eb0189ee2e",
+      "disposition": "retained",
+      "public_anchor": "source-R0494",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0495",
+      "source_sha256": "88b4738c1ae5cc1ba3b4de363826f2c1a3f31b7e0dbc192d7ad57eebd6d84dc4",
+      "disposition": "retained",
+      "public_anchor": "source-R0495",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0496",
+      "source_sha256": "ac0ee7bc9af513097577f920ee8da39faa11a07d2f78c34af6f70ebe5eeab8bb",
+      "disposition": "retained",
+      "public_anchor": "source-R0496",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0497",
+      "source_sha256": "c553204dc133ea2372c2fb0958f52e14da2983e5436e78dfd835dce6d4f21c08",
+      "disposition": "retained",
+      "public_anchor": "source-R0497",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0498",
+      "source_sha256": "9d47ec5719a577f3d1dc92ac8b7705c56389b1dea42173846bc87c0fc1b7953b",
+      "disposition": "retained",
+      "public_anchor": "source-R0498",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0499",
+      "source_sha256": "03eace184e6769af8210744ece296fc42eab4dc009364cb5b9d720a6a508a643",
+      "disposition": "retained",
+      "public_anchor": "source-R0499",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0500",
+      "source_sha256": "28393f12cbccff0eb3e36042096acbf6b60488a2f76013d0b82a8b7e1e8de151",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0500",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0501",
+      "source_sha256": "12a8858e93c8d15a876217952eda5c2cd13d0e6b36197168e1bf2ee6cd118c3f",
+      "disposition": "retained",
+      "public_anchor": "source-R0501",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0502",
+      "source_sha256": "e55cf381ab742b9d289af20fea5413c9d5deb6ffc6cf6c3bc28bed9e1117bf25",
+      "disposition": "retained",
+      "public_anchor": "source-R0502",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0503",
+      "source_sha256": "61f6131588b5468dd77e47312f0096053ba8d9a4d8be561294d4054b24c71d6f",
+      "disposition": "retained",
+      "public_anchor": "source-R0503",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0504",
+      "source_sha256": "e3de77eba65e78ee80bce3b1eda51b53394a74a709be497c4c6c37f58a4ffe2a",
+      "disposition": "retained",
+      "public_anchor": "source-R0504",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0505",
+      "source_sha256": "6c30f20aa2e2d158ea71ec8455c8990454908400987bec4d908b430266dc34dc",
+      "disposition": "retained",
+      "public_anchor": "source-R0505",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0506",
+      "source_sha256": "9a3ed76c8a86d2d23c9560939c5c6003433d8c4b5cfa48f1cdd4dfc4000b24f1",
+      "disposition": "retained",
+      "public_anchor": "source-R0506",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0507",
+      "source_sha256": "efdf86dcc9d00056c4e31b3997d7c19e08146a6a0aa55b4636caa71ed34afb5e",
+      "disposition": "retained",
+      "public_anchor": "source-R0507",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0508",
+      "source_sha256": "033e504be921866ad4d81ad5a42d5db13b054433abeae3b339e48cf4078d1029",
+      "disposition": "retained",
+      "public_anchor": "source-R0508",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0509",
+      "source_sha256": "78220d04ceaddcfae2d283745e6dc5a252dc10371026e83321372c8e0d020aff",
+      "disposition": "retained",
+      "public_anchor": "source-R0509",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0510",
+      "source_sha256": "8b51a26beac694869a8486b93e410892fa290795690a57a01e840ac816ae50c0",
+      "disposition": "retained",
+      "public_anchor": "source-R0510",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0511",
+      "source_sha256": "10db5b145b0ab25b3ab0136df52e0f60ee1c5f319ffa7f9a39d830d4516864cb",
+      "disposition": "retained",
+      "public_anchor": "source-R0511",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0512",
+      "source_sha256": "bbfbb9c73ffba2cb24d6c6e368c61f0a0ad056a9c9cd0bc4105e9b7dc95750aa",
+      "disposition": "retained",
+      "public_anchor": "source-R0512",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0513",
+      "source_sha256": "9614c6232cfbb9d6bcbd6c5a9ebdd98dde990bfbaf9c3441467365ba9f65705a",
+      "disposition": "retained",
+      "public_anchor": "source-R0513",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0514",
+      "source_sha256": "d2331968ee41b0b0a6eec316a883340bc2b152e1cde7f5667e7e52c49f526eb3",
+      "disposition": "retained",
+      "public_anchor": "source-R0514",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0515",
+      "source_sha256": "b58d486a3cd735f30248ef60bbf54264d2309b20e7995985ed142ea407feb7f2",
+      "disposition": "retained",
+      "public_anchor": "source-R0515",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0516",
+      "source_sha256": "9b8b8a5a8051bb69a256708d3508abe0cdffa00ce5e47d8d1026d592b64948b9",
+      "disposition": "retained",
+      "public_anchor": "source-R0516",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0517",
+      "source_sha256": "146e1eb8231e2ba88dbe2f774fd96486cc1cbf00f1529165b70efba605435a3c",
+      "disposition": "retained",
+      "public_anchor": "source-R0517",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0518",
+      "source_sha256": "f64f2d2b7055239614f92f10daa27ce3e5329a741ffa189e700cabe9d98f05da",
+      "disposition": "retained",
+      "public_anchor": "source-R0518",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0519",
+      "source_sha256": "db4bc305b825aafd7e6537eb30c2e99eed2ebf2b65922cdcc40be8ed8412bc13",
+      "disposition": "retained",
+      "public_anchor": "source-R0519",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0520",
+      "source_sha256": "15728e97847e8e4d0ad78b367906d1bbae39d4f396108642db89ec83ce11597c",
+      "disposition": "retained",
+      "public_anchor": "source-R0520",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0521",
+      "source_sha256": "847aca0134eadd474cb1addc5f370aaf66b2104872fdbdab3baae197d301a58b",
+      "disposition": "retained",
+      "public_anchor": "source-R0521",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0522",
+      "source_sha256": "1456925fd18098db06f9105309fbbada592e785875111b04c8b2c32f9c7575f1",
+      "disposition": "retained",
+      "public_anchor": "source-R0522",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0523",
+      "source_sha256": "da3773b5872d585bb1130418523f2984ecca8fb836f6be82d1034c04a502ffc1",
+      "disposition": "retained",
+      "public_anchor": "source-R0523",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0524",
+      "source_sha256": "8ed596b05bf7c25fc6441da5e3f2fcfc24ad21ef979f6073bc7a7ee1cc95ab50",
+      "disposition": "retained",
+      "public_anchor": "source-R0524",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0525",
+      "source_sha256": "5ff0d7b6866d04a4d602dd76d2c00bc31bfb25fbabc23069c42593a8debb1d2a",
+      "disposition": "retained",
+      "public_anchor": "source-R0525",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0526",
+      "source_sha256": "73c7f0e319da2c2e402853edd3ff09284271aee97cd40632307ac3bcf956a398",
+      "disposition": "retained",
+      "public_anchor": "source-R0526",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0527",
+      "source_sha256": "10e55e919bf1ec94979cedd7f507f7700811a160aa5c288a9e867fe4d8b1933a",
+      "disposition": "retained",
+      "public_anchor": "source-R0527",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0528",
+      "source_sha256": "64105ebcbb9369c69a72c2941bd7efb93971c0fa63ace55ec6406fd84cd564ca",
+      "disposition": "retained",
+      "public_anchor": "source-R0528",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0529",
+      "source_sha256": "96593e3009405ff43712810dce8eb077a8ecdb3feb66b25b606f95220c193065",
+      "disposition": "retained",
+      "public_anchor": "source-R0529",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0530",
+      "source_sha256": "5eec7f5c226f14e6eb347f7341e4c7e50f42509d74c10f5bafb732770bf25ade",
+      "disposition": "retained",
+      "public_anchor": "source-R0530",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0531",
+      "source_sha256": "a1ee790d58f1179c45e6054995e873ba03455abeee4343c460e925ce776906f1",
+      "disposition": "retained",
+      "public_anchor": "source-R0531",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0532",
+      "source_sha256": "4559df4a5381dca68d754c03d5c25ac29f29f708f54a81bedc641c2930d782ca",
+      "disposition": "retained",
+      "public_anchor": "source-R0532",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0533",
+      "source_sha256": "fa8367f1ec4f3ceb84e49871a4fa10862aa5704ed683ddf68ea53be8d9357c4e",
+      "disposition": "retained",
+      "public_anchor": "source-R0533",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0534",
+      "source_sha256": "7b08a7b44e9bf9187fd3216eaa76c6028c3037d83666cb2fde6a37d994cffbdd",
+      "disposition": "retained",
+      "public_anchor": "source-R0534",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0535",
+      "source_sha256": "201825bcd4e3025b718624f79be6aedf8da295a21ae28e80f621087d41a2bb67",
+      "disposition": "retained",
+      "public_anchor": "source-R0535",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0536",
+      "source_sha256": "0caa9b7ce91ea5a14ce900431fa7356cbf7c2b976eae7d946021bd73bafe90ef",
+      "disposition": "retained",
+      "public_anchor": "source-R0536",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0537",
+      "source_sha256": "10577584cb99047b00a260d762520673d0f53ec92bb543a9f33a21fe71816208",
+      "disposition": "retained",
+      "public_anchor": "source-R0537",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0538",
+      "source_sha256": "59560b8d955b0cf50f2ea89912800fc7cc6b5e1d09e9a7a60a183896d7dd6a42",
+      "disposition": "retained",
+      "public_anchor": "source-R0538",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0539",
+      "source_sha256": "559f66820c53306d1bfa4e5bb929cd810253fcffbbbafe313e5250ebf10c5a5f",
+      "disposition": "retained",
+      "public_anchor": "source-R0539",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0540",
+      "source_sha256": "8e60e1063f6853922c0c3a1d64b3246ac425841b8943bb7142e6eee9bb0cef96",
+      "disposition": "retained",
+      "public_anchor": "source-R0540",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0541",
+      "source_sha256": "158d01d18eb34ac75baf5a0292e38ebbc6240b176a613f08305aa043088a6981",
+      "disposition": "retained",
+      "public_anchor": "source-R0541",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0542",
+      "source_sha256": "87ffd79530e008681cc259f80218fe760fbcb92d7a61d36bacc8d10252a8bd31",
+      "disposition": "retained",
+      "public_anchor": "source-R0542",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0543",
+      "source_sha256": "49dfa63da3ba27b64af2da90fd7ed2877ce25bdab22aaea6a71044d112c256e3",
+      "disposition": "retained",
+      "public_anchor": "source-R0543",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0544",
+      "source_sha256": "4ae59ce7cdf3d0e390dfb5ad50b6ce991e5682cf38c3715c7fbda72bed707a8a",
+      "disposition": "retained",
+      "public_anchor": "source-R0544",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0545",
+      "source_sha256": "04d67044ee61a760aee3571233c4f9ecc185d9e9ec1300c917aa44459f4f995e",
+      "disposition": "retained",
+      "public_anchor": "source-R0545",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0546",
+      "source_sha256": "3ec5de77ae56b3b78b6d95a48a52026ee9572fa48233cc03f6c30f6edd2ab26d",
+      "disposition": "retained",
+      "public_anchor": "source-R0546",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0547",
+      "source_sha256": "3492d11865a3ff216102208da340647291ec956105feaa53e1e7346967a366c9",
+      "disposition": "retained",
+      "public_anchor": "source-R0547",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0548",
+      "source_sha256": "fb2715c54a0a5a78762e6821abfe47ae7bf78305ed57ededfd986d20cd2e878c",
+      "disposition": "retained",
+      "public_anchor": "source-R0548",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0549",
+      "source_sha256": "48a56c1e915a52194dcda378be96b6d31ee69e29206dfdbf43b8413ba52f8a97",
+      "disposition": "retained",
+      "public_anchor": "source-R0549",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0550",
+      "source_sha256": "e13661dee3c42b88778bd0a3b85b26620b7958714f5d983f9a5d23ac373133f1",
+      "disposition": "retained",
+      "public_anchor": "source-R0550",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0551",
+      "source_sha256": "d349bfa4b97b6683653b8a043e2498545b3d869cc42c6c8c5ac03d4791f3d79c",
+      "disposition": "retained",
+      "public_anchor": "source-R0551",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0552",
+      "source_sha256": "495b715fbe9f4975d4117cc03bceaa1054684552d2c5064c74085e4016f0d789",
+      "disposition": "retained",
+      "public_anchor": "source-R0552",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0553",
+      "source_sha256": "4eeffeaaf9c3b28d8361cb2a093265040559502941c9114ad29172388793add8",
+      "disposition": "retained",
+      "public_anchor": "source-R0553",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0554",
+      "source_sha256": "62acca341c6ed4ae38bb2f1fcba6d2ea90ae27b98c09b9cf458c8fd7936fd30d",
+      "disposition": "retained",
+      "public_anchor": "source-R0554",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0555",
+      "source_sha256": "918202ebed2760625b6ce8dee870684cca300f54ee08d1116a765c45dc473a04",
+      "disposition": "retained",
+      "public_anchor": "source-R0555",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0556",
+      "source_sha256": "7342b273fd8c8edda16805ca35c2c4f94b8bfcd666edce9c9a0bd65d0fa1f4f0",
+      "disposition": "retained",
+      "public_anchor": "source-R0556",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0557",
+      "source_sha256": "ec9a354c0cceea8ba8aa76bf4689312c18a2378bbaec60e399ef17136e25d9e5",
+      "disposition": "retained",
+      "public_anchor": "source-R0557",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0558",
+      "source_sha256": "6139083429b1d157827805004bb4e526c5632f6449021c871c570e08e4912cbe",
+      "disposition": "retained",
+      "public_anchor": "source-R0558",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0559",
+      "source_sha256": "fead6775cf303ac45c9c473a126d3b59943f82ca2433bcff7553d887f7bcab40",
+      "disposition": "retained",
+      "public_anchor": "source-R0559",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0560",
+      "source_sha256": "787c06b22aa966e9c61873c6526b886b8064306762f437e1c259926ac3c83c02",
+      "disposition": "retained",
+      "public_anchor": "source-R0560",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0561",
+      "source_sha256": "22119bf1d9f5dca9e386b32d42ca7b2c3a72e282cfdd61d371943c9917501167",
+      "disposition": "retained",
+      "public_anchor": "source-R0561",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0562",
+      "source_sha256": "395902708750ec7c1903f1027bef0a912d89f691bc5054671d7100013d44d609",
+      "disposition": "retained",
+      "public_anchor": "source-R0562",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0563",
+      "source_sha256": "7a6a0aec887a77aa8a7c680a15a0efab85fb0cb96a619bc9f8aaa081cd7a7bee",
+      "disposition": "retained",
+      "public_anchor": "source-R0563",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0564",
+      "source_sha256": "8bf8042ae44fa1bbecaa2b11108b82074bf3c121b65c1b5e5b49f0a2d1156562",
+      "disposition": "retained",
+      "public_anchor": "source-R0564",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0565",
+      "source_sha256": "f2db8d071b82ae47b8b3eb5f838ebbee4988312091227b1454b893dc6eee5631",
+      "disposition": "retained",
+      "public_anchor": "source-R0565",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0566",
+      "source_sha256": "34a50b8684cab998620996c941ede9ad7c79999d712bdffbfbb5bcc210908fed",
+      "disposition": "retained",
+      "public_anchor": "source-R0566",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0567",
+      "source_sha256": "eecd79b554399e2ddd6bce8ef87c2d647b9a09caf624f187e46e34edec414af3",
+      "disposition": "retained",
+      "public_anchor": "source-R0567",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0568",
+      "source_sha256": "cf70b73146f46a6608246441e2d3b1e28ffe7f2454ac5857e3515fb5bbd7a650",
+      "disposition": "retained",
+      "public_anchor": "source-R0568",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0569",
+      "source_sha256": "bad988fce53aaa2ab04bdf69c42abb7af4fb49f18882e14fcdcbee97a4256052",
+      "disposition": "retained",
+      "public_anchor": "source-R0569",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0570",
+      "source_sha256": "ec2fe267bba3847e67e1b08c2437356ad168dad25af49c1be250985aabc1de52",
+      "disposition": "retained",
+      "public_anchor": "source-R0570",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0571",
+      "source_sha256": "097e17adccb8e0d1143d5e751f2320e6c83b919e3156fab018b16ec51853eeca",
+      "disposition": "retained",
+      "public_anchor": "source-R0571",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0572",
+      "source_sha256": "09351367ee1d936d5da53fd7f29f1f4820b6a1e98807b57918c8fdf27c19f3f9",
+      "disposition": "retained",
+      "public_anchor": "source-R0572",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0573",
+      "source_sha256": "88800ad2c5b9304439a185960839c41d535724f0a40ab037fb3e59de8cce23bb",
+      "disposition": "retained",
+      "public_anchor": "source-R0573",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0574",
+      "source_sha256": "6f3fac31100ac2e612cc07cb3a400160352c3d9ca019f407c85edf27133d2a12",
+      "disposition": "retained",
+      "public_anchor": "source-R0574",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0575",
+      "source_sha256": "9791cb712db3160ddf40ea0d34804d260537a0b2b6528b0e0f722ee81e507270",
+      "disposition": "retained",
+      "public_anchor": "source-R0575",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0576",
+      "source_sha256": "08d8ccaee79cf2ad667c96b851cbf433da8df1f862cdfed31cb8302da38d084a",
+      "disposition": "retained",
+      "public_anchor": "source-R0576",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0577",
+      "source_sha256": "603c4b5316eb5dd9841dbf2f7c79fbfb414c62029298158ee4842e525a337237",
+      "disposition": "retained",
+      "public_anchor": "source-R0577",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0578",
+      "source_sha256": "3ebeddfb4306440cee8b83430c8d547c46b774e524c310fe0cf64aa75ad17f35",
+      "disposition": "retained",
+      "public_anchor": "source-R0578",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0579",
+      "source_sha256": "c95d8a49777bba32811a1beb56007dca0ff7790269e5b6bab4119fb056f9069b",
+      "disposition": "retained",
+      "public_anchor": "source-R0579",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0580",
+      "source_sha256": "95a89c684e0104d3ca0f560cc8484c632c076807a0e88284d85c228056d40879",
+      "disposition": "retained",
+      "public_anchor": "source-R0580",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0581",
+      "source_sha256": "59af2ad645b70c069d55e3bcf68acbe27811fce92171bf41f3de24ef352901c6",
+      "disposition": "retained",
+      "public_anchor": "source-R0581",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0582",
+      "source_sha256": "79a31b6dadb64708dc0b96d981289070be3360a5056d40e64cbad8abe333f43b",
+      "disposition": "retained",
+      "public_anchor": "source-R0582",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0583",
+      "source_sha256": "8631abcde412f1f44f16d0a658a2df911cf1b8691899c59e4f784df420d7f35d",
+      "disposition": "retained",
+      "public_anchor": "source-R0583",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0584",
+      "source_sha256": "5132abe20ee83261c5a1184d8fb522e7a0b4d5ac98296a3d83ea539c5b3d1bf8",
+      "disposition": "retained",
+      "public_anchor": "source-R0584",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0585",
+      "source_sha256": "dd4d0e8edfa578f7894efa8d10dd8815b3c3abdb8c842854de246a7bb5cf7501",
+      "disposition": "retained",
+      "public_anchor": "source-R0585",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0586",
+      "source_sha256": "1159f885313a4aa02d3ba220fb1b16fc9bca86a05bcda89e5a60ffa1a70e7403",
+      "disposition": "retained",
+      "public_anchor": "source-R0586",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0587",
+      "source_sha256": "2dc52eb2f43fb96e3c589457ba9946c0f88c70016dbfea2095267e8498dd8822",
+      "disposition": "retained",
+      "public_anchor": "source-R0587",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0588",
+      "source_sha256": "da587547c0127cce74defd7b652661393692653b34ba31c8242d799415cc3c33",
+      "disposition": "retained",
+      "public_anchor": "source-R0588",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0589",
+      "source_sha256": "e7e28d4f4f3e0bc392dd73675a6cdd996051d747d394fa0606dc411eba175891",
+      "disposition": "retained",
+      "public_anchor": "source-R0589",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0590",
+      "source_sha256": "c23cf18b2955af8749cbb5a9e6c67b26a1a7ec66d89aaaa632e058e44d97be97",
+      "disposition": "retained",
+      "public_anchor": "source-R0590",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0591",
+      "source_sha256": "d097f7e3af8aa7d934664b17449f6c898b08dc817ac3ced0f7f6aae83a876bc6",
+      "disposition": "retained",
+      "public_anchor": "source-R0591",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0592",
+      "source_sha256": "c5f277381f8f9ed98a91cc60428342e59332d1899c7ba7188351ead771b22630",
+      "disposition": "retained",
+      "public_anchor": "source-R0592",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0593",
+      "source_sha256": "f12baf07078a154df7e877ff3771ca27d93a00e377040fe333b621a15888bcab",
+      "disposition": "retained",
+      "public_anchor": "source-R0593",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0594",
+      "source_sha256": "eca89fa4f4efb39830a3ee019e5efdfef9bf533e210bf10b442debb69c61738f",
+      "disposition": "retained",
+      "public_anchor": "source-R0594",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0595",
+      "source_sha256": "3135784687712315de5c26a52754891a03116da4edcb4fb3f49b35cc0afa1f7d",
+      "disposition": "retained",
+      "public_anchor": "source-R0595",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0596",
+      "source_sha256": "d3b7fdf73616e0bad44ec2707e746620f59b7afa58da41946a3e063b55922c35",
+      "disposition": "retained",
+      "public_anchor": "source-R0596",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0597",
+      "source_sha256": "4914b11be6b88194e54e5f1ad76c74279133a6be3b21d462a230ff9ef62dc7a0",
+      "disposition": "retained",
+      "public_anchor": "source-R0597",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0598",
+      "source_sha256": "29243b7db2c77fe4a40ff90853de5f5149be19e55e6a056f0b3544ecbf49c278",
+      "disposition": "retained",
+      "public_anchor": "source-R0598",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0599",
+      "source_sha256": "61947d26f05acea659b716966f86b532f4c363ce9463a21a62aef573a66bda52",
+      "disposition": "retained",
+      "public_anchor": "source-R0599",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0600",
+      "source_sha256": "bb1bdbc2335a96782bd22f7b997966e06a23ad95f69ce8dc86d8ce10c9a1d687",
+      "disposition": "retained",
+      "public_anchor": "source-R0600",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0601",
+      "source_sha256": "3de760fc0aaffae20c14ffb54e4cc6f701a88c90ae6cff26e7bc4ca9691c18d5",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0601",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0602",
+      "source_sha256": "3ec1c026e6984579269494c794966ceb4280b2ea1f08b37b6571db7a86a0f758",
+      "disposition": "retained",
+      "public_anchor": "source-R0602",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0603",
+      "source_sha256": "4a8c42d4c60a568f1ef27061bb915c428e947826e8197c5ec6967176e35de9d8",
+      "disposition": "retained",
+      "public_anchor": "source-R0603",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0604",
+      "source_sha256": "c265a50df7256fdcb88e212c0d6a92c991a66f3452967211e84409a989f9e643",
+      "disposition": "retained",
+      "public_anchor": "source-R0604",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0605",
+      "source_sha256": "318c070228e5f3df871573921b97f298360d704fb4ef4780bc5d07e43cb7ff08",
+      "disposition": "retained",
+      "public_anchor": "source-R0605",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0606",
+      "source_sha256": "7d0afe543d4003954768cdc67bfa909102a50ad286d27039ac48d21483edbc90",
+      "disposition": "retained",
+      "public_anchor": "source-R0606",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0607",
+      "source_sha256": "f3cec3f018ed5a6645a3ca6c915065aad705f398c50f42d77d4a8d12b433bb04",
+      "disposition": "retained",
+      "public_anchor": "source-R0607",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0608",
+      "source_sha256": "1ed0953e0e502203ca1ab820e13e6924e5343904c0f56d6e00338b4e6e6644b6",
+      "disposition": "retained",
+      "public_anchor": "source-R0608",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0609",
+      "source_sha256": "ba3a976a491d3c66351c9fd279d7415cee013ab680c093c63c84e559b52d9d5f",
+      "disposition": "retained",
+      "public_anchor": "source-R0609",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0610",
+      "source_sha256": "2914fc7f108a08c394382725f2522d3139658001d56087dcf6974c497cd2632d",
+      "disposition": "retained",
+      "public_anchor": "source-R0610",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0611",
+      "source_sha256": "779f8e4822c50d2ed980ef24070e18ca7e12ce77e834378ddd47131e19090f56",
+      "disposition": "retained",
+      "public_anchor": "source-R0611",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0612",
+      "source_sha256": "e9440e42aeaeba44a9fd135e31f3e02b35727f3d6377467dcf531e1e17bb3250",
+      "disposition": "retained",
+      "public_anchor": "source-R0612",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0613",
+      "source_sha256": "02c29f4bae461149c15186cc9f77fd0284908a97e480d69d5bed4dbbaa93b651",
+      "disposition": "retained",
+      "public_anchor": "source-R0613",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0614",
+      "source_sha256": "53e08af27442005d615b7c16d98f057b5c3b69628178790dc3ecececb201f3ca",
+      "disposition": "retained",
+      "public_anchor": "source-R0614",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0615",
+      "source_sha256": "86a5b5b7055a7495fdd45e33d7987f2bc913bb322966fe50c099c30705f48ae7",
+      "disposition": "retained",
+      "public_anchor": "source-R0615",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0616",
+      "source_sha256": "f0b400a16a8483e9bca5607d1c9cab56b81933cd680f96a85bd297f14b7d77a7",
+      "disposition": "retained",
+      "public_anchor": "source-R0616",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0617",
+      "source_sha256": "7ee08e252e30c289b878f17c8a8f28b90a1a353da40931f4fe79378a165c9c6e",
+      "disposition": "retained",
+      "public_anchor": "source-R0617",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0618",
+      "source_sha256": "a714a7198300b191bec73c3a16b24b9314040f1da70701482aa75b28de40cdae",
+      "disposition": "anonymized",
+      "public_anchor": "source-R0618",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0619",
+      "source_sha256": "9f62e416b0344b0a2669ba1e1bfdfdb28c2cbc282c56441ef55042d07d674f9c",
+      "disposition": "retained",
+      "public_anchor": "source-R0619",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0620",
+      "source_sha256": "4c6085b593d8fee37036cae984147c8a4a51e2d76cc644fa6a4ce048aaf77a80",
+      "disposition": "retained",
+      "public_anchor": "source-R0620",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0621",
+      "source_sha256": "dfa5da8af2c8dc6ceeed1b334530a42c94734f71dfb8ebe82eb272320f943825",
+      "disposition": "retained",
+      "public_anchor": "source-R0621",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0622",
+      "source_sha256": "8809643802342bdf6251289df094ec34bdfb47e1c4ad54e6931fe6ff2512b7c8",
+      "disposition": "retained",
+      "public_anchor": "source-R0622",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0623",
+      "source_sha256": "b706325703400b5d907835ed157342a031aad948feabdced79055068835206a3",
+      "disposition": "retained",
+      "public_anchor": "source-R0623",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0624",
+      "source_sha256": "977a1ecae0fce39ac2b8009d5c1efd82dbc51a83fcf80f4c8fb3f07f41fbf566",
+      "disposition": "retained",
+      "public_anchor": "source-R0624",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0625",
+      "source_sha256": "1b1075fdea4a015c6cc86a7737eb6fee6aac3778542eab1f35a76f9c97a30774",
+      "disposition": "retained",
+      "public_anchor": "source-R0625",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0626",
+      "source_sha256": "4ee7cf3a94fd9b84d35bacfd4f47400f3e5a48973ace149a2fc4f476fc6bb467",
+      "disposition": "retained",
+      "public_anchor": "source-R0626",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0627",
+      "source_sha256": "d34106f84a5f0004fda2dee9cb6dc85c6f358733b23cdc7f215861581136d3e3",
+      "disposition": "retained",
+      "public_anchor": "source-R0627",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0628",
+      "source_sha256": "a517938332eb33488db26e6e4b53430dd8189e791f00ec0f1b864216f4179865",
+      "disposition": "retained",
+      "public_anchor": "source-R0628",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0629",
+      "source_sha256": "a6fc34a37d6f30f27c8a93b2945686c01ef4971be2ea4c748a1cfefbb577584d",
+      "disposition": "retained",
+      "public_anchor": "source-R0629",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0630",
+      "source_sha256": "8073423f27fd84975f41b2af3bdd9e4b188c77e6448bd825b12cca192bf3fa75",
+      "disposition": "retained",
+      "public_anchor": "source-R0630",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0631",
+      "source_sha256": "28791028ca9272888eabbdce99bb778cdd04bd3543f0917f9a444eeb7a92bd9c",
+      "disposition": "retained",
+      "public_anchor": "source-R0631",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0632",
+      "source_sha256": "eaebb53607c0bb5e5d3b8010be8aab2f810c162dc3fedeea6bb86983e57dd8a3",
+      "disposition": "retained",
+      "public_anchor": "source-R0632",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0633",
+      "source_sha256": "d8edd03e069d22c2943644f10ff095783beb782489395447970705925d52e1b3",
+      "disposition": "retained",
+      "public_anchor": "source-R0633",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0634",
+      "source_sha256": "c7329ccccdbe63ba73b87096ceb4be3988678e735b823b11310b89aeb678db4d",
+      "disposition": "retained",
+      "public_anchor": "source-R0634",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0635",
+      "source_sha256": "08c9d5fd6a837e1eb6f90941f98f3a84447fa2353234044f95c62e043d7ca656",
+      "disposition": "retained",
+      "public_anchor": "source-R0635",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0636",
+      "source_sha256": "a968e0f14c36f7bfced10a660de84b48ae33a941227b0599e729e44f67f5e703",
+      "disposition": "retained",
+      "public_anchor": "source-R0636",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0637",
+      "source_sha256": "14b3a38e804160c786a6ed1b7215d3d8d1685969d086a6df7d9521c3ad838c02",
+      "disposition": "retained",
+      "public_anchor": "source-R0637",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0638",
+      "source_sha256": "b92ccc3239a6a8010c037b3e56d4a7ffa983992b1c9db136a8c810a0c3ec4ac2",
+      "disposition": "retained",
+      "public_anchor": "source-R0638",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0639",
+      "source_sha256": "2b1554b01b2ddba837c27d550863cf8fa9d673e76b43298516f335fff68e3fe6",
+      "disposition": "retained",
+      "public_anchor": "source-R0639",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0640",
+      "source_sha256": "2ab0d09b2e18a13ab39ed19eaca025ffdff21ea3288670fa8a360671a7465bbf",
+      "disposition": "retained",
+      "public_anchor": "source-R0640",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0641",
+      "source_sha256": "ef047494559c33c2eef475d349073124361eeb09c52cc8972637d8c076007442",
+      "disposition": "retained",
+      "public_anchor": "source-R0641",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0642",
+      "source_sha256": "3bfb9bfcc16831f91b099199662666c12935ce93d581bfdb69f4695fb56cfab0",
+      "disposition": "retained",
+      "public_anchor": "source-R0642",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0643",
+      "source_sha256": "a6c1d9f06048b05e7ce28d222cf5c40c5ca8fd788246ab0ecf3d740bc266e337",
+      "disposition": "retained",
+      "public_anchor": "source-R0643",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0644",
+      "source_sha256": "0557cfab16accba26c2f19ef737fa57fc9381d6f2127ad06b354c75ee6c0ab98",
+      "disposition": "retained",
+      "public_anchor": "source-R0644",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0645",
+      "source_sha256": "023a14dc204b9d08ca718c73422865abfb7b83ecdec1e0eac77b6e384371f6ce",
+      "disposition": "retained",
+      "public_anchor": "source-R0645",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0646",
+      "source_sha256": "6e9552d868379ffabd167f9872d483711ec067ef967c7ed5bd84f8aa2aab6e41",
+      "disposition": "retained",
+      "public_anchor": "source-R0646",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0647",
+      "source_sha256": "ea8d24ef0b243352ee90571c4285a1e532ced125da517c15417b21044672c8d6",
+      "disposition": "retained",
+      "public_anchor": "source-R0647",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0648",
+      "source_sha256": "afff2de56a4997503473e87ac6187c2d394af42be1cb84ef0baf6df5b8056995",
+      "disposition": "retained",
+      "public_anchor": "source-R0648",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0649",
+      "source_sha256": "9bdaa17d8a8c2e50ea7fd7ceb34fd9c17637e777862b7faa0b802b9a6e8dcb67",
+      "disposition": "retained",
+      "public_anchor": "source-R0649",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0650",
+      "source_sha256": "747d0805db2bd047ec1d5fb4b1b78b3e304bee444b5beb75e265e38dc2915445",
+      "disposition": "retained",
+      "public_anchor": "source-R0650",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0651",
+      "source_sha256": "c23452ecf0f4459516a909c8671899bc286990e6418dc6256649cc2d21f43c82",
+      "disposition": "retained",
+      "public_anchor": "source-R0651",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0652",
+      "source_sha256": "67d482ebe4e49a38c4b9bf3c228085410ec566ac746765cbc5844a4e6a52de4a",
+      "disposition": "retained",
+      "public_anchor": "source-R0652",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0653",
+      "source_sha256": "d5bb5700e37ad0dc7ee1bde48e1dd4afaf5e23cccbf54923dce1b8c709f5f3c2",
+      "disposition": "retained",
+      "public_anchor": "source-R0653",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0654",
+      "source_sha256": "d4081420e4173cfd5a96e4e5e1b68466cb4fd71d1ea63368a4053f381e3803f4",
+      "disposition": "retained",
+      "public_anchor": "source-R0654",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0655",
+      "source_sha256": "0b6743c057d3f2d7745449c26cf0a2eae32e906278b3718226c87082292ba04e",
+      "disposition": "retained",
+      "public_anchor": "source-R0655",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0656",
+      "source_sha256": "be8a6e3893c2816d5fcd3139ae4cae704b0f93938347621d88112ebc918e3128",
+      "disposition": "retained",
+      "public_anchor": "source-R0656",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0657",
+      "source_sha256": "60d264a510029b6b216fc0cffc4248b91e85ff697d758faef28080afb15b0e22",
+      "disposition": "retained",
+      "public_anchor": "source-R0657",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0658",
+      "source_sha256": "228c0efff7476f6b6753134ceec1070f2ac7e0ec5f955754175a5ba0f3588da7",
+      "disposition": "retained",
+      "public_anchor": "source-R0658",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0659",
+      "source_sha256": "f8d166847162c20dc08b27fb1533169c96c146c095a37f6288195343ef886ad1",
+      "disposition": "retained",
+      "public_anchor": "source-R0659",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0660",
+      "source_sha256": "57298d80902c4ab297dc86fbbbb7d7e9c81739ac9d065bfc770dbc0e8a0027bf",
+      "disposition": "retained",
+      "public_anchor": "source-R0660",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0661",
+      "source_sha256": "56a595e19e8e85ca662a23a08e7a8838297ec1693698db80a410f235074c4b09",
+      "disposition": "retained",
+      "public_anchor": "source-R0661",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0662",
+      "source_sha256": "7ec81217d0f6e5c26d0d764594dfd40233a7db9623e51838b9e273a5afdc67a3",
+      "disposition": "retained",
+      "public_anchor": "source-R0662",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0663",
+      "source_sha256": "f1e471338ef6f80a50962a10a46c08b3f9b9381e6376238bfb49bbb7196519db",
+      "disposition": "retained",
+      "public_anchor": "source-R0663",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0664",
+      "source_sha256": "547cd625d345220afc9d7622adda7af8b8a0878a1b4edd05451b3b1ccc5ea730",
+      "disposition": "retained",
+      "public_anchor": "source-R0664",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0665",
+      "source_sha256": "3743432792f9121e6398ad604173f314e885e58eaeb39eb030ff5180353ebc19",
+      "disposition": "retained",
+      "public_anchor": "source-R0665",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0666",
+      "source_sha256": "097a3de26480fa7eb98b6e991da7ce4e8c1e4e7d8834bf84ac13f6ac23b255bd",
+      "disposition": "retained",
+      "public_anchor": "source-R0666",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0667",
+      "source_sha256": "52abe23a8a4eb7b2ecef896fccc4935a2c5a2cc28b2aa280573fd4ce4d6d231d",
+      "disposition": "retained",
+      "public_anchor": "source-R0667",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0668",
+      "source_sha256": "66984729dd3b26e8e55437d75db894d7e0f19ab9b6026f21f58dd1c22c72b62c",
+      "disposition": "retained",
+      "public_anchor": "source-R0668",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0669",
+      "source_sha256": "bb88ef699797418cd25b9950659c2e1f083db456899e8e9480a5a4ac1d369d73",
+      "disposition": "retained",
+      "public_anchor": "source-R0669",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0670",
+      "source_sha256": "63d20eba17f9af70f712d1de27a2a1e0bb1864e08f6f6be808d114799f29aff0",
+      "disposition": "retained",
+      "public_anchor": "source-R0670",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0671",
+      "source_sha256": "b5ceaaa6e75b4a492540a11ffc454f89dfbde0f7555fcda9155083812aaa90de",
+      "disposition": "retained",
+      "public_anchor": "source-R0671",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0672",
+      "source_sha256": "f4c10e553420858be30be3e9759cd62604dc64a821fea665e2d0300a8e9fcb57",
+      "disposition": "retained",
+      "public_anchor": "source-R0672",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0673",
+      "source_sha256": "a05e98c31fd83a2c79fd378a16372f2d037fee0b7ae891fb176cb1794f91dd0c",
+      "disposition": "retained",
+      "public_anchor": "source-R0673",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0674",
+      "source_sha256": "df1873beb4136fd1c69d62e012a553a6cb3aeec5c0d6f060acebbfe38d1ea674",
+      "disposition": "retained",
+      "public_anchor": "source-R0674",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0675",
+      "source_sha256": "b81ff63de3fd3fca276141354437f969fce4b461a4c554b08b03e043715a9e9f",
+      "disposition": "retained",
+      "public_anchor": "source-R0675",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0676",
+      "source_sha256": "af9f899053dd230b4610f39be5b634af2406911351f1770284518c4cf7cb2c5d",
+      "disposition": "retained",
+      "public_anchor": "source-R0676",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0677",
+      "source_sha256": "fed2266489ab0fca2985431a5cda2155e84516aa3939d6ad14b3c0740d490a9d",
+      "disposition": "qualified",
+      "public_anchor": "source-R0677",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0678",
+      "source_sha256": "a9ff686d315030948f6ca13e0590c7afb841f750070e4cd43cd4f58525ab3ef8",
+      "disposition": "retained",
+      "public_anchor": "source-R0678",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0679",
+      "source_sha256": "01c230e1a041ab37fe68b04139e69f9dd28e6b10ffac55bf917fc879594c672e",
+      "disposition": "retained",
+      "public_anchor": "source-R0679",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0680",
+      "source_sha256": "151e7fd64f345032d57c7901b45d31976f006cd92248f07c72b3260b426290c0",
+      "disposition": "retained",
+      "public_anchor": "source-R0680",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0681",
+      "source_sha256": "ae30703d0397a1c14a86a65e64c6a13ba5f4ecc78a5b193498fdbf1569c8741b",
+      "disposition": "retained",
+      "public_anchor": "source-R0681",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0682",
+      "source_sha256": "414cb25e655b835537ce1a3573e8fa88232c36ed03ec95aa1312694ce2ced1ab",
+      "disposition": "retained",
+      "public_anchor": "source-R0682",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0683",
+      "source_sha256": "54dd6c6334c82265785a18fdb2f3bb25d3f31781e5d8c159556907cb6c0f43bc",
+      "disposition": "retained",
+      "public_anchor": "source-R0683",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0684",
+      "source_sha256": "92770de714f2256770083f9eb7c70f09c3f49b6aa926eb46e8a4556bf61be211",
+      "disposition": "retained",
+      "public_anchor": "source-R0684",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0685",
+      "source_sha256": "ca0b2d3c466e4f32f84f009e719d42a4551a6903cd2fce49836c6c4be50422c9",
+      "disposition": "retained",
+      "public_anchor": "source-R0685",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0686",
+      "source_sha256": "d8ac2f429dcffa2399275fc3c7d9092801272e488ad3f17e1e11e218777390e2",
+      "disposition": "retained",
+      "public_anchor": "source-R0686",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0687",
+      "source_sha256": "9ee36bd4ba5e0f180d220ac1cce94abb9f7cada7f2a68399c2bc8b3cf711570d",
+      "disposition": "retained",
+      "public_anchor": "source-R0687",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0688",
+      "source_sha256": "00f6584b11f8e1dec6a9f150c26ebbd5790c9ffcfc96887588e7dc86fb0ecc22",
+      "disposition": "retained",
+      "public_anchor": "source-R0688",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0689",
+      "source_sha256": "a7d9190984ad2098beec1b91a1c3cdd99faa90582eed66132cb6513224930dac",
+      "disposition": "retained",
+      "public_anchor": "source-R0689",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0690",
+      "source_sha256": "f74302cc35bfb52d794a9fd171f3f8f6ec0ceb6f2a96c5bd284209e31db099d8",
+      "disposition": "retained",
+      "public_anchor": "source-R0690",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0691",
+      "source_sha256": "99d530bd832a9ed3da33e996b90dd86bc28c75231148cf77b878b9ba738389ec",
+      "disposition": "retained",
+      "public_anchor": "source-R0691",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0692",
+      "source_sha256": "ca5fb6a1e6c91d4c4f929ca8a06a157fe5eb5c23f9065880b53036ee1a5a5650",
+      "disposition": "retained",
+      "public_anchor": "source-R0692",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0693",
+      "source_sha256": "ca57e522fc0062cfef64d7ff5c56eb9f57db5b63f93e5595d34e0f4956c9fce0",
+      "disposition": "retained",
+      "public_anchor": "source-R0693",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0694",
+      "source_sha256": "9dc0e3b4907c0c2dd68ce98e7289e5a7130ba96ebb5ad5ce7e8033cfd52bcb16",
+      "disposition": "retained",
+      "public_anchor": "source-R0694",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0695",
+      "source_sha256": "729264034033413e96c1c363e8bca795d7f20fe4a0a5694d8ab6d7b660a87e10",
+      "disposition": "retained",
+      "public_anchor": "source-R0695",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0696",
+      "source_sha256": "2a3aea30e0b4fb9a802a07adbf2d0e14046418397c538d872d1f05ca60ea4729",
+      "disposition": "retained",
+      "public_anchor": "source-R0696",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0697",
+      "source_sha256": "7a7a3bd01fed67355d9868af79920dc322ce236be940d2d1aba74087058925a1",
+      "disposition": "retained",
+      "public_anchor": "source-R0697",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0698",
+      "source_sha256": "1d37b767cecd9a8d0b3535f9f854bb763d6f219a44eb54503f71afe34c504f97",
+      "disposition": "retained",
+      "public_anchor": "source-R0698",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0699",
+      "source_sha256": "c33b08d719d64ff39d5521b06f70ffcdc7dae77c0e89dd81a69747f8327bc0e4",
+      "disposition": "retained",
+      "public_anchor": "source-R0699",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0700",
+      "source_sha256": "da35f9422d9f751f23565e2326e25dd00064ce1098fcd22159873645c81286c2",
+      "disposition": "retained",
+      "public_anchor": "source-R0700",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0701",
+      "source_sha256": "82b88967370f369b4afdad9864cf94357fa9bd19fbd6325e763b4436aefa45a1",
+      "disposition": "retained",
+      "public_anchor": "source-R0701",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0702",
+      "source_sha256": "0fd4fd95edb497acf798cf3d3608408a537e66efe1ea2304acb17b275a3bef6e",
+      "disposition": "retained",
+      "public_anchor": "source-R0702",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0703",
+      "source_sha256": "65660a6867624666ecc8de6b6fe52defe29c6714033e15d3878b4cd8974f80da",
+      "disposition": "retained",
+      "public_anchor": "source-R0703",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0704",
+      "source_sha256": "299c7d3ccd7dcb5becb8f2e5bf0edc3eb124077ab277fdecdf97e233646b342d",
+      "disposition": "retained",
+      "public_anchor": "source-R0704",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0705",
+      "source_sha256": "ef08c0301ef47222a355c8fb4dafb826a16ed0654a2aa8ee0d4073256b13822f",
+      "disposition": "retained",
+      "public_anchor": "source-R0705",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0706",
+      "source_sha256": "4af56996423314e849ef90d59425732008837fdc3cc9657ed034362f368b1612",
+      "disposition": "retained",
+      "public_anchor": "source-R0706",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0707",
+      "source_sha256": "3cd40e22987018d17286f38fa83ad8fabed578b6547e176b466c41b659daa817",
+      "disposition": "retained",
+      "public_anchor": "source-R0707",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0708",
+      "source_sha256": "dc442ada4ac9e5b9c698606baa3ac210b27b101f7f851e20ff7b78bf217aa4b0",
+      "disposition": "retained",
+      "public_anchor": "source-R0708",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0709",
+      "source_sha256": "fe1e4758d832e9cfc8f75d5424b35e9a81091d83e47549bdfa9763184fd81243",
+      "disposition": "retained",
+      "public_anchor": "source-R0709",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0710",
+      "source_sha256": "7227123b928da853b689219a367d60b117cf31e3be8ef4f0266499cf7244c8c7",
+      "disposition": "retained",
+      "public_anchor": "source-R0710",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0711",
+      "source_sha256": "2c81be042391cc93eecc99704a5ec94b2a566cc5ea3bb33af6a199a357b0d6ea",
+      "disposition": "retained",
+      "public_anchor": "source-R0711",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0712",
+      "source_sha256": "8f23776ead13c0a2edfce61f40a2a42bd9a92a4b85081996d092aac352e64671",
+      "disposition": "retained",
+      "public_anchor": "source-R0712",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0713",
+      "source_sha256": "7d1ac863af42a3c77b015d3d8ed3198f09dc61f10d4f0882e1b9c42fcf498e22",
+      "disposition": "retained",
+      "public_anchor": "source-R0713",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0714",
+      "source_sha256": "79958920d1eb36b1da198589d8161b4574c9905d81e4920860dca52389cd3547",
+      "disposition": "retained",
+      "public_anchor": "source-R0714",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0715",
+      "source_sha256": "f5b9682555bb14c2c3275e69c755c966d540730c20c1db3b26208d6410c084ac",
+      "disposition": "retained",
+      "public_anchor": "source-R0715",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0716",
+      "source_sha256": "55fbe9e6f0f37e48447243e952d6f5a0a9365471a964a0e57cf499b8cb25aa3d",
+      "disposition": "retained",
+      "public_anchor": "source-R0716",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0717",
+      "source_sha256": "c1e0d7282ce7cbef73bfa4d83e620baaf26d13c27dc7739db38430c3b340eb71",
+      "disposition": "retained",
+      "public_anchor": "source-R0717",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0718",
+      "source_sha256": "b900d5ffda5f562baeaa976e241f9dfcd8c57eab958fb3ab516ba11e36aec95f",
+      "disposition": "retained",
+      "public_anchor": "source-R0718",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0719",
+      "source_sha256": "1090e23e035f9387609624a8762a2e8588836dfa87017287ec9e94e09c86a703",
+      "disposition": "retained",
+      "public_anchor": "source-R0719",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0720",
+      "source_sha256": "f7dd7cf4112e1d9cf4f6ae8a224d879d6782225e84644f5189a3922a45899765",
+      "disposition": "retained",
+      "public_anchor": "source-R0720",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0721",
+      "source_sha256": "9bbcd222a3c57d1e3ff344dc4eef635706a0de0bb97aa3d82b918b21472d7fea",
+      "disposition": "retained",
+      "public_anchor": "source-R0721",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0722",
+      "source_sha256": "55a6c43a1959f312007f0290f91464dcfd6e8aa18c962202e692d9cc3f8ac12a",
+      "disposition": "retained",
+      "public_anchor": "source-R0722",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0723",
+      "source_sha256": "9311ff26db74c45c990bcb48a589f93eb5af9408721a7f0901d240566b09f3aa",
+      "disposition": "retained",
+      "public_anchor": "source-R0723",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0724",
+      "source_sha256": "de36c7e233fef4c19c2e42c1ebf89dba784d3b11fb9959768c6a559f38346912",
+      "disposition": "heading",
+      "public_anchor": "source-R0724",
+      "section": "Project evidence and implementation detail"
+    },
+    {
+      "source_id": "R0725",
+      "source_sha256": "e16561cc71fc116a6f59ecf244cee5d4217f712739b519da705723f88b9ab5f9",
+      "disposition": "retained",
+      "public_anchor": "source-R0725",
+      "section": "Project evidence and implementation detail"
+    }
+  ],
+  "limitations": [
+    "This accounts for all 725 nonempty document-body paragraphs; it does not independently verify claims.",
+    "Client identifiers are withheld and identifying detail generalized.",
+    "Header/footer checked: footer contains only name, role and version.",
+    "Current product availability and credential validity are not inferred from source inclusion."
+  ]
+}

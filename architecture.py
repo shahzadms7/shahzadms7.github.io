@@ -2,11 +2,14 @@
 from pathlib import Path
 from html import escape
 import base64
+import textwrap
 ROOT=Path(__file__).parent
 
 def icon(name):
  p=ROOT/'assets/icons'/f'{name}.svg'
- return 'data:image/svg+xml;base64,'+base64.b64encode(p.read_bytes()).decode() if p.exists() else ''
+ if p.exists():return 'data:image/svg+xml;base64,'+base64.b64encode(p.read_bytes()).decode()
+ p=ROOT/'assets/icons'/f'{name}.png'
+ return 'data:image/png;base64,'+base64.b64encode(p.read_bytes()).decode() if p.exists() else ''
 
 def platform_strip():
  names=[('azure','Microsoft Azure'),('aws','Amazon Web Services'),('gcp','Google Cloud'),('microsoft','Microsoft 365'),('k8s','Kubernetes'),('terraform','Terraform'),('docker','Docker'),('python','Python'),('foundry','Microsoft Foundry'),('bedrock','Amazon Bedrock'),('vertex','Vertex AI'),('ai-search','Azure AI Search'),('sentinel','Microsoft Sentinel'),('azure-monitor','Azure Monitor'),('bigquery','BigQuery'),('databricks','Databricks')]
@@ -27,10 +30,12 @@ def svg(title, subtitle, nodes, edges, bands=()):
   out.append(f'<path d="{path}" class="edge"'+(' stroke-dasharray="6 4"' if mode else '')+'/>')
  for x,y,label,detail,im in nodes:
   out.append(f'<rect x="{x}" y="{y}" width="270" height="90" rx="10" fill="white" stroke="#a7bed2" stroke-width="1.5"/><rect x="{x}" y="{y}" width="5" height="90" rx="2" fill="#087f8c"/>')
-  if im:out.append(f'<image href="{icon(im)}" x="{x+14}" y="{y+16}" width="32" height="32"/>')
-  tx=x+(56 if im else 16)
-  out.append(f'<text x="{tx}" y="{y+32}" class="label">{escape(label)}</text>')
-  for j,line in enumerate(detail.split('|')):out.append(f'<text x="{x+16}" y="{y+58+j*17}" class="detail">{escape(line)}</text>')
+  if im and icon(im):out.append(f'<image href="{icon(im)}" x="{x+14}" y="{y+16}" width="32" height="32"/>')
+  tx=x+(56 if im and icon(im) else 16)
+  available=x+254-tx
+  label_size=min(17,available/max(1,len(label)*0.55))
+  out.append(f'<text x="{tx}" y="{y+32}" class="label" style="font-size:{label_size:.1f}px">{escape(label)}</text>')
+  for j,line in enumerate([part for line in detail.split('|') for part in textwrap.wrap(line,width=38)]):out.append(f'<text x="{x+16}" y="{y+58+j*17}" class="detail">{escape(line)}</text>')
  out.append('<text x="30" y="627" class="sub">Representative pattern • Services selected by workload • Client topology withheld</text></svg>')
  return ''.join(out)
 
@@ -65,12 +70,16 @@ VIEWS=[
  [(0,1,0),(1,2,0),(2,5,0),(3,4,0),(4,2,0),(6,3,1),(7,4,1),(8,5,1)],
  'Reference pattern for discussion, not a separate claimed client deployment. Governed retrieval supplies context to AI services; tools, output evaluation and access controls limit the workflow.')]
 
+from architecture_expansion import EXTRA_VIEWS
+VIEWS.extend(EXTRA_VIEWS)
+
 def architecture_section():
  out=['<section class="content architecture-section" id="architecture"><div class="wrap"><div class="section-head"><div><p class="eyebrow">Architecture / See how the systems connect</p><h2>From the big picture<br>to the working parts.</h2></div><p>Connected, presentation-style views for business and technical conversations. Open a view to explore it, or download its scalable diagram.</p></div><p class="diagram-disclaimer">Public reference patterns based on the experience catalog. These explain design choices, not confidential as-built client systems. Solid arrows: flow or dependency. Dashed arrows: controls, feedback or contingency.</p>']
+ out.append('<label for="architecture-search" class="sr-only">Search architecture views</label><input class="architecture-search" id="architecture-search" type="search" placeholder="Find an architecture: Linux, licensing, recovery, Oracle, medallion…"><div class="architecture-list">'+''.join(f'<a href="#architecture-{i}">{escape(title)}</a>' for i,title,*_ in VIEWS)+'</div>')
  d=ROOT/'assets/diagrams';d.mkdir(exist_ok=True)
  for i,title,sub,items,edges,desc in VIEWS:
   nodes=[(45+(j%3)*340,135+(j//3)*175,*n) for j,n in enumerate(items)]
-  content=svg(title,sub,nodes,edges,[(100,135,'ACCESS / FOUNDATION'),(275,135,'WORKLOAD / DATA'),(450,135,'OPERATIONS / CONTROLS')])
+  content=svg(title,sub,nodes,edges,[(100,135,'FOUNDATION / INPUTS'),(275,135,'SERVICES / WORKFLOW'),(450,135,'CONTROLS / OPERATIONS')])
   (d/f'architecture-{i}.svg').write_text(content)
   out.append(f'<details class="architecture-view" id="architecture-{i}" {"open" if i=="01" else ""}><summary><span><small>ARCHITECTURE {i}</small>{escape(title)}</span><span class="view-hint">Explore diagram</span></summary><div class="architecture-body"><p>{escape(desc)}</p><figure><img src="assets/diagrams/architecture-{i}.svg" width="1040" height="650" loading="lazy" alt="{escape(desc)}"></figure><div class="diagram-actions"><a class="btn" href="assets/diagrams/architecture-{i}.svg" target="_blank" rel="noopener">Open full size ↗</a><a class="btn" href="assets/diagrams/architecture-{i}.svg" download>Download SVG ↓</a></div></div></details>')
  out.append('<p class="note">Product names remain visible beside platform marks. Brand marks are not certifications or endorsements. <a href="ICON_SOURCES.md">Icon sources and attribution</a>.</p></div></section>')
